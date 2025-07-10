@@ -3,49 +3,19 @@
   "moduleName": "FinanceService",
   "contractorCategories": [
     {
-      "code": "Class A"
+      "code": "Class I"
     },
     {
-      "code": "Class B"
+      "code": "Class II"
     },
     {
-      "code": "Class C"
+      "code": "Class III"
     },
     {
-      "code": "Class D"
+      "code": "Class IV"
     },
     {
-      "code": "Class E"
-    },
-    {
-      "code": "Electrical Contractor"
-    },
-    {
-      "code": "Civil Contractor"
-    },
-    {
-      "code": "Mechanical Contractor"
-    },
-    {
-      "code": "Specialized Agency"
-    },
-    {
-      "code": "Labor Contractor"
-    },
-    {
-      "code": "Material Supplier"
-    },
-    {
-      "code": "Turnkey Contractor"
-    },
-    {
-      "code": "Consultant"
-    },
-    {
-      "code": "Vendor"
-    },
-    {
-      "code": "Others"
+      "code": "Class V"
     }
   ]
 }
