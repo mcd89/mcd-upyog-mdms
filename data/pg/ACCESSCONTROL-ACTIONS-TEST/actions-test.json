@@ -19728,16 +19728,16 @@
     {
       "id": 2930,
       "name": "Process Demand",
-      "navigationURL": "services/EGF/contra/processDemand-newForm.action",
       "url": "url",
-      "parentModule": "EGF",
+      "parentModule": "",
       "displayName": "Process Demand",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Contra.Process Demand"
+      "path": "Finance.Contra.Process Demand",
+      "navigationURL": "services/EGF/contra/processDemand"
     }
 	  
   ]
