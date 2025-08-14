@@ -11,11 +11,11 @@
         "id": 1,
         "boundaryNum": 1,
         "name": "Delhi",
-        "localname": "MCD",
+        "localname": "City A",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.mcd",
+        "code": "pg.citya",
         "children": [
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
@@ -3073,11 +3073,11 @@
         "id": 1,
         "boundaryNum": 1,
         "name": "Delhi",
-        "localname": "MCD",
+        "localname": "City A",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.mcd",
+        "code": "pg.citya",
         "children": [
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
