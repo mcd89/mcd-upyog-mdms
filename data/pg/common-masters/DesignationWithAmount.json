@@ -192,7 +192,9 @@
       "code": "DESIG_30",
       "name": "Commissioner",
       "description": "Commissioner",
-      "active": true
+      "active": true,
+       "minamount": 1000001,
+      "maxamount": 5000000
     },
     {
       "code": "DESIG_31",
