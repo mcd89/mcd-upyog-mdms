@@ -16,7 +16,7 @@
     },  
     {
       "departmentCode": "DEPT_01", 
-      "designationCodes": ["DESIG_25","DESIG_21","DESIG_28"]     
+      "designationCodes": ["DESIG_25","DESIG_21","DESIG_28", "DESIG_30"]     
     }
   ]
 }
