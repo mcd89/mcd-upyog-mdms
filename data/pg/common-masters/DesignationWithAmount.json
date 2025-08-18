@@ -506,7 +506,9 @@
       "code": "DESIG_82",
       "name": "DDO",
       "description": "DDO",
-      "active": true
+      "active": true,
+      "minamount": 0,
+      "maxamount": 50000000
     },
     {
       "code": "DESIG_83",
