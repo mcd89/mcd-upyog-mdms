@@ -270,6 +270,14 @@
       ]
     },
     {
+      "code": "ENG_HQ",
+      "departmentName": "Engineering Department",
+      "departmentCode": "DEPT_15",
+      "zoneName": "HQ",
+      "zoneCode": "HQZ",
+      "divisions": []
+    },
+    {
       "code": "ENG_WZ",
       "departmentName": "Engineering Department",
       "departmentCode": "DEPT_15",
