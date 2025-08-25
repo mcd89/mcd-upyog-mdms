@@ -7,7 +7,7 @@
       "code": "PGR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -21,7 +21,7 @@
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -31,11 +31,11 @@
         }
       ]
     },
-   {
+    {
       "module": "Finance",
       "code": "Finance",
       "active": true,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
           "code": "pg.citya"
@@ -45,11 +45,25 @@
         }
       ]
     },
-     {
+    {
       "module": "Finance2",
       "code": "Finance2",
       "active": true,
-      "order":1,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Budget",
+      "code": "Budget",
+      "active": true,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -63,7 +77,7 @@
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
           "code": "pg.citya"
@@ -74,7 +88,7 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -88,7 +102,7 @@
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "pg.citya"
@@ -102,7 +116,7 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
-      "order":6,
+      "order": 6,
       "tenants": [
         {
           "code": "pg.citya"
@@ -116,7 +130,7 @@
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -130,7 +144,7 @@
       "module": "NDSS",
       "code": "NDSS",
       "active": true,
-      "order":5,
+      "order": 5,
       "tenants": [
         {
           "code": "pg.citya"
@@ -145,7 +159,7 @@
       "code": "ASSET",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
