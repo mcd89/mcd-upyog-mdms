@@ -5,35 +5,56 @@
     {
       "serviceCode": "PTR",
       "componentCode": "CC01",
-      "componentName": "Property Tax",
+      "componentName": "CurrentDemand",
+      "debitGL": "4101001",     
+      "creditGL": "4201001"     
+    },
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC01",
+      "componentName": "PropertyTax",
       "debitGL": "4101001",     
       "creditGL": "4201001"     
     },
     {
       "serviceCode": "PTR",
       "componentCode": "CC02",
-      "componentName": "Education Cess",
+      "componentName": "Rebate",
+      "debitGL": "3503004",     
+      "creditGL": "3503004"     
+    },
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC02",
+      "componentName": "Exception",
       "debitGL": "4101002",     
       "creditGL": "4201001"     
     },
     {
       "serviceCode": "PTR",
+      "componentCode": "CC02",
+      "componentName": "EducationCess",
+      "debitGL": "3503004",     
+      "creditGL": "3503004"     
+    },
+    {
+      "serviceCode": "PTR",
       "componentCode": "CC03",
       "componentName": "Penalty",
-      "debitGL": "4102001",     
-      "creditGL": "4201001"
+      "debitGL": "1100108",     
+      "creditGL": "1100108"
     },
     {
       "serviceCode": "PTR",
       "componentCode": "CC04",
       "componentName": "Interest",
-      "debitGL": "4102002",     
-      "creditGL": "4201001"
+      "debitGL": "1100109",     
+      "creditGL": "1100109"
     },
     {
       "serviceCode": "SR02",
       "componentCode": "CC08",
-      "componentName": "Water Charges",
+      "componentName": "WaterCharges",
       "debitGL": "4111001",     
       "creditGL": "4201001"     
     },
