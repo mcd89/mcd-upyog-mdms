@@ -4,80 +4,166 @@
   "GLCodeMapping": [
     {
       "serviceCode": "PTR",
-      "componentCode": "CC01",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
       "componentName": "bank",
+      "componentCode": "CC01",
       "debitGL": "4502001",     
       "creditGL": "4502001"     
     },
+    ,
     {
       "serviceCode": "PTR",
-      "componentCode": "CC02",
-      "componentName": "currentDemand",
-      "debitGL": "4101001",     
-      "creditGL": "4201001"     
-    },
-    {
-      "serviceCode": "PTR",
-      "componentCode": "CC03",
-      "componentName": "propertyTax",
-      "debitGL": "4101001",     
-      "creditGL": "4201001"     
-    },
-    {
-      "serviceCode": "PTR",
-      "componentCode": "CC04",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
       "componentName": "rebate",
-      "debitGL": "3503004",     
-      "creditGL": "3503004"     
+      "componentCode": "CC02",
+      "debitGL": "3503004",
+      "creditGL": "3503004"
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC05",
-      "componentName": "exception",
-      "debitGL": "4101004",     
-      "creditGL": "4201004"     
-    },
-    {
-      "serviceCode": "PTR",
-      "componentCode": "CC06",
-      "componentName": "educationCess",
-      "debitGL": "3503004",     
-      "creditGL": "3503004"     
-    },
-    {
-      "serviceCode": "PTR",
-      "componentCode": "CC07",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
       "componentName": "penalty",
-      "debitGL": "1100108",     
-      "creditGL": "1100108"
+      "componentCode": "CC03",
+      "debitGL": "1100117",
+      "creditGL": "1100117"
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC08",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
       "componentName": "interest",
-      "debitGL": "1100109",     
-      "creditGL": "1100109"
+      "componentCode": "CC04",
+      "debitGL": "1100118",
+      "creditGL": "1100118"
     },
     {
-      "serviceCode": "SR02",
+      "serviceCode": "PTR",
+      "propertyCategory": "RESIDENTIAL",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "CC05",
+      "debitGL": "4311001",
+      "creditGL": "4311001"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "COMMERCIAL",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "CC06",
+      "debitGL": "4311003",
+      "creditGL": "4311003"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "STATE_GOVT",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "CC07",
+      "debitGL": "4311005",
+      "creditGL": "4311005"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "CENTRAL_GOVT",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "CC08",
+      "debitGL": "4311007",
+      "creditGL": "4311007"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "SICK_CLOSED",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
       "componentCode": "CC09",
-      "componentName": "WaterCharges",
-      "debitGL": "4111001",     
-      "creditGL": "4201001"     
+      "debitGL": "4311009",
+      "creditGL": "4311009"
     },
     {
-      "serviceCode": "SR02",
+      "serviceCode": "PTR",
+      "propertyCategory": "LITIGATION",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
       "componentCode": "CC10",
-      "componentName": "Meter Rent",
-      "debitGL": "4111002",
-      "creditGL": "4201001"
+      "debitGL": "4311011",
+      "creditGL": "4311011"
     },
     {
-      "serviceCode": "SR02",
+      "serviceCode": "PTR",
+      "propertyCategory": "MIXED_USE",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
       "componentCode": "CC11",
-      "componentName": "Sewerage",
-      "debitGL": "4112001",
-      "creditGL": "4201001"
+      "debitGL": "4311015",
+      "creditGL": "4311015"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "RESIDENTIAL",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC12",
+      "debitGL": "4311002",
+      "creditGL": "4311002"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "COMMERCIAL",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC13",
+      "debitGL": "4311004",
+      "creditGL": "4311004"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "STATE_GOVT",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC14",
+      "debitGL": "4311006",
+      "creditGL": "4311006"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "CENTRAL_GOVT",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC15",
+      "debitGL": "4311008",
+      "creditGL": "4311008"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "SICK_CLOSED",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC16",
+      "debitGL": "4311010",
+      "creditGL": "4311010"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "LITIGATION",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC17",
+      "debitGL": "4311012",
+      "creditGL": "4311012"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "MIXED_USE",
+      "taxPeriod": "ARREARS",
+      "componentName": "propertyTax",
+      "componentCode": "CC18",
+      "debitGL": "4311016",
+      "creditGL": "4311016"
     }
   ]
 }
