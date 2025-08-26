@@ -179,7 +179,7 @@
       "name": "Accounts Officer",
       "description": "Accounts Officer",
       "active": true,
-      "minamount": 1000001,
+      "minamount": 1,
       "maxamount": 5000000
     },
     {
