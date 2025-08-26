@@ -5,69 +5,76 @@
     {
       "serviceCode": "PTR",
       "componentCode": "CC01",
+      "componentName": "bank",
+      "debitGL": "4502001",     
+      "creditGL": "4502001"     
+    },
+    {
+      "serviceCode": "PTR",
+      "componentCode": "CC02",
       "componentName": "currentDemand",
       "debitGL": "4101001",     
       "creditGL": "4201001"     
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC01",
+      "componentCode": "CC03",
       "componentName": "propertyTax",
       "debitGL": "4101001",     
       "creditGL": "4201001"     
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC02",
+      "componentCode": "CC04",
       "componentName": "rebate",
       "debitGL": "3503004",     
       "creditGL": "3503004"     
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC02",
+      "componentCode": "CC05",
       "componentName": "exception",
       "debitGL": "4101004",     
       "creditGL": "4201004"     
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC02",
+      "componentCode": "CC06",
       "componentName": "educationCess",
       "debitGL": "3503004",     
       "creditGL": "3503004"     
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC03",
+      "componentCode": "CC07",
       "componentName": "penalty",
       "debitGL": "1100108",     
       "creditGL": "1100108"
     },
     {
       "serviceCode": "PTR",
-      "componentCode": "CC04",
+      "componentCode": "CC08",
       "componentName": "interest",
       "debitGL": "1100109",     
       "creditGL": "1100109"
     },
     {
       "serviceCode": "SR02",
-      "componentCode": "CC08",
+      "componentCode": "CC09",
       "componentName": "WaterCharges",
       "debitGL": "4111001",     
       "creditGL": "4201001"     
     },
     {
       "serviceCode": "SR02",
-      "componentCode": "CC09",
+      "componentCode": "CC10",
       "componentName": "Meter Rent",
       "debitGL": "4111002",
       "creditGL": "4201001"
     },
     {
       "serviceCode": "SR02",
-      "componentCode": "CC10",
+      "componentCode": "CC11",
       "componentName": "Sewerage",
       "debitGL": "4112001",
       "creditGL": "4201001"
