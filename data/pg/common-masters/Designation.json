@@ -673,6 +673,12 @@
       "name": "A&C",
       "description": "A&C",
       "active": true
+    },
+    {
+      "code": "DESIG_113",
+      "name": "Consultant",
+      "description": "Consultant",
+      "active": true
     }
   ]
 }
