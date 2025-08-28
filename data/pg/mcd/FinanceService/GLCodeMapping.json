@@ -105,7 +105,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "RESIDENTIAL",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "CC12",
       "debitGL": "4311002",
       "creditGL": "4311002"
