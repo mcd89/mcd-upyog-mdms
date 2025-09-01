@@ -74,6 +74,20 @@
       ]
     },
     {
+      "module": "JV",
+      "code": "JV",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
