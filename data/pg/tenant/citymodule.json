@@ -88,6 +88,76 @@
       ]
     },
     {
+      "module": "Administration",
+      "code": "Administration",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
+      "module": "ReportGeneration",
+      "code": "ReportGeneration",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
+      "module": "ConfigurationSetUp",
+      "code": "ConfigurationSetUp",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
+      "module": "RevenueAccounting",
+      "code": "RevenueAccounting",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Contra",
+      "code": "Contra",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
