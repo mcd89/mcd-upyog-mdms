@@ -144,6 +144,20 @@
       ]
     },
     {
+      "module": "ExpenditureAccounting",
+      "code": "ExpenditureAccounting",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.mcd"
+        }
+      ]
+    },
+    {
       "module": "Contra",
       "code": "Contra",
       "active": true,
