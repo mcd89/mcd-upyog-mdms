@@ -1,1 +1,54 @@
-
+{
+  "tenantId": "pg.mcd",
+  "moduleName": "FinanceModule",
+  "OwnershipTypeMapping": [
+    {
+      "id": "1",
+      "code": "SINGLE OWNER",
+      "name": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "INDIVIDUAL",
+      "name": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "3",
+      "code": "COMMERCIAL",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "4",
+      "code": "STATE_GOVT",
+      "name": "STATE_GOVT",
+      "active": true
+    },
+    {
+      "id": "5",
+      "code": "CENTRAL_GOVT",
+      "name": "CENTRAL_GOVT",
+      "active": true
+    },
+    {
+      "id": "6",
+      "code": "SICK_CLOSED",
+      "name": "SICK_CLOSED",
+      "active": true
+    },
+    {
+      "id": "7",
+      "code": "LITIGATION",
+      "name": "LITIGATION",
+      "active": true
+    },
+    {
+      "id": "8",
+      "code": "MIXED_USE",
+      "name": "MIXED_USE",
+      "active": true
+    }
+  ]
+}
