@@ -17,8 +17,8 @@
       "taxPeriod": "*",
       "componentName": "rebate",
       "componentCode": "CC02",
-      "debitGL": "3503004",
-      "creditGL": "3503004"
+      "debitGL": "1407007",
+      "creditGL": "1407007"
     },
     {
       "serviceCode": "PTR",
@@ -170,8 +170,8 @@
       "taxPeriod": "*",
       "componentName": "educationCess",
       "componentCode": "CC19",
-      "debitGL": "3503004",
-      "creditGL": "3503004"
+      "debitGL": "1105201",
+      "creditGL": "1105201"
     },
     {
       "serviceCode": "PTR",
