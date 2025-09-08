@@ -163,6 +163,24 @@
       "componentCode": "CC18",
       "debitGL": "4311016",
       "creditGL": "4311016"
-    }
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "educationCess",
+      "componentCode": "CC19",
+      "debitGL": "3503004",
+      "creditGL": "3503004"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "exemption",
+      "componentCode": "CC20",
+      "debitGL": "3503004",
+      "creditGL": "3503004"
+    },
   ]
 }
