@@ -8,8 +8,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "CC01",
-      "debitGL": "4502001",     
-      "creditGL": "4502001"     
+      "debitGL": "4502004",     
+      "creditGL": "4502004"     
     },
     {
       "serviceCode": "PTR",
@@ -24,7 +24,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "*",
       "taxPeriod": "*",
-      "componentName": "penalty",
+      "componentName": "latePenality",
       "componentCode": "CC03",
       "debitGL": "1100117",
       "creditGL": "1100117"
@@ -179,8 +179,26 @@
       "taxPeriod": "*",
       "componentName": "exemption",
       "componentCode": "CC20",
-      "debitGL": "3503004",
-      "creditGL": "3503004"
-    }
+      "debitGL": "1407007",
+      "creditGL": "1407007"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "CC21",
+      "debitGL": "1100117",
+      "creditGL": "1100117"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "onlineRebate",
+      "componentCode": "CC22",
+      "debitGL": "1407007",
+      "creditGL": "1407007"
+    },
   ]
 }
