@@ -49,6 +49,12 @@
       "code": "MIXED_USE",
       "name": "MIXED_USE",
       "active": true
+    },
+    {
+      "id": "2",
+      "code": "50001",
+      "name": "RESIDENTIAL",
+      "active": true
     }
   ]
 }
