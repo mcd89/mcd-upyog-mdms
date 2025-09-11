@@ -19511,7 +19511,7 @@
       "url": "url",
       "displayName": "Remittance Advice",
       "orderNumber": 8,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceReport",
       "code": "null",
       "navigationURL": "services/EGF/report/remittanceAdvice-Report.action",
