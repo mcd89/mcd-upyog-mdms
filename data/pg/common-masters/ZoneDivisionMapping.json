@@ -7,7 +7,7 @@
       "departmentName": "Engineering Department",
       "departmentCode": "DEPT_15",
       "zoneName": "CENTRAL ZONE",
-      "zoneCode": "CZ",
+      "zoneCode": "CNZ",
       "divisions": [
         {
           "divisionName": "M-I",
@@ -40,7 +40,7 @@
       "departmentName": "Engineering Department",
       "departmentCode": "DEPT_15",
       "zoneName": "CITY S P ZONE",
-      "zoneCode": "CSPZ",
+      "zoneCode": "CSP",
       "divisions": [
         {
           "divisionName": "M-I",
@@ -124,7 +124,7 @@
       "departmentName": "Engineering Department",
       "departmentCode": "DEPT_15",
       "zoneName": "NAJAFGARH ZONE",
-      "zoneCode": "NGZ",
+      "zoneCode": "NFZ",
       "divisions": [
         {
           "divisionName": "M-I",
@@ -274,7 +274,7 @@
       "departmentName": "Engineering Department",
       "departmentCode": "DEPT_15",
       "zoneName": "HQ",
-      "zoneCode": "HQZ",
+      "zoneCode": "HQ",
       "divisions": []
     },
     {
