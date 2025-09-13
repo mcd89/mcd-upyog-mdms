@@ -5,52 +5,52 @@
         {
             "cityName": "City A",
             "locale": "in_en",
-            "tenantId": "pg.citya"
+            "tenantId": "dl.citya"
         },
         {
             "cityName": "शहर अ",
             "locale": "in_hi",
-            "tenantId": "pg.citya"
+            "tenantId": "dl.citya"
         },
         {
             "cityName": "MCD",
             "locale": "in_en",
-            "tenantId": "pg.mcd"
+            "tenantId": "dl.mcd"
         },
         {
             "cityName": "शहर ब",
             "locale": "in_hi",
-            "tenantId": "pg.mcd"
+            "tenantId": "dl.mcd"
         },
         {
             "cityName": "City C",
             "locale": "in_en",
-            "tenantId": "pg.cityc"
+            "tenantId": "dl.cityc"
         },
         {
             "cityName": "शहर स",
             "locale": "in_hi",
-            "tenantId": "pg.cityc"
+            "tenantId": "dl.cityc"
         },
         {
             "cityName": "City D",
             "locale": "in_en",
-            "tenantId": "pg.cityd"
+            "tenantId": "dl.cityd"
         },
         {
             "cityName": "शहर डी",
             "locale": "in_hi",
-            "tenantId": "pg.cityd"
+            "tenantId": "dl.cityd"
         },
         {
             "cityName": "City E",
             "locale": "in_en",
-            "tenantId": "pg.citye"
+            "tenantId": "dl.citye"
         },
         {
             "cityName": "शहर ई",
             "locale": "in_hi",
-            "tenantId": "pg.citye"
+            "tenantId": "dl.citye"
         }
     ]
 }
