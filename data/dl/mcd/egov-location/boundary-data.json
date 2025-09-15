@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "CZ",
+            "code": "CNZ",
             "children": [
               {
                 "id": "7f7c0226-302b-4682-9b82-79b5968bfcd8",
@@ -16401,7 +16401,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "NGZ",
+            "code": "NFZ",
             "children": [
               {
                 "id": "9862d714-e781-4ffd-962a-d929f04d4e24",
@@ -30936,7 +30936,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "NSZ",
+            "code": "SNZ",
             "children": [
               {
                 "id": "e03bc046-1547-4ecb-b3e8-74f8f5b4fc7c",
@@ -61020,7 +61020,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "CZ",
+            "code": "CNZ",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -61215,7 +61215,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "NGZ",
+            "code": "NFZ",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -61293,7 +61293,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "NSZ",
+            "code": "SNZ",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
