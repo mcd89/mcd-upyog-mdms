@@ -3,9 +3,12 @@
   "moduleName": "common-masters",
   "ZoneDivisionMapping": [
     {
-      "code": "ENG_CZ",
+      "code": "ENG_CNZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "CENTRAL ZONE",
       "zoneCode": "CNZ",
       "divisions": [
@@ -36,9 +39,12 @@
       ]
     },
     {
-      "code": "ENG_CSPZ",
+      "code": "ENG_CSP",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "CITY S P ZONE",
       "zoneCode": "CSP",
       "divisions": [
@@ -59,7 +65,10 @@
     {
       "code": "ENG_CLZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "CIVIL LINE ZONE",
       "zoneCode": "CLZ",
       "divisions": [
@@ -80,7 +89,10 @@
     {
       "code": "ENG_KBZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "KAROL BAGH ZONE",
       "zoneCode": "KBZ",
       "divisions": [
@@ -101,7 +113,10 @@
     {
       "code": "ENG_KPZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "KESHAVPURAM ZONE",
       "zoneCode": "KPZ",
       "divisions": [
@@ -120,9 +135,12 @@
       ]
     },
     {
-      "code": "ENG_NGZ",
+      "code": "ENG_NFZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "NAJAFGARH ZONE",
       "zoneCode": "NFZ",
       "divisions": [
@@ -147,7 +165,10 @@
     {
       "code": "ENG_NZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "NARELA ZONE",
       "zoneCode": "NZ",
       "divisions": [
@@ -168,7 +189,10 @@
     {
       "code": "ENG_SNZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "SHAHDARA NORTH ZONE",
       "zoneCode": "SNZ",
       "divisions": [
@@ -197,7 +221,10 @@
     {
       "code": "ENG_RZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "ROHINI ZONE",
       "zoneCode": "RZ",
       "divisions": [
@@ -218,7 +245,10 @@
     {
       "code": "ENG_SSZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "SHAHDARA SOUTH ZONE",
       "zoneCode": "SSZ",
       "divisions": [
@@ -247,7 +277,10 @@
     {
       "code": "ENG_SZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "SOUTH ZONE",
       "zoneCode": "SZ",
       "divisions": [
@@ -272,7 +305,10 @@
     {
       "code": "ENG_HQ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "HQ",
       "zoneCode": "HQ",
       "divisions": []
@@ -280,7 +316,10 @@
     {
       "code": "ENG_WZ",
       "departmentName": "Engineering Department",
-      "departmentCode": "DEPT_15",
+      "departmentCode": [
+        "110",
+        "111"
+      ],
       "zoneName": "WEST ZONE",
       "zoneCode": "WZ",
       "divisions": [
