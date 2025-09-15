@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "ZoneDivisionMapping": [
     {
-      "code": "ENG_CZ",
+      "code": "ENG_CNZ",
       "departmentName": "Engineering Department",
       "departmentCode": [
         "110",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "code": "ENG_CSPZ",
+      "code": "ENG_CSP",
       "departmentName": "Engineering Department",
       "departmentCode": [
         "110",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "code": "ENG_NGZ",
+      "code": "ENG_NFZ",
       "departmentName": "Engineering Department",
       "departmentCode": [
         "110",
