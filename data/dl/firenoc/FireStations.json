@@ -11,21 +11,6 @@
       "code": "FS_CITYB_01",
       "baseTenantId": "dl.mcd",
       "active": true
-    },
-    {
-      "code": "FS_CITYC_01",
-      "baseTenantId": "dl.cityc",
-      "active": true
-    },
-    {
-      "code": "FS_CITYD_01",
-      "baseTenantId": "dl.cityd",
-      "active": true
-    },
-    {
-      "code": "FS_CITYE_01",
-      "baseTenantId": "dl.citye",
-      "active": true
     }
   ]
 }
