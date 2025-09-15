@@ -4462,7 +4462,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "CSPZ",
+            "code": "CSP",
             "children": [
               {
                 "id": "633f15ca-6283-4203-a4e5-f81496d157e0",
@@ -61059,7 +61059,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "CSPZ",
+            "code": "CSP",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
