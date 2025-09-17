@@ -16,14 +16,14 @@
     },
     {
       "code": "DESIG_03",
-      "name": "Asst. Engineer ( B&R)",
-      "description": "Asst. Engineer ( B&R)",
+      "name": "Assistant Engineer (AE)",
+      "description": "Assistant Engineer",
       "active": true
     },
     {
       "code": "DESIG_04",
-      "name": "Junior Engineer ( B&R)",
-      "description": "Junior Engineer ( B&R)",
+      "name": "Assistant Account Officer (AAO)",
+      "description": "Assistant Account Officer",
       "active": true
     },
     {
@@ -46,14 +46,14 @@
     },
     {
       "code": "DESIG_08",
-      "name": "Asst. Engineer ( O&M)",
-      "description": "Asst. Engineer ( O&M)",
+      "name": "Junior Engineer (JE)",
+      "description": "Junior Engineer",
       "active": true
     },
     {
       "code": "DESIG_09",
-      "name": "Junior Engineer ( O&M)",
-      "description": "Junior Engineer ( O&M)",
+      "name": "Executive Engineer (EX EN)",
+      "description": "Executive Engineer",
       "active": true
     },
     {
@@ -66,12 +66,6 @@
       "code": "DESIG_11",
       "name": "Corporation Engineer (Light)",
       "description": "Corporation Engineer (Light)",
-      "active": true
-    },
-    {
-      "code": "DESIG_12",
-      "name": "Junior Engineer ( Light)",
-      "description": "Junior Engineer ( Light)",
       "active": true
     },
     {
@@ -129,12 +123,6 @@
       "active": true
     },
     {
-      "code": "DESIG_22",
-      "name": "Junior Enginer ( Horticulutre)",
-      "description": "Junior Enginer ( Horticulutre)",
-      "active": true
-    },
-    {
       "code": "DESIG_23",
       "name": "Citizen service representative",
       "description": "Citizen service representative",
@@ -168,12 +156,6 @@
       "code": "DESIG_28",
       "name": "Accounts Officer",
       "description": "Accounts Officer",
-      "active": true
-    },
-    {
-      "code": "DESIG_29",
-      "name": "Assistant Accounts Officer",
-      "description": "Assistant Accounts Officer",
       "active": true
     },
     {
@@ -678,30 +660,6 @@
       "code": "DESIG_113",
       "name": "Consultant",
       "description": "Consultant",
-      "active": true
-    },
-    {
-      "code": "DESIG_114",
-      "name": "Junior Engineer (JE)",
-      "description": "Junior Engineer",
-      "active": true
-    },
-    {
-      "code": "DESIG_115",
-      "name": "Assistant Engineer (AE)",
-      "description": "Assistant Engineer",
-      "active": true
-    },
-    {
-      "code": "DESIG_116",
-      "name": "Executive Engineer (EX EN)",
-      "description": "Executive Engineer",
-      "active": true
-    },
-    {
-      "code": "DESIG_117",
-      "name": "Assistant Account Officer (AAO)",
-      "description": "Assistant Account Officer",
       "active": true
     }
   ]
