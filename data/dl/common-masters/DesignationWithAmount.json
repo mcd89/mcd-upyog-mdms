@@ -18,6 +18,7 @@
       "minamount": 1,
       "maxamount": 50000000
     },
+    {
      "code": "DESIG_03",
       "name": "Assistant Engineer (AE)",
       "description": "Assistant Engineer",
@@ -221,14 +222,6 @@
       "code": "DESIG_28",
       "name": "Accounts Officer",
       "description": "Accounts Officer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_29",
-      "name": "Assistant Accounts Officer",
-      "description": "Assistant Accounts Officer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
