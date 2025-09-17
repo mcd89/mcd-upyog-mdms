@@ -18,18 +18,17 @@
       "minamount": 1,
       "maxamount": 50000000
     },
-    {
-      "code": "DESIG_03",
-      "name": "Asst. Engineer ( B&R)",
-      "description": "Asst. Engineer ( B&R)",
+     "code": "DESIG_03",
+      "name": "Assistant Engineer (AE)",
+      "description": "Assistant Engineer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_04",
-      "name": "Junior Engineer ( B&R)",
-      "description": "Junior Engineer ( B&R)",
+     "code": "DESIG_04",
+      "name": "Assistant Account Officer (AAO)",
+      "description": "Assistant Account Officer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -59,17 +58,17 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_08",
-      "name": "Asst. Engineer ( O&M)",
-      "description": "Asst. Engineer ( O&M)",
+     "code": "DESIG_08",
+      "name": "Junior Engineer (JE)",
+      "description": "Junior Engineer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_09",
-      "name": "Junior Engineer ( O&M)",
-      "description": "Junior Engineer ( O&M)",
+     "code": "DESIG_09",
+      "name": "Executive Engineer (EX EN)",
+      "description": "Executive Engineer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -307,10 +306,9 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_39",
-      "name": "DA",
-      "description": "Dealing Assistant",
-      "active": true,
+       "code": "DESIG_39",
+      "name": "Dealing Assistant Accounts (DAO)",
+      "description": "Dealing Assistant Accounts (DAO)",
       "minamount": 1,
       "maxamount": 50000000
     },
@@ -895,6 +893,21 @@
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
-    }
+    },
+    {
+      "code": "DESIG_113",
+      "name": "Consultant",
+      "description": "Consultant",
+      "active": true,
+       "minamount": 1,
+      "maxamount": 50000000
+    },
+     {
+      "code": "DESIG_114",
+      "name": "Cashier",
+      "description": "Cashier",
+        "minamount": 1,
+      "maxamount": 50000000
+     }
   ]
 }
