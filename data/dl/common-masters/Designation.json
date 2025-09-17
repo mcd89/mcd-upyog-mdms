@@ -661,6 +661,12 @@
       "name": "Consultant",
       "description": "Consultant",
       "active": true
+    },
+    {
+      "code": "DESIG_114",
+      "name": "Cashier",
+      "description": "Cashier",
+      "active": true
     }
   ]
 }
