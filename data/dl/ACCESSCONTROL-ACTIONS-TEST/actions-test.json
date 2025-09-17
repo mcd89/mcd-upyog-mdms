@@ -19520,17 +19520,17 @@
     },
     {
       "id": 2915,
-      "name": "Inbox",
+      "name": "Pending for Approval",
       "navigationURL": "services/EGF/inbox",
       "url": "url",
       "parentModule": "EGF",
-      "displayName": "Inbox",
+      "displayName": "Pending for Approval",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "Finance",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Inbox"
+      "path": "Finance.Inboxes.Pending for Approval"
     },
     {
       "id": 2916,
@@ -19738,7 +19738,50 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Contra.Process Demand",
       "navigationURL": "services/EGF/contra/processDemand"
+    },
+	  {
+      "id": 2931,
+      "name": "Pending for Voucher Creation",
+      "navigationURL": "services/EGF/pendingVoucher/viewVoucherfromBill",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Pending for Voucher Creation",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Inboxes.Pending for Voucher Creation"
+    },
+     {
+      "id": 2932,
+      "name": "Pending for Payment Initiation",
+      "navigationURL": "services/EGF/pendingpayment/viewpaymentfromVoucher",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Pending for Payment Initiation",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Inboxes.Pending for Payment Initiation"
+    },
+    {
+      "id": 2933,
+      "name": "Pending RTGS",
+      "navigationURL": "services/EGF/rtgs/viewRTGS",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Pending RTGS",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Inboxes.Pending RTGS"
     }
+    
 	  
   ]
 }
