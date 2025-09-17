@@ -232,8 +232,8 @@
     },
     {
       "code": "DESIG_39",
-      "name": "DA",
-      "description": "Dealing Assistant",
+      "name": "Dealing Assistant Accounts (DAO)",
+      "description": "Dealing Assistant Accounts (DAO)",
       "active": true
     },
     {
@@ -678,6 +678,30 @@
       "code": "DESIG_113",
       "name": "Consultant",
       "description": "Consultant",
+      "active": true
+    },
+    {
+      "code": "DESIG_114",
+      "name": "Junior Engineer (JE)",
+      "description": "Junior Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_115",
+      "name": "Assistant Engineer (AE)",
+      "description": "Assistant Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_116",
+      "name": "Executive Engineer (EX EN)",
+      "description": "Executive Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_117",
+      "name": "Assistant Account Officer (AAO)",
+      "description": "Assistant Account Officer",
       "active": true
     }
   ]
