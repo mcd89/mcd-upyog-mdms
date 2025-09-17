@@ -226,14 +226,6 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_29",
-      "name": "Assistant Accounts Officer",
-      "description": "Assistant Accounts Officer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_30",
       "name": "Commissioner",
       "description": "Commissioner",
