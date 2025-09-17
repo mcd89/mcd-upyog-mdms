@@ -19498,7 +19498,7 @@
       "parentModule": "",
       "displayName": "Receipt Payment",
       "orderNumber": 17,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
