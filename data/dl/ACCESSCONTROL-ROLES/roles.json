@@ -241,6 +241,11 @@
       "code": "DETAIL_CODE_APPROVER",
       "name": "Detail code approver user",
       "description": "Detail code approver user can approve the detail code creation"
+    },
+    {
+      "code": "RTGS_CREATOR",
+      "name": "RTGS CREATOR",
+      "description": "RTGS creator user can assign the RTGS number"
     }
   ]
 }
