@@ -10179,7 +10179,7 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "EGF_PAYMENT_CREATOR",
+      "rolecode": "RTGS_CREATOR",
       "actionid": 1630,
       "actioncode": "",
       "tenantId": "dl"
