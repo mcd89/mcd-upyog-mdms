@@ -226,8 +226,8 @@
     },
     {
       "code": "DESIG_40",
-      "name": "DEO",
-      "description": "Data Entry Operator",
+      "name": "Data Entry Operator (DEO)",
+      "description": "Data Entry Operator (DEO)",
       "active": true
     },
     {
