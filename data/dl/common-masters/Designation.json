@@ -123,6 +123,12 @@
       "active": true
     },
     {
+      "code": "DESIG_22",
+      "name": "Account Officer",
+      "description": "Account Officer",
+      "active": true
+    },
+    {
       "code": "DESIG_23",
       "name": "Citizen service representative",
       "description": "Citizen service representative",
@@ -130,8 +136,8 @@
     },
     {
       "code": "DESIG_24",
-      "name": "Deputy Controller Finance and Accounts",
-      "description": "Deputy Controller Finance and Accounts",
+      "name": "Deputy Controller Accounts",
+      "description": "Deputy Controller  Accounts",
       "active": true
     },
     {
