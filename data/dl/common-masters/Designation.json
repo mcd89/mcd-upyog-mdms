@@ -142,8 +142,8 @@
     },
     {
       "code": "DESIG_24",
-      "name": "Deputy Controller Accounts",
-      "description": "Deputy Controller  Accounts",
+     "name": "Deputy Controller Accounts (DCA)",
+      "description": "Deputy Controller Accounts (DCA)",
       "active": true
     },
     {
