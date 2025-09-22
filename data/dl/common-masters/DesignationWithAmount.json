@@ -29,7 +29,7 @@
     {
      "code": "DESIG_04",
       "name": "Assistant Account Officer (AAO)",
-      "description": "Assistant Account Officer",
+      "description": "Assistant Account Officer (AAO)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -92,8 +92,8 @@
     },
     {
       "code": "DESIG_12",
-      "name": "Junior Engineer ( Light)",
-      "description": "Junior Engineer ( Light)",
+      "name": "Assistant Section Officer (ASO)",
+      "description": "Assistant Section Officer (ASO)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -188,8 +188,8 @@
     },
     {
       "code": "DESIG_24",
-      "name": "Deputy Controller Finance and Accounts",
-      "description": "Deputy Controller Finance and Accounts",
+      "name": "Deputy Controller Accounts (DCA)",
+      "description": "Deputy Controller Accounts (DCA)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -252,8 +252,8 @@
     },
     {
       "code": "DESIG_33",
-      "name": "JAO",
-      "description": "JAO",
+      "name": "Junior Account Officer (JAO)",
+      "description": "Junior Account Officer (JAO)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -302,6 +302,7 @@
        "code": "DESIG_39",
       "name": "Dealing Assistant Accounts (DAO)",
       "description": "Dealing Assistant Accounts (DAO)",
+      "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
@@ -899,7 +900,8 @@
       "code": "DESIG_114",
       "name": "Cashier",
       "description": "Cashier",
-        "minamount": 1,
+      "active": true,
+      "minamount": 1,
       "maxamount": 50000000
      }
   ]
