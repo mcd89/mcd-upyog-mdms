@@ -69,6 +69,12 @@
       "active": true
     },
     {
+      "code": "DESIG_12",
+      "name": "Assistant Section Officer (ASO)",
+      "description": "Assistant Section Officer (ASO)",
+      "active": true
+    },
+    {
       "code": "DESIG_13",
       "name": "Health Officer",
       "description": "Health Officer",
