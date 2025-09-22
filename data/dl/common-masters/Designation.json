@@ -23,7 +23,7 @@
     {
       "code": "DESIG_04",
       "name": "Assistant Account Officer (AAO)",
-      "description": "Assistant Account Officer",
+      "description": "Assistant Account Officer (AAO)",
       "active": true
     },
     {
@@ -34,8 +34,8 @@
     },
     {
       "code": "DESIG_06",
-      "name": "Superintending Engineer ( O&M)",
-      "description": "Superintending Engineer ( O&M)",
+      "name": "Superintending Engineer (O&M)",
+      "description": "Superintending Engineer (O&M)",
       "active": true
     },
     {
@@ -58,8 +58,8 @@
     },
     {
       "code": "DESIG_10",
-      "name": "Superintending Engineer ( Light)",
-      "description": "Superintending Engineer ( Light)",
+      "name": "Superintending Engineer (Light)",
+      "description": "Superintending Engineer (Light)",
       "active": true
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "code": "DESIG_22",
-      "name": "Account Officer",
-      "description": "Account Officer",
+      "name": "Account Officer (AO)",
+      "description": "Account Officer (AO)",
       "active": true
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "code": "DESIG_33",
-      "name": "JAO",
-      "description": "JAO",
+      "name": "Junior Account Officer (JAO)",
+      "description": "Junior Account Officer (JAO)",
       "active": true
     },
     {
