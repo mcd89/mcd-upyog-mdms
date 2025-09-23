@@ -148,7 +148,7 @@
       "active": true
     },
     {
-      "name": "Licensing — General Trade",
+      "name": "Licensing — General Trade / General Branch",
       "code": "041",
       "active": true
     },
@@ -203,7 +203,7 @@
       "active": true
     },
     {
-      "name": "Municipal Health Office",
+      "name": "Municipal Health Office / Public Health",
       "code": "070",
       "active": true
     },
@@ -308,7 +308,7 @@
       "active": true
     },
     {
-      "name": "Conservancy and Sanitation",
+      "name": "Environment Managment System (EMS)",
       "code": "100",
       "active": true
     },
@@ -439,7 +439,7 @@
     },
     {
       "name": "Hospital Administration",
-      "code": "162",
+      "code": "130",
       "active": true
     }
   ]

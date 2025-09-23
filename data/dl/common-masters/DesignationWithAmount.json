@@ -474,8 +474,8 @@
     },
     {
       "code": "DESIG_61",
-      "name": "DHO/Programmes",
-      "description": "DHO/Programmes",
+      "name": "Deputy Health Officer (DHO)",
+      "description": "Deputy Health Officer (DHO)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
