@@ -431,6 +431,16 @@
       "name": "Loan repayments",
       "code": "160",
       "active": true
+    },
+    {
+      "name": "Horticulture Department",
+      "code": "161",
+      "active": true
+    },
+    {
+      "name": "Hospital Administration",
+      "code": "162",
+      "active": true
     }
   ]
 }
