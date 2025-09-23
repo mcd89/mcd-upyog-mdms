@@ -903,6 +903,14 @@
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
-     }
+     },
+    {
+      "code": "DESIG_115",
+      "name": "Cheque Writer",
+      "description": "Cheque Writer",
+      "active": true,
+      "minamount": 1,
+      "maxamount": 50000000
+    }
   ]
 }
