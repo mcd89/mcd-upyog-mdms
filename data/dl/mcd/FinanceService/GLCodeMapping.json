@@ -26,8 +26,8 @@
       "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "CC03",
-      "debitGL": "1100117",
-      "creditGL": "1100117"
+      "debitGL": "1100108",
+      "creditGL": "1100108"
     },
     {
       "serviceCode": "PTR",
@@ -188,8 +188,8 @@
       "taxPeriod": "*",
       "componentName": "finePenality",
       "componentCode": "CC21",
-      "debitGL": "1100117",
-      "creditGL": "1100117"
+      "debitGL": "1100108",
+      "creditGL": "1100108"
     },
     {
       "serviceCode": "PTR",
