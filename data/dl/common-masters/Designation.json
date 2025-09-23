@@ -679,6 +679,12 @@
       "name": "Cashier",
       "description": "Cashier",
       "active": true
+    },
+    {
+      "code": "DESIG_115",
+      "name": "Cheque Writer",
+      "description": "Cheque Writer",
+      "active": true
     }
   ]
 }
