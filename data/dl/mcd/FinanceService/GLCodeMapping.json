@@ -199,6 +199,15 @@
       "componentCode": "CC22",
       "debitGL": "1407007",
       "creditGL": "1407007"
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "CC01",
+      "debitGL": "1808011",     
+      "creditGL": "1808011"     
     }
   ]
 }
