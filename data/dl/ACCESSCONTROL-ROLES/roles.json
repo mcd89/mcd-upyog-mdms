@@ -246,6 +246,11 @@
       "code": "RTGS_CREATOR",
       "name": "RTGS CREATOR",
       "description": "RTGS creator user can assign the RTGS number"
+    },
+    {
+      "code": "PROCESS_DEMAND_CREATOR",
+      "name": "PROCESS DEMAND CREATOR",
+      "description": "PROCESS DEMAND CREATOR user can create the Process Demand"
     }
   ]
 }
