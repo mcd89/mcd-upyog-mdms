@@ -19727,16 +19727,16 @@
     },
     {
       "id": 2930,
-      "name": "Process Demand",
+      "name": "HQ Process Demand",
       "url": "url",
       "parentModule": "",
-      "displayName": "Process Demand",
+      "displayName": "HQ Process Demand",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Contra.Process Demand",
+      "path": "Finance.Contra.HQ Process Demand",
       "navigationURL": "services/EGF/contra/processDemand"
     },
 	  {
@@ -19783,16 +19783,16 @@
     },
 	{
       "id": 2934,
-      "name": "Process Demand For Zone",
+      "name": "Zone Process Demand",
       "url": "url",
       "parentModule": "",
-      "displayName": "Process Demand For Zone",
+      "displayName": "Zone Process Demand",
       "orderNumber": 3,
       "enabled": true,
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Contra.Process Demand For Zone",
+      "path": "Finance.Contra.Zone Process Demand",
       "navigationURL": "services/EGF/contra/processDemandForZone"
     }
   ]
