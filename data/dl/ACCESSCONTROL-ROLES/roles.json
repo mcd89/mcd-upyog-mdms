@@ -246,6 +246,16 @@
       "code": "RTGS_CREATOR",
       "name": "RTGS CREATOR",
       "description": "RTGS creator user can assign the RTGS number"
+    },
+    {
+      "code": "HQ_PROCESS_DEMAND_APPROVER",
+      "name": "HQ PROCESS DEMAND APPROVER",
+      "description": "Demand creation at HQ level"
+    },
+    {
+      "code": "ZONE_PROCESS_DEMAND_APPROVER",
+      "name": "ZONE PROCESS DEMAND APPROVER",
+      "description": "Demand creation at zone level"
     }
   ]
 }
