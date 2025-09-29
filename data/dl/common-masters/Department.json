@@ -393,6 +393,11 @@
       "active": true
     },
     {
+      "name": "Horticulture Department",
+      "code": "130",
+      "active": true
+    },
+    {
       "name": "Land & Estate Department",
       "code": "140",
       "active": true
@@ -433,13 +438,8 @@
       "active": true
     },
     {
-      "name": "Horticulture Department",
-      "code": "161",
-      "active": true
-    },
-    {
       "name": "Hospital Administration",
-      "code": "130",
+      "code": "161",
       "active": true
     }
   ]
