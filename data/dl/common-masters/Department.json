@@ -244,7 +244,7 @@
     },
     {
       "name": "Medical Relief (General)",
-      "code": "078,",
+      "code": "078",
       "active": true
     },
     {
@@ -273,8 +273,63 @@
       "active": true
     },
     {
+      "name": "Hindu Rao Hospital",
+      "code": "084",
+      "active": true
+    },
+    {
+      "name": "Rajan Babu Institute of Pulmonary Medicine & Tuberculosis (RBIPMT) Hospital ",
+      "code": "085",
+      "active": true
+    },
+    {
+      "name": "Kasturba Hospital",
+      "code": "086",
+      "active": true
+    },
+    {
+      "name": "Girdhari Lal Maternity (GLM) Hospital",
+      "code": "087",
+      "active": true
+    },
+    {
+      "name": "Balak Ram Hospital",
+      "code": "088",
+      "active": true
+    },
+    {
+      "name": "Atal Bihari Vajpayee Medical College",
+      "code": "089",
+      "active": true
+    },
+    {
+      "name": "Nursing College, Hindu Rao Hospital",
+      "code": "090",
+      "active": true
+    },
+    {
+      "name": "Nursing College, Kasturba Hospital",
+      "code": "091",
+      "active": true
+    },
+    {
+      "name": "Swamy Dayanand Hospital",
+      "code": "092",
+      "active": true
+    },
+    {
       "name": "Leprosy Home - Tahirpur (incl. Clinics)",
       "code": "093",
+      "active": true
+    },
+    {
+      "name": "Mata Gujari Hospital, Tilak Nagar",
+      "code": "146",
+      "active": true
+    },
+    {
+      "name": "MVID Hospital",
+      "code": "147",
       "active": true
     },
     {
@@ -305,6 +360,16 @@
     {
       "name": "Ayurvedic Hospital, Haiderpur",
       "code": "099",
+      "active": true
+    },
+    {
+      "name": "Madhavrao Sadashivrao Golvalkar (Guruji) Panchkarma Hospital",
+      "code": "145",
+      "active": true
+    },
+    {
+      "name": "IPP-VIII - M&CW Centre",
+      "code": "146",
       "active": true
     },
     {
@@ -393,11 +458,6 @@
       "active": true
     },
     {
-      "name": "Horticulture Department",
-      "code": "130",
-      "active": true
-    },
-    {
       "name": "Land & Estate Department",
       "code": "140",
       "active": true
@@ -435,6 +495,11 @@
     {
       "name": "Loan repayments",
       "code": "160",
+      "active": true
+    },
+    {
+      "name": "Horticulture Department",
+      "code": "130",
       "active": true
     },
     {
