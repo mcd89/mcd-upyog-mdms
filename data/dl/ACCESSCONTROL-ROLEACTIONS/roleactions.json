@@ -31080,6 +31080,126 @@
       "actionid": 2930,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+	{
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 669,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1428,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1621,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1626,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1624,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1667,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1669,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1672,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1637,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1640,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1681,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1643,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1660,
+    "actioncode": "",
+    "tenantId": "dl"
+   },
+   {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1663,
+    "actioncode": "",
+    "tenantId": "dl"
+   },
+   {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1705,
+    "actioncode": "",
+    "tenantId": "dl"
+   },
+   {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1792,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 2918,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1615,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1665,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1840,
+    "actioncode": "",
+    "tenantId": "dl"
+  }
   ]
 }
