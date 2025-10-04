@@ -256,6 +256,11 @@
       "code": "ZONE_PROCESS_DEMAND_APPROVER",
       "name": "ZONE PROCESS DEMAND APPROVER",
       "description": "Demand creation at zone level"
+    },
+    {
+      "code": "MASTER_MENU_VIEWER",
+      "name": "MASTER MENU VIEWER",
+      "description": "User can only view the master view pages"
     }
   ]
 }
