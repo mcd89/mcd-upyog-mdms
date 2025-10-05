@@ -43,29 +43,9 @@
       "description": "AssetCreator"
     },
     {
-      "code": "COLL_OPERATOR",
-      "name": "Collection Operator",
-      "description": "Can Create, Search and Update Receipt"
-    },
-    {
-      "code": "BANK_COLL_OPERATOR",
-      "name": "Bank Collection Operator",
-      "description": "Can Create, Search Receipt"
-    },
-    {
-      "code": "COMMISSIONER",
-      "name": "Commissioner",
-      "description": "Commissioner"
-    },
-    {
       "code": "WORKS_FINANCIAL_APPROVER",
       "name": "Financials Approver",
       "description": "Who has a access to capture Financial details and budgetary/financial sanction"
-    },
-    {
-      "code": "DE_CREATOR",
-      "name": "Detailed Estimate Creator",
-      "description": "Who has a access to create Detailed Estimate"
     },
     {
       "code": "WO_CREATOR",
@@ -81,11 +61,6 @@
       "code": "CONTRACTOR_ADVANCE_CREATOR",
       "name": "Contractor Advance creator",
       "description": "Who has a access to create Contractor Advance"
-    },
-    {
-      "code": "MB_CREATOR",
-      "name": "MB creator",
-      "description": "Who has a access to create MB"
     },
     {
       "code": "WORKS_APPROVER",
@@ -188,19 +163,9 @@
       "description": "System user role"
     },
     {
-      "code": "MCOLLECT_REPORT_VIEWER",
-      "name": "MCollect Report Viewer",
-      "description": "MCollect User that can view tabular reports"
-    },
-    {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
       "description": "Internal role for plain access"
-    },
-    {
-      "code": "SYS_INTEGRATOR_GIS",
-      "name": "System Integrator GIS",
-      "description": "Role for allowing system integration of GIS app with UPYOG"
     },
     {
       "code": "ASSET_INITIATOR",
