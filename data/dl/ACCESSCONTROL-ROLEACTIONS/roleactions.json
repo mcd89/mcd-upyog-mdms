@@ -30968,12 +30968,6 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2930,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 2931,
       "actioncode": "",
@@ -31198,6 +31192,48 @@
   {
     "rolecode": "MASTER_MENU_VIEWER",
     "actionid": 1840,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1619,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1655,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1726,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1732,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1631,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1693,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "MASTER_MENU_VIEWER",
+    "actionid": 1764,
     "actioncode": "",
     "tenantId": "dl"
   }
