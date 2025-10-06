@@ -31182,6 +31182,30 @@
     "actionid": 1764,
     "actioncode": "",
     "tenantId": "dl"
+  },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 1659,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 1660,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 1662,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 1663,
+    "actioncode": "",
+    "tenantId": "dl"
   }
   ]
 }
