@@ -226,6 +226,11 @@
       "code": "MASTER_MENU_VIEWER",
       "name": "MASTER MENU VIEWER",
       "description": "User can only view the master view pages"
+    },
+    {
+      "code": "VENDOR_CREATOR",
+      "name": "VENDOR CREATOR",
+      "description": "User can create and view Vendors"
     }
   ]
 }
