@@ -215,8 +215,8 @@
       "taxPeriod": "*",
       "componentName": "tradeFee",
       "componentCode": "CC24",
-      "debitGL": "1808011",     
-      "creditGL": "1808011"     
+      "debitGL": "1401103",     
+      "creditGL": "1401103"     
     },
     {
       "serviceCode": "PTR",
@@ -224,8 +224,8 @@
       "taxPeriod": "*",
       "componentName": "userCharge",
       "componentCode": "CC25",
-      "debitGL": "1808011",     
-      "creditGL": "1808011"     
+      "debitGL": "1405017",     
+      "creditGL": "1405017"     
     }
   ]
 }
