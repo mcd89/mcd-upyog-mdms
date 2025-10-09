@@ -205,7 +205,25 @@
       "propertyCategory": "*",
       "taxPeriod": "*",
       "componentName": "roundoff",
-      "componentCode": "CC01",
+      "componentCode": "CC23",
+      "debitGL": "1808011",     
+      "creditGL": "1808011"     
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "tradeFee",
+      "componentCode": "CC24",
+      "debitGL": "1808011",     
+      "creditGL": "1808011"     
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "userCharge",
+      "componentCode": "CC25",
       "debitGL": "1808011",     
       "creditGL": "1808011"     
     }
