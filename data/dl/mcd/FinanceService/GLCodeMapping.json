@@ -226,6 +226,15 @@
       "componentCode": "CC25",
       "debitGL": "1405017",     
       "creditGL": "1405017"     
+    },
+    {
+      "serviceCode": "PTR",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "adjustmentAmount",
+      "componentCode": "CC26",
+      "debitGL": "3504101",     
+      "creditGL": "3504101"     
     }
   ]
 }
