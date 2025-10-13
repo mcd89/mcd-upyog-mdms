@@ -31224,6 +31224,42 @@
       "actionid": 1840,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1650,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1667,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1668,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1669,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1671,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1672,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
