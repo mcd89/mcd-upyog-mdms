@@ -3,56 +3,158 @@
   "moduleName": "common-masters",
   "ZoneDivisionMapping": [
     {
-      "code": "ENG_CNZ",
-      "departmentName": "Engineering Department",
-      "departmentCode": "110",
-      "zoneName": "CENTRAL ZONE",
-      "zoneCode": "CNZ",
-      "divisions": [
+      "code": "ENG_CSP",
+      "zoneName": "CITY S P ZONE",
+      "zoneCode": "CSP",
+      "departments": [
         {
-          "divisionName": "M-I",
-          "divisionCode": "1"
+          "departmentName": "Engineering - Electric",
+          "departmentCode": "111",
+          "divisions": [
+            {
+              "divisionName": "Electric",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "DEMS HQ-1",
+              "divisionCode": "2"
+            }
+          ]
         },
         {
-          "divisionName": "M-II",
-          "divisionCode": "2"
+          "departmentName": "Motor Workshop (including general workshop)",
+          "departmentCode": "104",
+          "divisions": [
+            {
+              "divisionName": "Auto",
+              "divisionCode": "1"
+            }
+          ]
         },
         {
-          "divisionName": "M-III",
-          "divisionCode": "3"
+          "departmentName": "Mpl. Engineer's Office",
+          "departmentCode": "113",
+          "divisions": [
+            {
+              "divisionName": "DEMS",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "Central Store",
+              "divisionCode": "2"
+            }
+          ]
         },
         {
-          "divisionName": "Proj-I",
-          "divisionCode": "5"
-        },
-        {
-          "divisionName": "Proj-II",
-          "divisionCode": "6"
-        },
-        {
-          "divisionName": "E&M",
-          "divisionCode": "7"
+          "departmentName": "Environment Managment System (EMS)",
+          "departmentCode": "100",
+          "divisions": [
+            {
+              "divisionName": "SLF Bhalwsa",
+              "divisionCode": "1"
+            }
+          ]
         }
       ]
     },
     {
-      "code": "ENG_CSP",
-      "departmentName": "Engineering Department",
-      "departmentCode": "110",
-      "zoneName": "CITY S P ZONE",
-      "zoneCode": "CSP",
-      "divisions": [
+      "code": "ENG_CNZ",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "departments": [
         {
-          "divisionName": "M-I",
-          "divisionCode": "1"
+          "departmentName": "Motor Workshop (including general workshop)",
+          "departmentCode": "104",
+          "divisions": [
+            {
+              "divisionName": "EE(Auto)",
+              "divisionCode": "1"
+            }
+          ]
         },
         {
-          "divisionName": "M-II",
-          "divisionCode": "2"
+          "departmentName": "Engineering - Electric",
+          "departmentCode": "111",
+          "divisions": [
+            {
+              "divisionName": "EE(E&M)-I",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(Electric)",
+              "divisionCode": "2"
+            },
+            {
+              "divisionName": "E&M(SLF)",
+              "divisionCode": "3"
+            }
+          ]
         },
         {
-          "divisionName": "Proj-I",
-          "divisionCode": "5"
+          "departmentName": "Mpl. Engineer's Office",
+          "departmentCode": "113",
+          "divisions": [
+            {
+              "divisionName": "EE(EMS)",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(SLF)",
+              "divisionCode": "2"
+            },
+            {
+              "divisionName": "EE(M-I)",
+              "divisionCode": "3"
+            },
+            {
+              "divisionName": "EE(M-II)",
+              "divisionCode": "4"
+            },
+            {
+              "divisionName": "EE(M-III)",
+              "divisionCode": "5"
+            },
+            {
+              "divisionName": "EE(M-IV)",
+              "divisionCode": "6"
+            },
+            {
+              "divisionName": "EE(Project-I)",
+              "divisionCode": "7"
+            },
+            {
+              "divisionName": "EE(Project-II)",
+              "divisionCode": "8"
+            }
+          ]
+        },
+        {
+          "departmentName": "Buildings Department",
+          "departmentCode": "115",
+          "divisions": [
+            {
+              "divisionName": "EE(Building-I)",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(Building-II)",
+              "divisionCode": "2"
+            }
+          ]
+        },
+        {
+          "departmentName": "Engineering - Civil",
+          "departmentCode": "110",
+          "divisions": [
+            {
+              "divisionName": "EE(M-IV)",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(SLF)",
+              "divisionCode": "2"
+            }
+          ]
         }
       ]
     },
