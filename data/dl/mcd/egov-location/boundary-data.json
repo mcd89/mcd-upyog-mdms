@@ -60954,6 +60954,30 @@
             "code": "MGH",
             "children": [
             ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 20,
+            "name": "Balak Ram Hospital",
+            "localname": "Balak Ram Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRH",
+            "children": [
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 21,
+            "name": "Colony Hospital Kalkaji",
+            "localname": "Colony Hospital Kalkaji",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CHK",
+            "children": [
+            ]
           }
         ]
       }
@@ -61711,6 +61735,52 @@
                     "children": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Balak Ram Hospital",
+            "localname": "Balak Ram Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "NA",
+                "localname": "NA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARDBRH1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Colony Hospital Kalkaji",
+            "localname": "Colony Hospital Kalkaji",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CHK",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "NA",
+                "localname": "NA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARDCHK1",
+                "children": []
               }
             ]
           }
