@@ -58,6 +58,107 @@
       ]
     },
     {
+      "code": "ENG_CNZ",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "departments": [
+        {
+          "departmentName": "Motor Workshop (including general workshop)",
+          "departmentCode": "104",
+          "divisions": [
+            {
+              "divisionName": "EE(Auto)",
+              "divisionCode": "1"
+            }
+          ]
+        },
+        {
+          "departmentName": "Engineering - Electric",
+          "departmentCode": "111",
+          "divisions": [
+            {
+              "divisionName": "EE(E&M)-I",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(Electric)",
+              "divisionCode": "2"
+            },
+            {
+              "divisionName": "E&M(SLF)",
+              "divisionCode": "3"
+            }
+          ]
+        },
+        {
+          "departmentName": "Mpl. Engineer's Office",
+          "departmentCode": "113",
+          "divisions": [
+            {
+              "divisionName": "EE(EMS)",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(SLF)",
+              "divisionCode": "2"
+            },
+            {
+              "divisionName": "EE(M-I)",
+              "divisionCode": "3"
+            },
+            {
+              "divisionName": "EE(M-II)",
+              "divisionCode": "4"
+            },
+            {
+              "divisionName": "EE(M-III)",
+              "divisionCode": "5"
+            },
+            {
+              "divisionName": "EE(M-IV)",
+              "divisionCode": "6"
+            },
+            {
+              "divisionName": "EE(Project-I)",
+              "divisionCode": "7"
+            },
+            {
+              "divisionName": "EE(Project-II)",
+              "divisionCode": "8"
+            }
+          ]
+        },
+        {
+          "departmentName": "Buildings Department",
+          "departmentCode": "115",
+          "divisions": [
+            {
+              "divisionName": "EE(Building-I)",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(Building-II)",
+              "divisionCode": "2"
+            }
+          ]
+        },
+        {
+          "departmentName": "Engineering - Civil",
+          "departmentCode": "110",
+          "divisions": [
+            {
+              "divisionName": "EE(M-IV)",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "EE(SLF)",
+              "divisionCode": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "code": "ENG_CLZ",
       "departmentName": "Engineering Department",
       "departmentCode": "110",
