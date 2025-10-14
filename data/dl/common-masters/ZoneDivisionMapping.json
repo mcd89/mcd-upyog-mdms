@@ -3,56 +3,57 @@
   "moduleName": "common-masters",
   "ZoneDivisionMapping": [
     {
-      "code": "ENG_CNZ",
-      "departmentName": "Engineering Department",
-      "departmentCode": "110",
-      "zoneName": "CENTRAL ZONE",
-      "zoneCode": "CNZ",
-      "divisions": [
-        {
-          "divisionName": "M-I",
-          "divisionCode": "1"
-        },
-        {
-          "divisionName": "M-II",
-          "divisionCode": "2"
-        },
-        {
-          "divisionName": "M-III",
-          "divisionCode": "3"
-        },
-        {
-          "divisionName": "Proj-I",
-          "divisionCode": "5"
-        },
-        {
-          "divisionName": "Proj-II",
-          "divisionCode": "6"
-        },
-        {
-          "divisionName": "E&M",
-          "divisionCode": "7"
-        }
-      ]
-    },
-    {
       "code": "ENG_CSP",
-      "departmentName": "Engineering Department",
-      "departmentCode": "110",
       "zoneName": "CITY S P ZONE",
       "zoneCode": "CSP",
-      "divisions": [
+      "departments": [
         {
-          "divisionName": "M-I",
-          "divisionCode": "1"
+          "departmentName": "Engineering - Electric",
+          "departmentCode": "111",
+          "divisions": [
+            {
+              "divisionName": "Electric",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "DEMS HQ-1",
+              "divisionCode": "2"
+            }
+          ]
         },
         {
-          "divisionName": "M-II",
-          "divisionCode": "2"
+          "departmentName": "Motor Workshop (including general workshop)",
+          "departmentCode": "104",
+          "divisions": [
+            {
+              "divisionName": "Auto",
+              "divisionCode": "1"
+            }
+          ]
         },
         {
-          "divisionName": "Proj-I",
-          "divisionCode": "5"
+          "departmentName": "Mpl. Engineer's Office",
+          "departmentCode": "113",
+          "divisions": [
+            {
+              "divisionName": "DEMS",
+              "divisionCode": "1"
+            },
+            {
+              "divisionName": "Central Store",
+              "divisionCode": "2"
+            }
+          ]
+        },
+        {
+          "departmentName": "Environment Managment System (EMS)",
+          "departmentCode": "100",
+          "divisions": [
+            {
+              "divisionName": "SLF Bhalwsa",
+              "divisionCode": "1"
+            }
+          ]
         }
       ]
     },
