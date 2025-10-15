@@ -261,11 +261,11 @@
       "divisions": [
         {
           "divisionName": "Electric",
-          "divisionCode": "8"
+          "divisionCode": "7"
         },
         {
           "divisionName": "DEMS HQ-1",
-          "divisionCode": "10"
+          "divisionCode": "9"
         }
       ]
     },
@@ -278,11 +278,11 @@
       "divisions": [
         {
           "divisionName": "DEMS",
-          "divisionCode": "11"
+          "divisionCode": "10"
         },
         {
           "divisionName": "Central Store",
-          "divisionCode": "13"
+          "divisionCode": "12"
         }
       ]
     },
@@ -295,7 +295,7 @@
       "divisions": [
         {
           "divisionName": "Auto",
-          "divisionCode": "9"
+          "divisionCode": "8"
         }
       ]
     },
@@ -308,7 +308,7 @@
       "divisions": [
         {
           "divisionName": "SLF Bhalwsa",
-          "divisionCode": "12"
+          "divisionCode": "11"
         }
       ]
     },
@@ -320,16 +320,16 @@
       "zoneCode": "CNZ",
       "divisions": [
         {
-          "divisionName": "E&M)-I",
-          "divisionCode": "14"
+          "divisionName": "E&M-I",
+          "divisionCode": "13"
         },
         {
           "divisionName": "Electric",
-          "divisionCode": "16"
+          "divisionCode": "7"
         },
         {
           "divisionName": "SLF",
-          "divisionCode": "18"
+          "divisionCode": "15"
         }
       ]
     },
@@ -342,7 +342,7 @@
       "divisions": [
         {
           "divisionName": "Auto",
-          "divisionCode": "9"
+          "divisionCode": "8"
         }
       ]
     },
@@ -359,31 +359,65 @@
         },
         {
           "divisionName": "SLF",
-          "divisionCode": "16"
+          "divisionCode": "15"
         },
         {
           "divisionName": "M-I",
-          "divisionCode": "18"
+          "divisionCode": "1"
         },
         {
           "divisionName": "M-II",
-          "divisionCode": "18"
+          "divisionCode": "2"
         },
         {
           "divisionName": "M-III",
-          "divisionCode": "18"
+          "divisionCode": "3"
         },
         {
           "divisionName": "M-IV",
-          "divisionCode": "18"
+          "divisionCode": "4"
         },
         {
           "divisionName": "Project-I",
-          "divisionCode": "18"
+          "divisionCode": "5"
         },
         {
           "divisionName": "Project-II",
-          "divisionCode": "18"
+          "divisionCode": "6"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_110",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "110",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "SLF",
+          "divisionCode": "15"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_115",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "110",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
         }
       ]
     }
