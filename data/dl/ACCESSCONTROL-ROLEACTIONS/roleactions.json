@@ -31226,6 +31226,42 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "BANK_MASTER_CREATOR",
+      "actionid": 1650,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER_CREATOR",
+      "actionid": 1667,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER_CREATOR",
+      "actionid": 1668,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER_CREATOR",
+      "actionid": 1669,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER_CREATOR",
+      "actionid": 1671,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER_CREATOR",
+      "actionid": 1672,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "BANK_MASTER",
       "actionid": 1650,
       "actioncode": "",
@@ -31258,6 +31294,24 @@
     {
       "rolecode": "BANK_MASTER",
       "actionid": 1672,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1670,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BANK_MASTER",
+      "actionid": 1673,
       "actioncode": "",
       "tenantId": "dl"
     }
