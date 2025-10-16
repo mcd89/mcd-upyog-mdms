@@ -18,6 +18,72 @@
         "code": "dl.mcd",
         "children": [
           {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "HQ",
+            "localname": "HQ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HQ",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "NA",
+                "localname": "Civic Center",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARDHQ1",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "A Block, Dr. S.P. M. Civic Center, Minto Road, Ajmeri Gate, New Delhi",
+                    "localname": "A Block",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WHQ1L001",
+                    "pincode": [
+                      110002
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "E1 Block, Dr. S.P. M. Civic Center, Minto Road, Ajmeri Gate, New Delhi",
+                    "localname": "E1 Block",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WHQ1L002",
+                    "pincode": [
+                      110002
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 20,
+            "name": "Balak Ram Hospital",
+            "localname": "Balak Ram Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRH",
+            "children": [
+            ]
+          },
+          {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
             "boundaryNum": 1,
             "name": "CENTRAL ZONE",
@@ -10279,6 +10345,42 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 21,
+            "name": "Colony Hospital Kalkaji",
+            "localname": "Colony Hospital Kalkaji",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CHK",
+            "children": [
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 15,
+            "name": "Girdhari Lal Maternity Hospital",
+            "localname": "Girdhari Lal Maternity Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GLMH",
+            "children": [
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 18,
+            "name": "Hindu Rao Medical College Hospital",
+            "localname": "Hindu Rao Medical College Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HRMCH",
+            "children": [
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 4,
             "name": "Karol Bagh",
             "localname": "Karol Bagh",
@@ -12614,6 +12716,18 @@
                   }
                 ]
               }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 16,
+            "name": "Kasturba Hospital",
+            "localname": "Kasturba Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KH",
+            "children": [
             ]
           },
           {
@@ -16391,6 +16505,18 @@
                   }
                 ]
               }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 19,
+            "name": "Mata Gujri Hospital",
+            "localname": "Mata Gujri Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MGH",
+            "children": [
             ]
           },
           {
@@ -37910,6 +38036,18 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 17,
+            "name": "RBTB  Hospital",
+            "localname": "RBTB Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RBTBH",
+            "children": [
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 9,
             "name": "Rohini Zone",
             "localname": "Rohini Zone",
@@ -54519,6 +54657,18 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 14,
+            "name": "Swami Dayanand Hospital",
+            "localname": "Swami Dayanand Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SDH",
+            "children": [
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 12,
             "name": "West Zone",
             "localname": "West Zone",
@@ -60828,157 +60978,8 @@
                 ]
               }
             ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "HQ",
-            "localname": "HQ",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "HQ",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "NA",
-                "localname": "Civic Center",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARDHQ1",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "A Block, Dr. S.P. M. Civic Center, Minto Road, Ajmeri Gate, New Delhi",
-                    "localname": "A Block",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "WHQ1L001",
-                    "pincode": [
-                      110002
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  },
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "E1 Block, Dr. S.P. M. Civic Center, Minto Road, Ajmeri Gate, New Delhi",
-                    "localname": "E1 Block",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "WHQ1L002",
-                    "pincode": [
-                      110002
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 14,
-            "name": "Swami Dayanand Hospital",
-            "localname": "Swami Dayanand Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "SDH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 15,
-            "name": "Girdhari Lal Maternity Hospital",
-            "localname": "Girdhari Lal Maternity Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "GLMH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 16,
-            "name": "Kasturba Hospital",
-            "localname": "Kasturba Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "KH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 17,
-            "name": "RBTB  Hospital",
-            "localname": "RBTB Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "RBTBH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 18,
-            "name": "Hindu Rao Medical College Hospital",
-            "localname": "Hindu Rao Medical College Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "HRMCH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 19,
-            "name": "Mata Gujri Hospital",
-            "localname": "Mata Gujri Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "MGH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 20,
-            "name": "Balak Ram Hospital",
-            "localname": "Balak Ram Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "BRH",
-            "children": [
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 21,
-            "name": "Colony Hospital Kalkaji",
-            "localname": "Colony Hospital Kalkaji",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "CHK",
-            "children": [
-            ]
           }
+  
         ]
       }
     },
@@ -61033,6 +61034,29 @@
                     "children": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Balak Ram Hospital",
+            "localname": "Balak Ram Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "NA",
+                "localname": "NA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARDBRH1",
+                "children": []
               }
             ]
           },
@@ -61155,6 +61179,107 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Colony Hospital Kalkaji",
+            "localname": "Colony Hospital Kalkaji",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CHK",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "NA",
+                "localname": "NA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARDCHK1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Girdhari Lal Maternity Hospital",
+            "localname": "Girdhari Lal Maternity Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GLMH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Hindu Rao Medical College Hospital",
+            "localname": "Hindu Rao Medical College Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HRMCH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 5,
             "name": "Karol Bagh",
             "localname": "Karol Bagh",
@@ -61194,6 +61319,45 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Kasturba Hospital",
+            "localname": "Kasturba Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 6,
             "name": "Keshavpuram",
             "localname": "Keshavpuram",
@@ -61207,6 +61371,45 @@
                 "boundaryNum": 1,
                 "name": "WARD_5",
                 "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "Mata Gujri Hospital",
+            "localname": "Mata Gujri Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MGH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
@@ -61324,6 +61527,45 @@
                 "boundaryNum": 1,
                 "name": "WARD_8",
                 "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
+                  {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Main Road Abadpura",
+                    "localname": "Main Road Abadpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JLC476",
+                    "pincode": [
+                      143001
+                    ],
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 13,
+            "name": "RBTB  Hospital",
+            "localname": "RBTB Hospital",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RBTBH",
+            "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
@@ -61468,45 +61710,6 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 13,
-            "name": "West Zone",
-            "localname": "West Zone",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "WZ",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
             "name": "Swami Dayanand Hospital",
             "localname": "Swami Dayanand Hospital",
             "longitude": null,
@@ -61546,12 +61749,12 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 13,
-            "name": "Girdhari Lal Maternity Hospital",
-            "localname": "Girdhari Lal Maternity Hospital",
+            "name": "West Zone",
+            "localname": "West Zone",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "GLMH",
+            "code": "WZ",
             "children": [
               {
                 "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -61579,208 +61782,6 @@
                     "children": []
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "Kasturba Hospital",
-            "localname": "Kasturba Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "KH",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "RBTB  Hospital",
-            "localname": "RBTB Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "RBTBH",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "Hindu Rao Medical College Hospital",
-            "localname": "Hindu Rao Medical College Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "HRMCH",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "Mata Gujri Hospital",
-            "localname": "Mata Gujri Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "MGH",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "WARD_12",
-                "localname": "WARD_12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARD32",
-                "children": [
-                  {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
-                    "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [
-                      143001
-                    ],
-                    "area": "Area1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "Balak Ram Hospital",
-            "localname": "Balak Ram Hospital",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "BRH",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "NA",
-                "localname": "NA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARDBRH1",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 13,
-            "name": "Colony Hospital Kalkaji",
-            "localname": "Colony Hospital Kalkaji",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "CHK",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
-                "boundaryNum": 1,
-                "name": "NA",
-                "localname": "NA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARDCHK1",
-                "children": []
               }
             ]
           }
