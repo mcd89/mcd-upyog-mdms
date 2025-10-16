@@ -235,6 +235,11 @@
     {
       "code": "BANK_MASTER",
       "name": "BANK MASTER",
+      "description": "User can create, view and update Bank master"
+    },
+    {
+      "code": "BANK_MASTER_CREATOR",
+      "name": "BANK MASTER CREATOR",
       "description": "User can create and view Bank master"
     }
   ]
