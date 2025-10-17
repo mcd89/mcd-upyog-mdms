@@ -248,11 +248,6 @@
       "active": true
     },
     {
-      "name": "Medical Relief (Polyclinics, Colony Hospital)",
-      "code": "079",
-      "active": true
-    },
-    {
       "name": "TB Control Programme (incl. Clinics)",
       "code": "080",
       "active": true
@@ -273,31 +268,6 @@
       "active": true
     },
     {
-      "name": "Hindu Rao Hospital",
-      "code": "084",
-      "active": true
-    },
-    {
-      "name": "Rajan Babu Institute of Pulmonary Medicine & Tuberculosis (RBIPMT) Hospital ",
-      "code": "085",
-      "active": true
-    },
-    {
-      "name": "Kasturba Hospital",
-      "code": "086",
-      "active": true
-    },
-    {
-      "name": "Girdhari Lal Maternity (GLM) Hospital",
-      "code": "087",
-      "active": true
-    },
-    {
-      "name": "Balak Ram Hospital",
-      "code": "088",
-      "active": true
-    },
-    {
       "name": "Atal Bihari Vajpayee Medical College",
       "code": "089",
       "active": true
@@ -313,18 +283,8 @@
       "active": true
     },
     {
-      "name": "Swamy Dayanand Hospital",
-      "code": "092",
-      "active": true
-    },
-    {
       "name": "Leprosy Home - Tahirpur (incl. Clinics)",
       "code": "093",
-      "active": true
-    },
-    {
-      "name": "Mata Gujari Hospital, Tilak Nagar",
-      "code": "146",
       "active": true
     },
     {
