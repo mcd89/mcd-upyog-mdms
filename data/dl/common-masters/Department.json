@@ -248,6 +248,11 @@
       "active": true
     },
     {
+      "name": "Medical Relief - Medical Relief (Polyclinics, Colony Hospital)",
+      "code": "079",
+      "active": true
+    },
+    {
       "name": "TB Control Programme (incl. Clinics)",
       "code": "080",
       "active": true
@@ -268,18 +273,48 @@
       "active": true
     },
     {
-      "name": "Atal Bihari Vajpayee Medical College",
+      "name": "Medical Relief - Hindu Rao Hospital",
+      "code": "084",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Rajan Babu Institute of Pulmonary Medicine & Tuberculosis (RBIPMT) Hospital ",
+      "code": "085",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Kasturba Hospital",
+      "code": "086",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Girdhari Lal Maternity (GLM) Hospital",
+      "code": "087",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Balak Ram Hospital",
+      "code": "088",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Atal Bihari Vajpayee Medical College",
       "code": "089",
       "active": true
     },
     {
-      "name": "Nursing College, Hindu Rao Hospital",
+      "name": "Medical Relief - Nursing College, Hindu Rao Hospital",
       "code": "090",
       "active": true
     },
     {
-      "name": "Nursing College, Kasturba Hospital",
+      "name": "Medical Relief - Nursing College, Kasturba Hospital",
       "code": "091",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Swamy Dayanand Hospital",
+      "code": "092",
       "active": true
     },
     {
@@ -288,7 +323,7 @@
       "active": true
     },
     {
-      "name": "MVID Hospital",
+      "name": "Medical Relief -MVID Hospital",
       "code": "147",
       "active": true
     },
@@ -328,7 +363,7 @@
       "active": true
     },
     {
-      "name": "IPP-VIII - M&CW Centre",
+      "name": "Medical Relief - Mata Gujari Hospital, Tilak Nagar",
       "code": "146",
       "active": true
     },
