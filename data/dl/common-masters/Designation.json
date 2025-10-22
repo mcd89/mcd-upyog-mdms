@@ -215,7 +215,7 @@
     {
       "code": "DESIG_37",
       "name": "CW",
-      "description": "Community Worker",
+      "description": "Community Worker(CW)",
       "active": true
     },
     {
@@ -299,7 +299,7 @@
     {
       "code": "DESIG_51",
       "name": "JA",
-      "description": "Junior Auditor",
+      "description": "Junior Auditor(JA)",
       "active": true
     },
     {
@@ -508,8 +508,8 @@
     },
     {
       "code": "DESIG_86",
-      "name": "Statistical clerk",
-      "description": "Statistical clerk",
+      "name": "Statical Clerk(SC)",
+      "description": "Statical Clerk",
       "active": true
     },
     {
