@@ -125,7 +125,7 @@
     {
       "code": "DESIG_16",
       "name": "Sainitary Inspector",
-      "description": "Clerk",
+      "description": "",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -284,7 +284,7 @@
     },
     {
       "code": "DESIG_37",
-      "name": "CW",
+      "name": "Community worker(CW)",
       "description": "Community Worker",
       "active": true,
       "minamount": 1,
@@ -394,8 +394,8 @@
     },
     {
       "code": "DESIG_51",
-      "name": "JA",
-      "description": "Junior Auditor",
+      "name": "Junior Auditor(JA)",
+      "description": "Junior Auditor(JA)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -674,8 +674,8 @@
     },
     {
       "code": "DESIG_86",
-      "name": "Statistical clerk",
-      "description": "Statistical clerk",
+      "name": "Statical Clerk(SC)",
+      "description": "Statical Clerk",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
