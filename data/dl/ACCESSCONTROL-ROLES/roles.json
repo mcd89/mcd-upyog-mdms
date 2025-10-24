@@ -241,6 +241,11 @@
       "code": "BANK_MASTER_CREATOR",
       "name": "BANK MASTER CREATOR",
       "description": "User can create and view Bank master"
+    },
+    {
+      "code": "DASHBOARD_VIEWER",
+      "name": "DASHBOARD VIEWER",
+      "description": "User can view the dashboard"
     }
   ]
 }

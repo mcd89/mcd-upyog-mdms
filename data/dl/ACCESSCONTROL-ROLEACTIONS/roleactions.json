@@ -30961,6 +30961,12 @@
       "actioncode": "",
       "tenantId": "dl"
     },
+	  {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2929,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 2930,
