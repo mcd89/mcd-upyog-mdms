@@ -3598,29 +3598,6 @@
           },
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
-            "boundaryNum": 21,
-            "name": "Colony Hospital Kalkaji",
-            "localname": "Colony Hospital Kalkaji",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "CHK",
-            "children": [
-              {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa72498",
-                "boundaryNum": 1,
-                "name": "NA",
-                "localname": "NA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "WARDCHK1",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 15,
             "name": "Girdhari Lal Maternity Hospital",
             "localname": "Girdhari Lal Maternity Hospital",
