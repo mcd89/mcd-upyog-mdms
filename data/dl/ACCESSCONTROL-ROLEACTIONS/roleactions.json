@@ -31326,6 +31326,18 @@
       "actionid": 1732,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2935,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 2935,
+      "actioncode": "",
+      "tenantId": "dl"
+    } 
   ]
 }
