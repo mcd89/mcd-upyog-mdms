@@ -95,12 +95,16 @@
       "zoneCode": "KBZ",
       "divisions": [
         {
-          "divisionName": "Electric-IV",
-          "divisionCode": "29"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-IV",
+          "divisionCode": "24"
         },
         {
           "divisionName": "E&M-HQ-II",
           "divisionCode": "19"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
@@ -114,27 +118,65 @@
         {
           "divisionName": "EE-DEMS-Zone",
           "divisionCode": "10"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-II",
+          "divisionCode": "22"
         }
       ]
     },
     {
-      "code": "KPZ_ENG",
-      "departmentName": "Engineering Department",
-      "departmentCode": "110",
+      "code": "KPZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
       "zoneName": "KESHAVPURAM ZONE",
       "zoneCode": "KPZ",
       "divisions": [
         {
-          "divisionName": "M-I",
+          "divisionName": "Maintenance-I (M-I)",
           "divisionCode": "1"
         },
         {
-          "divisionName": "M-II",
+          "divisionName": "Maintenance-II (M-II)",
           "divisionCode": "2"
         },
         {
-          "divisionName": "Proj-I",
+          "divisionName": "Project-I",
           "divisionCode": "5"
+        },
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        }
+      ]
+    },
+    {
+      "code": "KPZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "KESHAVPURAM ZONE",
+      "zoneCode": "KPZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "KPZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "KESHAVPURAM ZONE",
+      "zoneCode": "KPZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
         }
       ]
     },
@@ -248,8 +290,8 @@
       "zoneCode": "NZ",
       "divisions": [
         {
-          "divisionName": "Electric-I",
-          "divisionCode": "7"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
@@ -261,8 +303,8 @@
       "zoneCode": "NZ",
       "divisions": [
         {
-          "divisionName": "Auto-E&M",
-          "divisionCode": "27"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
@@ -508,8 +550,8 @@
           "divisionCode": "6"
         },
         {
-          "divisionName": "EMS",
-          "divisionCode": "14"
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
         },
         {
           "divisionName": "Central Store",
@@ -525,12 +567,8 @@
       "zoneCode": "WZ",
       "divisions": [
         {
-          "divisionName": "Electric-I",
-          "divisionCode": "7"
-        },
-        {
-          "divisionName": "E&M-I",
-          "divisionCode": "13"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
@@ -572,8 +610,8 @@
       "zoneCode": "CSP",
       "divisions": [
         {
-          "divisionName": "Electric-I",
-          "divisionCode": "7"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
@@ -602,8 +640,8 @@
       "zoneCode": "CSP",
       "divisions": [
         {
-          "divisionName": "Auto-E&M",
-          "divisionCode": "27"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
@@ -615,7 +653,7 @@
       "zoneCode": "CSP",
       "divisions": [
         {
-          "divisionName": "SLF Bhalwsa",
+          "divisionName": "EE(Civil)-SLF Bhalswa",
           "divisionCode": "11"
         },
         {
@@ -649,19 +687,19 @@
       "divisions": [
         {
           "divisionName": "E&M-HQ-III",
-          "divisionCode": "19"
+          "divisionCode": "20"
         },
         {
           "divisionName": "E&M-HQ-II",
-          "divisionCode": "24"
+          "divisionCode": "19"
         },
         {
-          "divisionName": "Electric",
-          "divisionCode": "7"
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         },
         {
-          "divisionName": "E&M-SLF",
-          "divisionCode": "18"
+          "divisionName": "EE-E&M-SLF",
+          "divisionCode": "21"
         }
       ]
     },
@@ -686,12 +724,12 @@
       "zoneCode": "CNZ",
       "divisions": [
         {
-          "divisionName": "EMS",
-          "divisionCode": "14"
+          "divisionName": "DEMS-Zone",
+          "divisionCode": "29"
         },
         {
-          "divisionName": "SLF",
-          "divisionCode": "15"
+          "divisionName": "EE-E&M-SLF",
+          "divisionCode": "21"
         },
         {
           "divisionName": "Maintenance-I (M-I)",
@@ -727,8 +765,8 @@
       "zoneCode": "CNZ",
       "divisions": [
         {
-          "divisionName": "SLF",
-          "divisionCode": "15"
+          "divisionName": "EE-E&M-SLF",
+          "divisionCode": "21"
         },
         {
           "divisionName": "Maintenance-IV (M-IV)",
