@@ -19806,7 +19806,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Bill Accounting.View Bills Created By You",
+      "path": "Finance.Expenditure Accounting.Bills Accounting.View Bills Created By You",
       "navigationURL": "services/EGF/ViewBillsofUsers/view"
     }  
   ]
