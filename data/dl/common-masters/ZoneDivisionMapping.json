@@ -298,7 +298,7 @@
     {
       "code": "NZ_104",
       "departmentName": "Motor Workshop (including general workshop)",
-      "departmentCode": "111",
+      "departmentCode": "104",
       "zoneName": "NARELA ZONE",
       "zoneCode": "NZ",
       "divisions": [
@@ -521,7 +521,7 @@
     {
       "code": "WZ_113",
       "departmentName": "Mpl. Engineer's Office",
-      "departmentCode": "110",
+      "departmentCode": "113",
       "zoneName": "WEST ZONE",
       "zoneCode": "WZ",
       "divisions": [
@@ -777,7 +777,7 @@
     {
       "code": "CNZ_115",
       "departmentName": "Building Department",
-      "departmentCode": "110",
+      "departmentCode": "115",
       "zoneName": "CENTRAL ZONE",
       "zoneCode": "CNZ",
       "divisions": [
