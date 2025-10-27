@@ -153,11 +153,6 @@
       "description": "HRMS Administrator which can create new employees"
     },
     {
-      "code": "HRMS_ADMIN",
-      "name": "HRMS Admin",
-      "description": "HRMS Admin"
-    },
-    {
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
