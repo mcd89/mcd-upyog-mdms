@@ -153,11 +153,6 @@
       "description": "HRMS Administrator which can create new employees"
     },
     {
-      "code": "HRMS_ADMIN",
-      "name": "HRMS Admin",
-      "description": "HRMS Admin"
-    },
-    {
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
@@ -241,6 +236,11 @@
       "code": "BANK_MASTER_CREATOR",
       "name": "BANK MASTER CREATOR",
       "description": "User can create and view Bank master"
+    },
+    {
+      "code": "DASHBOARD_VIEWER",
+      "name": "DASHBOARD VIEWER",
+      "description": "User can view the dashboard"
     }
   ]
 }
