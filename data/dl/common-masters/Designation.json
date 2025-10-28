@@ -16,8 +16,8 @@
     },
     {
       "code": "DESIG_03",
-      "name": "Assistant Engineer (AE)",
-      "description": "Assistant Engineer",
+      "name": "AE (Assistant Engineer)",
+      "description": "AE (Assistant Engineer)",
       "active": true
     },
     {
@@ -46,13 +46,13 @@
     },
     {
       "code": "DESIG_08",
-      "name": "Junior Engineer (JE)",
-      "description": "Junior Engineer",
+      "name": "JE (Junior Engineer)",
+      "description": "JE (Junior Engineer)",
       "active": true
     },
     {
       "code": "DESIG_09",
-      "name": "Executive Engineer (EX EN)",
+      "name": "Ex.En (Executive Engineer)",
       "description": "Executive Engineer",
       "active": true
     },
@@ -70,31 +70,31 @@
     },
     {
       "code": "DESIG_12",
-      "name": "Assistant Section Officer (ASO)",
-      "description": "Assistant Section Officer (ASO)",
+      "name": "ASO (Assistant Section Officer)",
+      "description": "ASO (Assistant Section Officer)",
       "active": true
     },
     {
       "code": "DESIG_13",
-      "name": "Health Officer",
-      "description": "Health Officer",
+      "name": "HO (Health Officer)",
+      "description": "HO (Health Officer)",
       "active": true
     },
     {
       "code": "DESIG_14",
-      "name": "Medical Officer",
-      "description": "Medical Officer",
+      "name": "MO (Medical Officer)",
+      "description": "MO (Medical Officer)",
       "active": true
     },
     {
       "code": "DESIG_15",
-      "name": "Chief Sanitary Inspector",
-      "description": "Mechanical Oversear",
+      "name": "CSI (Chief Sanitary Inspector)",
+      "description": "CSI (Chief Sanitary Inspector)",
       "active": true
     },
     {
       "code": "DESIG_16",
-      "name": "Sainitary Inspector",
+      "name": "SI (Sanitary Inspector)",
       "description": "Clerk",
       "active": true
     },
@@ -232,13 +232,13 @@
     },
     {
       "code": "DESIG_43",
-      "name": "MI",
-      "description": "Malaria Inspector",
+      "name": "MI (Malaria Inspector)",
+      "description": "MI (Malaria Inspector)",
       "active": true
     },
     {
       "code": "DESIG_44",
-      "name": "HC",
+      "name": "HC (Head Clerk)",
       "description": "Head Clerk",
       "active": true
     },
@@ -292,7 +292,7 @@
     },
     {
       "code": "DESIG_54",
-      "name": "IAO",
+      "name": "IAO (Internal Audit Officer)",
       "description": "Internal Audit Officer",
       "active": true
     },
@@ -322,7 +322,7 @@
     },
     {
       "code": "DESIG_59",
-      "name": "SE",
+      "name": "SE (Senior Engineer",
       "description": "SE",
       "active": true
     },
@@ -417,12 +417,6 @@
       "active": true
     },
     {
-      "code": "DESIG_76",
-      "name": "Suptt. Engineer",
-      "description": "Suptt. Engineer",
-      "active": true
-    },
-    {
       "code": "DESIG_77",
       "name": "GDMO-I",
       "description": "GDMO-I",
@@ -483,18 +477,6 @@
       "active": true
     },
     {
-      "code": "DESIG_89",
-      "name": "SI (Sanitary Inspector)",
-      "description": "SI (Sanitary Inspector)",
-      "active": true
-    },
-    {
-      "code": "DESIG_90",
-      "name": "SS",
-      "description": "SS",
-      "active": true
-    },
-    {
       "code": "DESIG_91",
       "name": "Registrar",
       "description": "Registrar",
@@ -522,12 +504,6 @@
       "code": "DESIG_96",
       "name": "AD (Additional Director)",
       "description": "AD (Additional Director)",
-      "active": true
-    },
-    {
-      "code": "DESIG_97",
-      "name": "MI",
-      "description": "MI",
       "active": true
     },
     {
