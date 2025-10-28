@@ -219,14 +219,6 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_28",
-      "name": "Accounts Officer",
-      "description": "Accounts Officer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_30",
       "name": "Commissioner",
       "description": "Commissioner",
@@ -238,14 +230,6 @@
       "code": "DESIG_31",
       "name": "Junior Secretariat Assitant (JSA)",
       "description": "Junior Secretariat Assitant (JSA)",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_32",
-      "name": "ASO",
-      "description": "ASO",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -286,14 +270,6 @@
       "code": "DESIG_37",
       "name": "Community worker(CW)",
       "description": "Community Worker",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_38",
-      "name": "CNZ",
-      "description": "CNZ",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -340,22 +316,6 @@
       "code": "DESIG_44",
       "name": "HC",
       "description": "Head Clerk",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_45",
-      "name": "MRA (DW)",
-      "description": "MRA (DW)",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_46",
-      "name": "EE",
-      "description": "Executive Engineer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -497,14 +457,6 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_64",
-      "name": "Dy. HO",
-      "description": "Deputy Health Officer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_65",
       "name": "Dy. Dir",
       "description": "Deputy Director",
@@ -617,14 +569,6 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_79",
-      "name": "Section Officer",
-      "description": "Section Officer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_80",
       "name": "AD Horticulture",
       "description": "AD Horticulture",
@@ -689,22 +633,6 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_88",
-      "name": "CHIEF SANITARY OFFICER",
-      "description": "CHIEF SANITARY OFFICER",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_89",
-      "name": "SI",
-      "description": "SI",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_90",
       "name": "SS",
       "description": "SS",
@@ -737,14 +665,6 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_94",
-      "name": "AC",
-      "description": "AC",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_95",
       "name": "Additional Deputy Commissioner",
       "description": "Additional Deputy Commissioner",
@@ -761,25 +681,9 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_97",
-      "name": "MI",
-      "description": "MI",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_98",
       "name": "DDH",
       "description": "DDH",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_99",
-      "name": "ADH",
-      "description": "ADH",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
