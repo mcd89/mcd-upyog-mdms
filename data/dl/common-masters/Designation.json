@@ -243,12 +243,6 @@
       "active": true
     },
     {
-      "code": "DESIG_45",
-      "name": "MRA (DW)",
-      "description": "MRA (DW)",
-      "active": true
-    },
-    {
       "code": "DESIG_47",
       "name": "VI (Veterinary Inspector)",
       "description": "Veterinary Inspector",
@@ -328,7 +322,7 @@
     },
     {
       "code": "DESIG_60",
-      "name": "Jt. A&C",
+      "name": "JA&C (Jt. Asssessor & Collector)",
       "description": "Jt. Asssessor & Collector",
       "active": true
     },
@@ -340,26 +334,26 @@
     },
     {
       "code": "DESIG_62",
-      "name": "Dy. A&C (Deputy Asessor & Collector)",
-      "description": "Dy. A&C (Deputy Asessor & Collector)",
+      "name": "DA&C (Deputy Asessor & Collector)",
+      "description": "DA&C (Deputy Asessor & Collector)",
       "active": true
     },
     {
       "code": "DESIG_63",
-      "name": "Addl. MS",
-      "description": "Additional Medical Superintendent",
+      "name": "Addl. MS (Additional Medical Superintendent)",
+      "description": "Addl. MS (Additional Medical Superintendent)",
       "active": true
     },
     {
       "code": "DESIG_65",
-      "name": "Dy. Dir",
+      "name": "DD (Deputy Director)",
       "description": "Deputy Director",
       "active": true
     },
     {
       "code": "DESIG_66",
-      "name": "CO",
-      "description": "Community Organiser",
+      "name": "CO (Community Organiser)",
+      "description": "CO (Community Organiser)",
       "active": true
     },
     {
@@ -370,14 +364,14 @@
     },
     {
       "code": "DESIG_68",
-      "name": "MS",
-      "description": "Medical Superidentant",
+      "name": "MS (Medical Superidentant)",
+      "description": "MS (Medical Superidentant)",
       "active": true
     },
     {
       "code": "DESIG_69",
-      "name": "Assistant Director",
-      "description": "Assistant Director",
+      "name": "AD (Assistant Director)",
+      "description": "AD (Assistant Director)",
       "active": true
     },
     {
@@ -418,8 +412,8 @@
     },
     {
       "code": "DESIG_77",
-      "name": "GDMO-I",
-      "description": "GDMO-I",
+      "name": "GDMO-I (General Duty Medical Officer)",
+      "description": "GDMO-I (General Duty Medical Officer)",
       "active": true
     },
     {
@@ -496,14 +490,14 @@
     },
     {
       "code": "DESIG_95",
-      "name": "ADC (Additional Deputy Commissioner)",
+      "name": "Additional Deputy Commissioner)",
       "description": "ADC (Additional Deputy Commissioner)",
       "active": true
     },
     {
       "code": "DESIG_96",
-      "name": "AD (Additional Director)",
-      "description": "AD (Additional Director)",
+      "name": "Ad.D (Additional Director)",
+      "description": "Ad.D (Additional Director)",
       "active": true
     },
     {
@@ -526,13 +520,13 @@
     },
     {
       "code": "DESIG_102",
-      "name": "CLWO - Chief Labour Welfare Officer",
-      "description": "CLWO",
+      "name": "CLWO (Chief Labour Welfare Officer)",
+      "description": "CLWO (Chief Labour Welfare Officer)",
       "active": true
     },
     {
       "code": "DESIG_103",
-      "name": "ADE",
+      "name": "ADE (Assistant Director Education)",
       "description": "ADE (Assistant Director Education)",
       "active": true
     },
@@ -544,20 +538,14 @@
     },
     {
       "code": "DESIG_105",
-      "name": "DDVS",
-      "description": "DDVS",
+      "name": "DDVS (Deputy Director (Veterinary Services)",
+      "description": "DDVS (Deputy Director (Veterinary Services)",
       "active": true
     },
     {
       "code": "DESIG_107",
       "name": "Law Officer",
       "description": "Law Officer",
-      "active": true
-    },
-    {
-      "code": "DESIG_108",
-      "name": "O.I(B)-II",
-      "description": "O.I(B)-II",
       "active": true
     },
     {
@@ -574,14 +562,14 @@
     },
     {
       "code": "DESIG_111",
-      "name": "LDC (Cont.)",
-      "description": "LDC (Cont.)",
+      "name": "LDC (Lower Division Clerk)",
+      "description": "LDC (Lower Division Clerk)",
       "active": true
     },
     {
       "code": "DESIG_112",
-      "name": "A&C",
-      "description": "A&C",
+      "name": "A&C (Asssessor & Collector)",
+      "description": "A&C (Asssessor & Collector)",
       "active": true
     },
     {
