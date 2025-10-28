@@ -22,8 +22,8 @@
     },
     {
       "code": "DESIG_04",
-      "name": "Assistant Account Officer (AAO)",
-      "description": "Assistant Account Officer (AAO)",
+      "name": "AAO (Assistant Accounts Officer)",
+      "description": "AAO (Assistant Accounts Officer)",
       "active": true
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "code": "DESIG_22",
-      "name": "Account Officer (AO)",
-      "description": "Account Officer (AO)",
+      "name": "AO (Accounts Officer)",
+      "description": "AO (Accounts Officer)",
       "active": true
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "code": "DESIG_24",
-     "name": "Deputy Controller Accounts (DCA)",
-      "description": "Deputy Controller Accounts (DCA)",
+      "name": "DCA (Deputy Controller Accounts)",
+      "description": "DCA (Deputy Controller Accounts)",
       "active": true
     },
     {
@@ -165,12 +165,6 @@
       "active": true
     },
     {
-      "code": "DESIG_28",
-      "name": "Accounts Officer",
-      "description": "Accounts Officer",
-      "active": true
-    },
-    {
       "code": "DESIG_30",
       "name": "Commissioner",
       "description": "Commissioner",
@@ -178,56 +172,44 @@
     },
     {
       "code": "DESIG_31",
-      "name": "Junior Secretariat Assitant (JSA)",
-      "description": "Junior Secretariat Assitant (JSA)",
-      "active": true
-    },
-    {
-      "code": "DESIG_32",
-      "name": "ASO",
-      "description": "ASO",
+      "name": "JSA (Junior Secretariat Assitant)",
+      "description": "JSA (Junior Secretariat Assitant)",
       "active": true
     },
     {
       "code": "DESIG_33",
-      "name": "Junior Account Officer (JAO)",
-      "description": "Junior Account Officer (JAO)",
+      "name": "JAO (Junior Accounts Officer)",
+      "description": "JAO (Junior Accounts Officer)",
       "active": true
     },
     {
       "code": "DESIG_34",
-      "name": "SSA",
-      "description": "SSA",
+      "name": "SSA (Senior Secretariat Assitant)",
+      "description": "SSA (Senior Secretariat Assitant)",
       "active": true
     },
     {
       "code": "DESIG_35",
-      "name": "DEO",
-      "description": "DEO",
+      "name": "DEO (Data Entry Operator)",
+      "description": "DEO (Data Entry Operator)",
       "active": true
     },
     {
       "code": "DESIG_36",
-      "name": "ASI",
-      "description": "ASI",
+      "name": "ASI (Assistant Sanitary Inspector)",
+      "description": "ASI (Assistant Sanitary Inspector)",
       "active": true
     },
     {
       "code": "DESIG_37",
-      "name": "Community worker(CW)",
-      "description": "Community Worker(CW)",
-      "active": true
-    },
-    {
-      "code": "DESIG_38",
-      "name": "CNZ",
-      "description": "CNZ",
+      "name": "CW (Community worker)",
+      "description": "CW (Community worker)",
       "active": true
     },
     {
       "code": "DESIG_39",
-      "name": "Dealing Assistant Accounts (DAO)",
-      "description": "Dealing Assistant Accounts (DAO)",
+      "name": "DAO (Dealing Assistant Accounts)",
+      "description": "DAO (Dealing Assistant Accounts)",
       "active": true
     },
     {
@@ -304,7 +286,7 @@
     },
     {
       "code": "DESIG_53",
-      "name": "ACO",
+      "name": "ACO (Assistant Community Organiser",
       "description": "ASSTT. COMMUNITY ORGANISER",
       "active": true
     },
@@ -316,25 +298,25 @@
     },
     {
       "code": "DESIG_55",
-      "name": "AO",
-      "description": "Adminstrative Officer",
+      "name": "(Adminstrative Officer) AO",
+      "description": "(Adminstrative Officer) AO",
       "active": true
     },
     {
       "code": "DESIG_56",
-      "name": "VO",
+      "name": "VO (Veterinary Officer)",
       "description": "Veterinary Officer",
       "active": true
     },
     {
       "code": "DESIG_57",
-      "name": "ZE",
+      "name": "ZE (Zonal Epidemiologist)",
       "description": "Zonal Epidemiologist",
       "active": true
     },
     {
       "code": "DESIG_58",
-      "name": "SO",
+      "name": "SO (Section Officer)",
       "description": "SO",
       "active": true
     },
@@ -453,12 +435,6 @@
       "active": true
     },
     {
-      "code": "DESIG_79",
-      "name": "Section Officer",
-      "description": "Section Officer",
-      "active": true
-    },
-    {
       "code": "DESIG_81",
       "name": "Deputy Chief Auditor",
       "description": "Deputy Chief Auditor",
@@ -532,14 +508,8 @@
     },
     {
       "code": "DESIG_93",
-      "name": "AAO (Assistant Audit Officer)",
-      "description": "AAO (Assistant Audit Officer)",
-      "active": true
-    },
-    {
-      "code": "DESIG_94",
-      "name": "AC (Assistant Commissioner)",
-      "description": "AC (Assistant Commissioner)",
+      "name": "(Assistant Audit Officer) AAO",
+      "description": "(Assistant Audit Officer) AAO",
       "active": true
     },
     {
@@ -587,13 +557,13 @@
     {
       "code": "DESIG_103",
       "name": "ADE",
-      "description": "ADE - Assistant Director (Education)",
+      "description": "ADE (Assistant Director Education)",
       "active": true
     },
     {
       "code": "DESIG_104",
-      "name": "ACA",
-      "description": "ACA",
+      "name": "ACA (Assistant Controller of Accounts)",
+      "description": "ACA (Assistant Controller of Accounts)",
       "active": true
     },
     {
