@@ -19,17 +19,17 @@
       "maxamount": 50000000
     },
     {
-     "code": "DESIG_03",
-      "name": "Assistant Engineer (AE)",
-      "description": "Assistant Engineer",
+      "code": "DESIG_03",
+      "name": "AE (Assistant Engineer)",
+      "description": "AE (Assistant Engineer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
-     "code": "DESIG_04",
-      "name": "Assistant Account Officer (AAO)",
-      "description": "Assistant Account Officer (AAO)",
+      "code": "DESIG_04",
+      "name": "AAO (Assistant Accounts Officer)",
+      "description": "AAO (Assistant Accounts Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -44,8 +44,8 @@
     },
     {
       "code": "DESIG_06",
-      "name": "Superintending Engineer ( O&M)",
-      "description": "Superintending Engineer ( O&M)",
+      "name": "Superintending Engineer (O&M)",
+      "description": "Superintending Engineer (O&M)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -59,16 +59,16 @@
       "maxamount": 50000000
     },
     {
-     "code": "DESIG_08",
-      "name": "Junior Engineer (JE)",
-      "description": "Junior Engineer",
+      "code": "DESIG_08",
+      "name": "JE (Junior Engineer)",
+      "description": "JE (Junior Engineer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
-     "code": "DESIG_09",
-      "name": "Executive Engineer (EX EN)",
+      "code": "DESIG_09",
+      "name": "Ex.En (Executive Engineer)",
       "description": "Executive Engineer",
       "active": true,
       "minamount": 1,
@@ -76,8 +76,8 @@
     },
     {
       "code": "DESIG_10",
-      "name": "Superintending Engineer ( Light)",
-      "description": "Superintending Engineer ( Light)",
+      "name": "Superintending Engineer (Light)",
+      "description": "Superintending Engineer (Light)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -92,40 +92,40 @@
     },
     {
       "code": "DESIG_12",
-      "name": "Assistant Section Officer (ASO)",
-      "description": "Assistant Section Officer (ASO)",
+      "name": "ASO (Assistant Section Officer)",
+      "description": "ASO (Assistant Section Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_13",
-      "name": "Health Officer",
-      "description": "Health Officer",
+      "name": "HO (Health Officer)",
+      "description": "HO (Health Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_14",
-      "name": "Medical Officer",
-      "description": "Medical Officer",
+      "name": "MO (Medical Officer)",
+      "description": "MO (Medical Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_15",
-      "name": "Chief Sanitary Inspector",
-      "description": "Mechanical Oversear",
+      "name": "CSI (Chief Sanitary Inspector)",
+      "description": "CSI (Chief Sanitary Inspector)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_16",
-      "name": "Sainitary Inspector",
-      "description": "",
+      "name": "SI (Sanitary Inspector)",
+      "description": "Clerk",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -172,8 +172,8 @@
     },
     {
       "code": "DESIG_22",
-      "name": "Account Officer(AO)",
-      "description": "Account Officer(AO)",
+      "name": "AO (Accounts Officer)",
+      "description": "AO (Accounts Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -188,8 +188,8 @@
     },
     {
       "code": "DESIG_24",
-      "name": "Deputy Controller Accounts (DCA)",
-      "description": "Deputy Controller Accounts (DCA)",
+      "name": "DCA (Deputy Controller Accounts)",
+      "description": "DCA (Deputy Controller Accounts)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -228,56 +228,56 @@
     },
     {
       "code": "DESIG_31",
-      "name": "Junior Secretariat Assitant (JSA)",
-      "description": "Junior Secretariat Assitant (JSA)",
+      "name": "JSA (Junior Secretariat Assitant)",
+      "description": "JSA (Junior Secretariat Assitant)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_33",
-      "name": "Junior Account Officer (JAO)",
-      "description": "Junior Account Officer (JAO)",
+      "name": "JAO (Junior Accounts Officer)",
+      "description": "JAO (Junior Accounts Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_34",
-      "name": "SSA",
-      "description": "SSA",
+      "name": "SSA (Senior Secretariat Assitant)",
+      "description": "SSA (Senior Secretariat Assitant)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_35",
-      "name": "DEO",
-      "description": "DEO",
+      "name": "DEO (Data Entry Operator)",
+      "description": "DEO (Data Entry Operator)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_36",
-      "name": "ASI",
-      "description": "ASI",
+      "name": "ASI (Assistant Sanitary Inspector)",
+      "description": "ASI (Assistant Sanitary Inspector)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_37",
-      "name": "Community worker(CW)",
-      "description": "Community Worker",
+      "name": "CW (Community worker)",
+      "description": "CW (Community worker)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
-       "code": "DESIG_39",
-      "name": "Dealing Assistant Accounts (DAO)",
-      "description": "Dealing Assistant Accounts (DAO)",
+      "code": "DESIG_39",
+      "name": "DAO (Dealing Assistant Accounts)",
+      "description": "DAO (Dealing Assistant Accounts)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -286,7 +286,9 @@
       "code": "DESIG_40",
       "name": "Data Entry Operator (DEO)",
       "description": "Data Entry Operator (DEO)",
-      "active": true
+      "active": true,
+      "minamount": 1,
+      "maxamount": 50000000
     },
     {
       "code": "DESIG_41",
@@ -298,23 +300,23 @@
     },
     {
       "code": "DESIG_42",
-      "name": "MTS",
-      "description": "MTS",
+      "name": "Multi Tasking Staff (MTS)",
+      "description": "Multi Tasking Staff (MTS)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_43",
-      "name": "MI",
-      "description": "Malaria Inspector",
+      "name": "MI (Malaria Inspector)",
+      "description": "MI (Malaria Inspector)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_44",
-      "name": "HC",
+      "name": "HC (Head Clerk)",
       "description": "Head Clerk",
       "active": true,
       "minamount": 1,
@@ -322,7 +324,7 @@
     },
     {
       "code": "DESIG_47",
-      "name": "VI",
+      "name": "VI (Veterinary Inspector)",
       "description": "Veterinary Inspector",
       "active": true,
       "minamount": 1,
@@ -330,7 +332,7 @@
     },
     {
       "code": "DESIG_48",
-      "name": "APHI",
+      "name": "APHI (Assitant Public Health Inspector)",
       "description": "Assitant Public Health Inspector",
       "active": true,
       "minamount": 1,
@@ -346,7 +348,7 @@
     },
     {
       "code": "DESIG_50",
-      "name": "DDE",
+      "name": "DDE (Deputy Director Education)",
       "description": "Deputy Director of Education",
       "active": true,
       "minamount": 1,
@@ -354,23 +356,23 @@
     },
     {
       "code": "DESIG_51",
-      "name": "Junior Auditor(JA)",
-      "description": "Junior Auditor(JA)",
+      "name": "JA (Junior Auditor)",
+      "description": "JA (Junior Auditor)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_52",
-      "name": "ADH",
-      "description": "ADH",
+      "name": "ADH (Assistant Director(Horticulture)",
+      "description": "ADH (Assistant Director(Horticulture)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_53",
-      "name": "ACO",
+      "name": "ACO (Assistant Community Organiser",
       "description": "ASSTT. COMMUNITY ORGANISER",
       "active": true,
       "minamount": 1,
@@ -378,7 +380,7 @@
     },
     {
       "code": "DESIG_54",
-      "name": "IAO",
+      "name": "IAO (Internal Audit Officer)",
       "description": "Internal Audit Officer",
       "active": true,
       "minamount": 1,
@@ -386,15 +388,15 @@
     },
     {
       "code": "DESIG_55",
-      "name": "AO",
-      "description": "Adminstrative Officer",
+      "name": "(Adminstrative Officer) AO",
+      "description": "(Adminstrative Officer) AO",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_56",
-      "name": "VO",
+      "name": "VO (Veterinary Officer)",
       "description": "Veterinary Officer",
       "active": true,
       "minamount": 1,
@@ -402,7 +404,7 @@
     },
     {
       "code": "DESIG_57",
-      "name": "ZE",
+      "name": "ZE (Zonal Epidemiologist)",
       "description": "Zonal Epidemiologist",
       "active": true,
       "minamount": 1,
@@ -410,7 +412,7 @@
     },
     {
       "code": "DESIG_58",
-      "name": "SO",
+      "name": "SO (Section Officer)",
       "description": "SO",
       "active": true,
       "minamount": 1,
@@ -418,7 +420,7 @@
     },
     {
       "code": "DESIG_59",
-      "name": "SE",
+      "name": "SE (Senior Engineer",
       "description": "SE",
       "active": true,
       "minamount": 1,
@@ -426,7 +428,7 @@
     },
     {
       "code": "DESIG_60",
-      "name": "Jt. A&C",
+      "name": "JA&C (Jt. Asssessor & Collector)",
       "description": "Jt. Asssessor & Collector",
       "active": true,
       "minamount": 1,
@@ -434,31 +436,31 @@
     },
     {
       "code": "DESIG_61",
-      "name": "Deputy Health Officer (DHO)",
-      "description": "Deputy Health Officer (DHO)",
+      "name": "DHO (Deputy Health Officer)",
+      "description": "DHO (Deputy Health Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_62",
-      "name": "Dy. A&C",
-      "description": "Deputy Asessor & Collector",
+      "name": "DA&C (Deputy Asessor & Collector)",
+      "description": "DA&C (Deputy Asessor & Collector)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_63",
-      "name": "Addl. MS",
-      "description": "Additional Medical Superintendent",
+      "name": "Addl. MS (Additional Medical Superintendent)",
+      "description": "Addl. MS (Additional Medical Superintendent)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_65",
-      "name": "Dy. Dir",
+      "name": "DD (Deputy Director)",
       "description": "Deputy Director",
       "active": true,
       "minamount": 1,
@@ -466,8 +468,8 @@
     },
     {
       "code": "DESIG_66",
-      "name": "CO",
-      "description": "Community Organiser",
+      "name": "CO (Community Organiser)",
+      "description": "CO (Community Organiser)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -482,16 +484,16 @@
     },
     {
       "code": "DESIG_68",
-      "name": "MS",
-      "description": "Medical Superidentant",
+      "name": "MS (Medical Superidentant)",
+      "description": "MS (Medical Superidentant)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_69",
-      "name": "Assistant Director",
-      "description": "Assistant Director",
+      "name": "AD (Assistant Director)",
+      "description": "AD (Assistant Director)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -545,17 +547,9 @@
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_76",
-      "name": "Suptt. Engineer",
-      "description": "Suptt. Engineer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
       "code": "DESIG_77",
-      "name": "GDMO-I",
-      "description": "GDMO-I",
+      "name": "GDMO-I (General Duty Medical Officer)",
+      "description": "GDMO-I (General Duty Medical Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -564,14 +558,6 @@
       "code": "DESIG_78",
       "name": "Entomologist",
       "description": "Entomologist",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_80",
-      "name": "AD Horticulture",
-      "description": "AD Horticulture",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -586,10 +572,10 @@
     },
     {
       "code": "DESIG_82",
-      "name": "DDO",
-      "description": "DDO",
+      "name": "DDO (Drawing and Disbursing Officer)",
+      "description": "DDO (Drawing and Disbursing Officer)",
       "active": true,
-      "minamount": 0,
+      "minamount": 1,
       "maxamount": 50000000
     },
     {
@@ -602,8 +588,8 @@
     },
     {
       "code": "DESIG_84",
-      "name": "CMO",
-      "description": "CMO",
+      "name": "CMO (Chief Medical Officer)",
+      "description": "CMO (Chief Medical Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -618,7 +604,7 @@
     },
     {
       "code": "DESIG_86",
-      "name": "Statical Clerk(SC)",
+      "name": "Statical Clerk (SC)",
       "description": "Statical Clerk",
       "active": true,
       "minamount": 1,
@@ -626,16 +612,16 @@
     },
     {
       "code": "DESIG_87",
-      "name": "CSI",
-      "description": "CSI",
+      "name": "CSI (Chief Sanitary Inspector)",
+      "description": "CSI (Chief Sanitary Inspector)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
-      "code": "DESIG_90",
-      "name": "SS",
-      "description": "SS",
+      "code": "DESIG_88",
+      "name": "CSO (Chief Sanitary Officer)",
+      "description": "Chief Sanitary Officer",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -658,32 +644,32 @@
     },
     {
       "code": "DESIG_93",
-      "name": "Assistant Audit Officer",
-      "description": "Assistant Audit Officer",
+      "name": "(Assistant Audit Officer) AAO",
+      "description": "(Assistant Audit Officer) AAO",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_95",
-      "name": "Additional Deputy Commissioner",
-      "description": "Additional Deputy Commissioner",
+      "name": "Additional Deputy Commissioner)",
+      "description": "ADC (Additional Deputy Commissioner)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_96",
-      "name": "AD",
-      "description": "AD",
+      "name": "Ad.D (Additional Director)",
+      "description": "Ad.D (Additional Director)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_98",
-      "name": "DDH",
-      "description": "DDH",
+      "name": "DDH (Deputy Director(Horticulture)",
+      "description": "DDH (Deputy Director(Horticulture)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -706,40 +692,32 @@
     },
     {
       "code": "DESIG_102",
-      "name": "CLWO",
-      "description": "CLWO",
+      "name": "CLWO (Chief Labour Welfare Officer)",
+      "description": "CLWO (Chief Labour Welfare Officer)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_103",
-      "name": "ADE",
-      "description": "ADE",
+      "name": "ADE (Assistant Director Education)",
+      "description": "ADE (Assistant Director Education)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_104",
-      "name": "ACA",
-      "description": "ACA",
+      "name": "ACA (Assistant Controller of Accounts)",
+      "description": "ACA (Assistant Controller of Accounts)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_105",
-      "name": "DDVS",
-      "description": "DDVS",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_106",
-      "name": "DDO (EDN)",
-      "description": "DDO (EDN)",
+      "name": "DDVS (Deputy Director (Veterinary Services)",
+      "description": "DDVS (Deputy Director (Veterinary Services)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -748,14 +726,6 @@
       "code": "DESIG_107",
       "name": "Law Officer",
       "description": "Law Officer",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_108",
-      "name": "O.I(B)-II",
-      "description": "O.I(B)-II",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -778,16 +748,16 @@
     },
     {
       "code": "DESIG_111",
-      "name": "LDC (Cont.)",
-      "description": "LDC (Cont.)",
+      "name": "LDC (Lower Division Clerk)",
+      "description": "LDC (Lower Division Clerk)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
     },
     {
       "code": "DESIG_112",
-      "name": "A&C",
-      "description": "A&C",
+      "name": "A&C (Asssessor & Collector)",
+      "description": "A&C (Asssessor & Collector)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -797,17 +767,17 @@
       "name": "Consultant",
       "description": "Consultant",
       "active": true,
-       "minamount": 1,
+      "minamount": 1,
       "maxamount": 50000000
     },
-     {
+    {
       "code": "DESIG_114",
       "name": "Cashier",
       "description": "Cashier",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
-     },
+    },
     {
       "code": "DESIG_115",
       "name": "Cheque Writer",
