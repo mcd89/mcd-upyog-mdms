@@ -244,8 +244,8 @@
     },
     {
       "code": "DESIG_42",
-      "name": "MTS",
-      "description": "MTS",
+      "name": "Multi Tasking Staff (MTS)",
+      "description": "Multi Tasking Staff (MTS)",
       "active": true
     },
     {
@@ -267,20 +267,14 @@
       "active": true
     },
     {
-      "code": "DESIG_46",
-      "name": "EE",
-      "description": "Executive Engineer",
-      "active": true
-    },
-    {
       "code": "DESIG_47",
-      "name": "VI",
+      "name": "VI (Veterinary Inspector)",
       "description": "Veterinary Inspector",
       "active": true
     },
     {
       "code": "DESIG_48",
-      "name": "APHI",
+      "name": "APHI (Assitant Public Health Inspector)",
       "description": "Assitant Public Health Inspector",
       "active": true
     },
@@ -292,20 +286,20 @@
     },
     {
       "code": "DESIG_50",
-      "name": "DDE",
+      "name": "DDE (Deputy Director Education)",
       "description": "Deputy Director of Education",
       "active": true
     },
     {
       "code": "DESIG_51",
-      "name": "Junior Auditor(JA)",
-      "description": "Junior Auditor(JA)",
+      "name": "JA (Junior Auditor)",
+      "description": "JA (Junior Auditor)",
       "active": true
     },
     {
       "code": "DESIG_52",
-      "name": "ADH",
-      "description": "ADH",
+      "name": "ADH (Assistant Director(Horticulture)",
+      "description": "ADH (Assistant Director(Horticulture)",
       "active": true
     },
     {
@@ -358,26 +352,20 @@
     },
     {
       "code": "DESIG_61",
-      "name": "Deputy Health Officer (DHO)",
-      "description": "Deputy Health Officer (DHO)",
+      "name": "DHO (Deputy Health Officer)",
+      "description": "DHO (Deputy Health Officer)",
       "active": true
     },
     {
       "code": "DESIG_62",
-      "name": "Dy. A&C",
-      "description": "Deputy Asessor & Collector",
+      "name": "Dy. A&C (Deputy Asessor & Collector)",
+      "description": "Dy. A&C (Deputy Asessor & Collector)",
       "active": true
     },
     {
       "code": "DESIG_63",
       "name": "Addl. MS",
       "description": "Additional Medical Superintendent",
-      "active": true
-    },
-    {
-      "code": "DESIG_64",
-      "name": "Dy. HO",
-      "description": "Deputy Health Officer",
       "active": true
     },
     {
@@ -471,12 +459,6 @@
       "active": true
     },
     {
-      "code": "DESIG_80",
-      "name": "AD Horticulture",
-      "description": "AD Horticulture",
-      "active": true
-    },
-    {
       "code": "DESIG_81",
       "name": "Deputy Chief Auditor",
       "description": "Deputy Chief Auditor",
@@ -484,8 +466,8 @@
     },
     {
       "code": "DESIG_82",
-      "name": "DDO",
-      "description": "DDO",
+      "name": "DDO (Drawing and Disbursing Officer)",
+      "description": "DDO (Drawing and Disbursing Officer)",
       "active": true
     },
     {
@@ -496,8 +478,8 @@
     },
     {
       "code": "DESIG_84",
-      "name": "CMO",
-      "description": "CMO",
+      "name": "CMO (Chief Medical Officer)",
+      "description": "CMO (Chief Medical Officer)",
       "active": true
     },
     {
@@ -508,26 +490,26 @@
     },
     {
       "code": "DESIG_86",
-      "name": "Statical Clerk(SC)",
+      "name": "Statical Clerk (SC)",
       "description": "Statical Clerk",
       "active": true
     },
     {
       "code": "DESIG_87",
-      "name": "CSI",
-      "description": "CSI",
+      "name": "CSI (Chief Sanitary Inspector)",
+      "description": "CSI (Chief Sanitary Inspector)",
       "active": true
     },
     {
       "code": "DESIG_88",
-      "name": "CHIEF SANITARY OFFICER",
-      "description": "CHIEF SANITARY OFFICER",
+      "name": "CSO (Chief Sanitary Officer)",
+      "description": "Chief Sanitary Officer",
       "active": true
     },
     {
       "code": "DESIG_89",
-      "name": "SI",
-      "description": "SI",
+      "name": "SI (Sanitary Inspector)",
+      "description": "SI (Sanitary Inspector)",
       "active": true
     },
     {
@@ -550,26 +532,26 @@
     },
     {
       "code": "DESIG_93",
-      "name": "Assistant Audit Officer",
-      "description": "Assistant Audit Officer",
+      "name": "AAO (Assistant Audit Officer)",
+      "description": "AAO (Assistant Audit Officer)",
       "active": true
     },
     {
       "code": "DESIG_94",
-      "name": "AC",
-      "description": "AC",
+      "name": "AC (Assistant Commissioner)",
+      "description": "AC (Assistant Commissioner)",
       "active": true
     },
     {
       "code": "DESIG_95",
-      "name": "Additional Deputy Commissioner",
-      "description": "Additional Deputy Commissioner",
+      "name": "ADC (Additional Deputy Commissioner)",
+      "description": "ADC (Additional Deputy Commissioner)",
       "active": true
     },
     {
       "code": "DESIG_96",
-      "name": "AD",
-      "description": "AD",
+      "name": "AD (Additional Director)",
+      "description": "AD (Additional Director)",
       "active": true
     },
     {
@@ -580,14 +562,8 @@
     },
     {
       "code": "DESIG_98",
-      "name": "DDH",
-      "description": "DDH",
-      "active": true
-    },
-    {
-      "code": "DESIG_99",
-      "name": "ADH",
-      "description": "ADH",
+      "name": "DDH (Deputy Director(Horticulture)",
+      "description": "DDH (Deputy Director(Horticulture)",
       "active": true
     },
     {
@@ -604,14 +580,14 @@
     },
     {
       "code": "DESIG_102",
-      "name": "CLWO",
+      "name": "CLWO - Chief Labour Welfare Officer",
       "description": "CLWO",
       "active": true
     },
     {
       "code": "DESIG_103",
       "name": "ADE",
-      "description": "ADE",
+      "description": "ADE - Assistant Director (Education)",
       "active": true
     },
     {
@@ -624,12 +600,6 @@
       "code": "DESIG_105",
       "name": "DDVS",
       "description": "DDVS",
-      "active": true
-    },
-    {
-      "code": "DESIG_106",
-      "name": "DDO (EDN)",
-      "description": "DDO (EDN)",
       "active": true
     },
     {
