@@ -457,56 +457,183 @@
       ]
     },
     {
-      "code": "SSZ_ENG",
-      "departmentName": "Engineering Department",
+      "code": "SSZ_110",
+      "departmentName": "Engineering Civil",
       "departmentCode": "110",
       "zoneName": "SHAHDARA SOUTH ZONE",
       "zoneCode": "SSZ",
       "divisions": [
         {
-          "divisionName": "M-I",
+          "divisionName": "Maintenance-I (M-I)",
           "divisionCode": "1"
         },
         {
-          "divisionName": "M-II",
+          "divisionName": "Maintenance-II (M-II)",
           "divisionCode": "2"
         },
         {
-          "divisionName": "M-III",
+          "divisionName": "Maintenance-III (M-III)",
           "divisionCode": "3"
         },
         {
-          "divisionName": "M-IV",
+          "divisionName": "Maintenance-IV (M-IV)",
           "divisionCode": "4"
         },
         {
-          "divisionName": "Proj-I",
+          "divisionName": "Project-I",
           "divisionCode": "5"
+        },
+        {
+          "divisionName": "Project-II",
+          "divisionCode": "6"
+        },
+        {
+          "divisionName": "DEMS-Zone",
+          "divisionCode": "29"
+        },
+        {
+          "divisionName": "EE(Civil)-SLF-Gazipur",
+          "divisionCode": "27"
         }
       ]
     },
     {
-      "code": "SZ_ENG",
-      "departmentName": "Engineering Department",
+      "code": "SSZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "SHAHDARA SOUTH ZONE",
+      "zoneCode": "SSZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-II",
+          "divisionCode": "22"
+        },
+        {
+          "divisionName": "E&M-HQ-I",
+          "divisionCode": "18"
+        }
+      ]
+    },
+    {
+      "code": "SSZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "SHAHDARA SOUTH ZONE",
+      "zoneCode": "SSZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    },
+    {
+      "code": "SSZ_104",
+      "departmentName": "Motor Workshop (including general workshop)",
+      "departmentCode": "104",
+      "zoneName": "SHAHDARA SOUTH ZONE",
+      "zoneCode": "SSZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "SZ_110",
+      "departmentName": "Engineering Civil",
       "departmentCode": "110",
       "zoneName": "SOUTH ZONE",
       "zoneCode": "SZ",
       "divisions": [
         {
-          "divisionName": "M-I",
+          "divisionName": "Maintenance-I (M-I)",
           "divisionCode": "1"
         },
         {
-          "divisionName": "M-III",
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Maintenance-III (M-III)",
           "divisionCode": "3"
         },
         {
-          "divisionName": "M-IV",
+          "divisionName": "Maintenance-IV (M-IV)",
           "divisionCode": "4"
         },
         {
-          "divisionName": "Proj-I",
+          "divisionName": "Project-I",
           "divisionCode": "5"
+        },
+        {
+          "divisionName": "Project-II",
+          "divisionCode": "6"
+        }
+      ]
+    },
+    {
+      "code": "SZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "SOUTH ZONE",
+      "zoneCode": "SZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-IV",
+          "divisionCode": "24"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "SZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "SOUTH ZONE",
+      "zoneCode": "SZ",
+      "divisions": [
+        {
+          "divisionName": "DEMS-Zone",
+          "divisionCode": "29"
+        }
+      ]
+    },
+    {
+      "code": "SZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "SOUTH ZONE",
+      "zoneCode": "SZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        }
+      ]
+    },
+    {
+      "code": "SZ_104",
+      "departmentName": "Motor Workshop (including general workshop)",
+      "departmentCode": "104",
+      "zoneName": "SOUTH ZONE",
+      "zoneCode": "SZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
         }
       ]
     },
