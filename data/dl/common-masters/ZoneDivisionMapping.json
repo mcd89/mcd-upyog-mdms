@@ -638,12 +638,30 @@
       ]
     },
     {
-      "code": "HQ_ENG",
-      "departmentName": "Engineering Department",
+      "code": "HQ_110",
+      "departmentName": "Engineering - Civil",
       "departmentCode": "110",
-      "zoneName": "HQ",
+      "zoneName": "Head Quarter",
       "zoneCode": "HQ",
-      "divisions": []
+      "divisions": [
+        {
+          "divisionName": "Project Manager-Electrical-CivicCentre",
+          "divisionCode": "30"
+        }
+      ]
+    },
+    {
+      "code": "HQ_111",
+      "departmentName": "Engineering - Electric",
+      "departmentCode": "111",
+      "zoneName": "Head Quarter",
+      "zoneCode": "HQ",
+      "divisions": [
+        {
+          "divisionName": "Project Manager-Electrical-CivicCentre",
+          "divisionCode": "30"
+        }
+      ]
     },
     {
       "code": "WZ_113",
