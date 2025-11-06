@@ -241,6 +241,11 @@
       "code": "DASHBOARD_VIEWER",
       "name": "DASHBOARD VIEWER",
       "description": "User can view the dashboard"
+    },
+    {
+      "code": "BUDGET_CONTROL",
+      "name": "BUDGET CONTROL",
+      "description": "User can do all the functionalities of Budget"
     }
   ]
 }
