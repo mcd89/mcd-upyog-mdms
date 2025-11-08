@@ -899,6 +899,18 @@
         {
           "divisionName": "Project-II",
           "divisionCode": "6"
+        },
+        {
+          "divisionName": "Parking Projects",
+          "divisionCode": "31"
+        },
+        {
+          "divisionName": "EE-SLF-Okhla",
+          "divisionCode": "28"
+        },
+        {
+          "divisionName": "Water To Engergy - Okhla",
+          "divisionCode": "32"
         }
       ]
     },
