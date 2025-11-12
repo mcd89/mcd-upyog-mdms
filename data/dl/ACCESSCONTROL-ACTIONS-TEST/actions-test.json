@@ -19836,6 +19836,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Contra.Zone Processed Demands",
       "navigationURL": "services/EGF/processedDemandForZone/view"
+    },
+	 {
+      "id": 2938,
+      "name": "Cancelled Bills/Vouchers Report",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Cancelled Bills/Vouchers Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Report Generation.MIS Reports.Cancelled Bills/Vouchers Report",
+      "navigationURL": "services/EGF/report/CancelledBillAndVoucherReport"
     }  
   ]
 }
