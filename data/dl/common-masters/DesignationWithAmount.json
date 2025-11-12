@@ -785,6 +785,14 @@
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
+    },
+    {
+      "code": "DESIG_116",
+      "name": "Principal",
+      "description": "Principal",
+      "active": true,
+      "minamount": 1,
+      "maxamount": 50000000
     }
   ]
 }
