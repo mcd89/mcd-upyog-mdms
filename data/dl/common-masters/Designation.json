@@ -589,6 +589,12 @@
       "name": "Cheque Writer",
       "description": "Cheque Writer",
       "active": true
+    },
+    {
+      "code": "DESIG_116",
+      "name": "Principal",
+      "description": "Principal",
+      "active": true
     }
   ]
 }
