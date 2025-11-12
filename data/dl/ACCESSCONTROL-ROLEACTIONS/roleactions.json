@@ -31428,6 +31428,18 @@
       "actionid": 2937,
       "actioncode": "",
       "tenantId": "dl"
+    },
+	{
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2938,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2938,
+      "actioncode": "",
+      "tenantId": "dl"
     }  
   ]
 }
