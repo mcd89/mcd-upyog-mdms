@@ -9,6 +9,31 @@
     {
        "code": "SDH",
         "name": "Swami Dayanand Hospital"
+    },
+    {
+       "code": "BRH",
+        "name": "Balak Ram Hospital"
+    },
+    {
+       "code": "RBTBH",
+        "name": "RBTB Hospital"
+    },
+    {
+       "code": "MGH",
+        "name": "Mata Gujri Hospital"
+    },
+    {
+       "code": "GLMH",
+        "name": "Girdhari Lal Maternity Hospital"
+    },
+    {
+       "code": "KH",
+        "name": "Kasturba Hospital"
+    },
+    {
+       "code": "MVIDH",
+        "name": "MVID Hospital"
     }
+    
            ]
 }
