@@ -31016,12 +31016,6 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2929,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 2929,
       "actioncode": "",
