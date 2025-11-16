@@ -8,8 +8,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "PTRCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
       "active": true
     },
     {
@@ -265,8 +265,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "RBDCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004"     
+      "debitGL": "45020001",     
+      "creditGL": "45020001"     
     },
     {
       "serviceCode": "RBD",
@@ -284,8 +284,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "HOSCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
       "active": true     
     },
     {
@@ -303,8 +303,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "HTLCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
       "active": true     
     },
     {
@@ -323,8 +323,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "ETLCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004"     
+      "debitGL": "45020001",     
+      "creditGL": "45020001"     
     },
     {
       "serviceCode": "HOS",
@@ -342,8 +342,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "AMTCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
       "active": true     
     },
     {
@@ -362,8 +362,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "AMDCC01",
-      "debitGL": "4502004",     
-      "creditGL": "4502004",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
       "active": true     
     },
     {
