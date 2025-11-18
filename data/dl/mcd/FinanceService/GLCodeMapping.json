@@ -262,7 +262,7 @@
     {
       "serviceCode": "RBD",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "RBDCC01",
       "debitGL": "45020001",     
@@ -281,7 +281,7 @@
     {
       "serviceCode": "HOS",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HOSCC01",
       "debitGL": "45020001",     
@@ -300,7 +300,7 @@
     {
       "serviceCode": "HTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HTLCC01",
       "debitGL": "45020001",     
@@ -320,7 +320,7 @@
     {
       "serviceCode": "ETL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "ETLCC01",
       "debitGL": "45020001",     
@@ -339,7 +339,7 @@
     {
       "serviceCode": "AMT",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "AMTCC01",
       "debitGL": "45020001",     
@@ -359,7 +359,7 @@
     {
       "serviceCode": "AMD",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "AMDCC01",
       "debitGL": "45020001",     
@@ -379,7 +379,7 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "VTLCC01",
       "debitGL": "45020001",     
@@ -464,6 +464,357 @@
       "componentCode": "VTLCC09",
       "debitGL": "1100108",     
       "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "PETCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "processingFee",
+      "componentCode": "PETCC02",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "PETCC03",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "PETCC04",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "PETCC05",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "processingFee",
+      "componentCode": "PETCC06",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "licenseFee",
+      "componentCode": "PETCC07",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "convenienceFee",
+      "componentCode": "PETCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "latePenality",
+      "componentCode": "PETCC09",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "GTLCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "processingFee",
+      "componentCode": "GTLCC02",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "GTLCC03",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "GTLCC04",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "GTLCC05",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "processingFee",
+      "componentCode": "GTLCC06",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "licenseFee",
+      "componentCode": "GTLCC07",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "convenienceFee",
+      "componentCode": "GTLCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "latePenality",
+      "componentCode": "GTLCC09",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    ,
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "FTLCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "processingFee",
+      "componentCode": "FTLCC02",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "FTLCC03",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "FTLCC04",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "FTLCC05",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "permissionFee",
+      "componentCode": "FTLCC06",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "transactionFee",
+      "componentCode": "FTLCC07",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "registrationFee",
+      "componentCode": "FTLCC08",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "interest",
+      "componentCode": "FTLCC09",
+      "debitGL": "1100118",     
+      "creditGL": "1100118",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "processingFee",
+      "componentCode": "FTLCC10",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "licenseFee",
+      "componentCode": "FTLCC11",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "convenienceFee",
+      "componentCode": "FTLCC12",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "latePenality",
+      "componentCode": "FTLCC13",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "permissionFee",
+      "componentCode": "FTLCC14",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "transactionFee",
+      "componentCode": "FTLCC15",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "registrationFee",
+      "componentCode": "FTLCC16",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "interest",
+      "componentCode": "FTLCC17",
+      "debitGL": "1100118",     
+      "creditGL": "1100118",
       "active": true     
     }
   ]
