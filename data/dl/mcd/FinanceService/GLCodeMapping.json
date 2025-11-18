@@ -375,6 +375,96 @@
       "debitGL": "1401103",     
       "creditGL": "1401103",
       "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bank",
+      "componentCode": "VTLCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "processingFee",
+      "componentCode": "VTLCC02",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "VTLCC03",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "VTLCC04",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "VTLCC05",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "processingFee",
+      "componentCode": "VTLCC06",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "licenseFee",
+      "componentCode": "VTLCC07",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "convenienceFee",
+      "componentCode": "VTLCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "latePenality",
+      "componentCode": "VTLCC09",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
     }
   ]
 }
