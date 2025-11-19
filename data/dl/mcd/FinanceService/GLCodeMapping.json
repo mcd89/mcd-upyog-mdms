@@ -815,6 +815,326 @@
       "debitGL": "1100118",     
       "creditGL": "1100118",
       "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "THBCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "finePenality",
+      "componentCode": "THBCC02",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "THBCC03",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "transactionFee",
+      "componentCode": "THBCC04",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "THBCC05",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "THBCC06",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "THBCC07",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "renewalFee",
+      "componentCode": "THBCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "HAWCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "finePenality",
+      "componentCode": "HAWCC02",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "HAWCC03",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "transactionFee",
+      "componentCode": "HAWCC04",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "HAWCC05",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "HAWCC06",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "HAWCC07",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "renewalFee",
+      "componentCode": "HAWCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "HACCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "finePenality",
+      "componentCode": "HACCC02",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "HACCC03",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "transactionFee",
+      "componentCode": "HACCC04",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "HACCC05",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "HACCC06",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "HACCC07",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "renewalFee",
+      "componentCode": "HACCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "HMFCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "finePenality",
+      "componentCode": "HMFCC02",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "latePenality",
+      "componentCode": "HMFCC03",
+      "debitGL": "1100108",     
+      "creditGL": "1100108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "transactionFee",
+      "componentCode": "HMFCC04",
+      "debitGL": "1405018",     
+      "creditGL": "1405018",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "licenseFee",
+      "componentCode": "HMFCC05",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "convenienceFee",
+      "componentCode": "HMFCC06",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "HMFCC07",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "renewalFee",
+      "componentCode": "HMFCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true
     }
   ]
 }
