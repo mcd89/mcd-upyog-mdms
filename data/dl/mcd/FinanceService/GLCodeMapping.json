@@ -1057,6 +1057,16 @@
       "active": true
     },
     {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "hackneyParkingFee",
+      "componentCode": "HACCC09",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true
+    },
+    {
       "serviceCode": "HMF",
       "propertyCategory": "*",
       "taxPeriod": "*",
