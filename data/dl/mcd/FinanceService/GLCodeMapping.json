@@ -1047,7 +1047,7 @@
       "active": true     
     },
     {
-      "serviceCode": "HAW",
+      "serviceCode": "HAC",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "renewalFee",
@@ -1057,7 +1057,7 @@
       "active": true
     },
     {
-      "serviceCode": "HAW",
+      "serviceCode": "HAC",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "hackneyParkingFee",
