@@ -1145,6 +1145,256 @@
       "debitGL": "1401108",     
       "creditGL": "1401108",
       "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "HMFCC01",
+      "debitGL": "45020001",     
+      "creditGL": "45020001",
+      "active": true     
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bookingCharges",
+      "componentCode": "CSDCC01",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bookingChargesGst",
+      "componentCode": "CSDCC02",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "securityCharges",
+      "componentCode": "CSDCC03",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "securityChargesGst",
+      "componentCode": "CSDCC04",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "tentCharge",
+      "componentCode": "CSDCC05",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "tentChargeGst",
+      "componentCode": "CSDCC06",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "serviceCharge",
+      "componentCode": "CSDCC07",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "serviceChargeGst",
+      "componentCode": "CSDCC08",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "acCharge",
+      "componentCode": "CSDCC09",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "acChargeGst",
+      "componentCode": "CSDCC10",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "sanitationCharge",
+      "componentCode": "CSDCC11",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "sanitationChargeGst",
+      "componentCode": "CSDCC12",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bookingCharges",
+      "componentCode": "PRKCC01",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bookingChargesGst",
+      "componentCode": "PRKCC02",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "securityCharges",
+      "componentCode": "PRKCC03",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "securityChargesGst",
+      "componentCode": "PRKCC04",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "tentCharge",
+      "componentCode": "PRKCC05",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "tentChargeGst",
+      "componentCode": "PRKCC06",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "serviceCharge",
+      "componentCode": "PRKCC07",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "serviceChargeGst",
+      "componentCode": "PRKCC08",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "acCharge",
+      "componentCode": "PRKCC09",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "acChargeGst",
+      "componentCode": "PRKCC10",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "sanitationCharge",
+      "componentCode": "PRKCC11",
+      "debitGL": "1405018",
+      "creditGL": "1405018",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "sanitationChargeGst",
+      "componentCode": "PRKCC12",
+      "debitGL": "3503010",
+      "creditGL": "3503010",
+      "active": true
     }
   ]
 }
