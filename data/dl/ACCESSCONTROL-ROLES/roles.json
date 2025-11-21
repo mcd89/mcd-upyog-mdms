@@ -246,6 +246,16 @@
       "code": "BUDGET_CONTROL",
       "name": "BUDGET CONTROL",
       "description": "User can do all the functionalities of Budget"
+    },
+    {
+      "code": "CANCEL_BILL",
+      "name": "Cancel Bills,
+      "description": "User can Cancel the Bills created"
+    },
+    {
+      "code": "CANCEL_VOUCHER",
+      "name": "Cancel Vouchers,
+      "description": "User can Cancel the Voucher created"
     }
   ]
 }
