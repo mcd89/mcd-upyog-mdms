@@ -256,6 +256,11 @@
       "code": "CANCEL_VOUCHER",
       "name": "Cancel Vouchers",
       "description": "User can Cancel the Voucher created"
+    },
+    {
+      "code": "HQSTATEUSER",
+      "name": "HQ State User",
+      "description": "User at HQ level with state access"
     }
   ]
 }
