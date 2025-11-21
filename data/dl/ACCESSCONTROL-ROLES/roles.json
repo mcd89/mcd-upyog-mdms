@@ -249,12 +249,12 @@
     },
     {
       "code": "CANCEL_BILL",
-      "name": "Cancel Bills,
+      "name": "Cancel Bills",
       "description": "User can Cancel the Bills created"
     },
     {
       "code": "CANCEL_VOUCHER",
-      "name": "Cancel Vouchers,
+      "name": "Cancel Vouchers",
       "description": "User can Cancel the Voucher created"
     }
   ]
