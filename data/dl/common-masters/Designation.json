@@ -22,8 +22,8 @@
     },
     {
       "code": "DESIG_04",
-      "name": "AAO (Assistant Accounts Officer)",
-      "description": "AAO (Assistant Accounts Officer)",
+      "name": "AAO (Assistant Accounts Officer/Accountant)",
+      "description": "AAO (Assistant Accounts Officer/Accountant)",
       "active": true
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "code": "DESIG_22",
-      "name": "AO (Accounts Officer)",
-      "description": "AO (Accounts Officer)",
+      "name": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
+      "description": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
       "active": true
     },
     {
@@ -144,12 +144,6 @@
       "code": "DESIG_24",
       "name": "DCA (Deputy Controller Accounts)",
       "description": "DCA (Deputy Controller Accounts)",
-      "active": true
-    },
-    {
-      "code": "DESIG_25",
-      "name": "Accountant",
-      "description": "Accountant",
       "active": true
     },
     {
@@ -528,12 +522,6 @@
       "code": "DESIG_103",
       "name": "ADE (Assistant Director Education)",
       "description": "ADE (Assistant Director Education)",
-      "active": true
-    },
-    {
-      "code": "DESIG_104",
-      "name": "ACA (Assistant Controller of Accounts)",
-      "description": "ACA (Assistant Controller of Accounts)",
       "active": true
     },
     {

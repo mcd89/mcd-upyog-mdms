@@ -28,8 +28,8 @@
     },
     {
       "code": "DESIG_04",
-      "name": "AAO (Assistant Accounts Officer)",
-      "description": "AAO (Assistant Accounts Officer)",
+      "name": "AAO (Assistant Accounts Officer/Accountant)",
+      "description": "AAO (Assistant Accounts Officer/Accountant)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -172,8 +172,8 @@
     },
     {
       "code": "DESIG_22",
-      "name": "AO (Accounts Officer)",
-      "description": "AO (Accounts Officer)",
+     "name": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
+      "description": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -190,14 +190,6 @@
       "code": "DESIG_24",
       "name": "DCA (Deputy Controller Accounts)",
       "description": "DCA (Deputy Controller Accounts)",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_25",
-      "name": "Accountant",
-      "description": "Accountant",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
@@ -644,7 +636,7 @@
     },
     {
       "code": "DESIG_93",
-      "name": "(Assistant Audit Officer) AAO",
+      "name": "(Assistant Audit Officer) AAO ",
       "description": "(Assistant Audit Officer) AAO",
       "active": true,
       "minamount": 1,
@@ -702,14 +694,6 @@
       "code": "DESIG_103",
       "name": "ADE (Assistant Director Education)",
       "description": "ADE (Assistant Director Education)",
-      "active": true,
-      "minamount": 1,
-      "maxamount": 50000000
-    },
-    {
-      "code": "DESIG_104",
-      "name": "ACA (Assistant Controller of Accounts)",
-      "description": "ACA (Assistant Controller of Accounts)",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
