@@ -636,8 +636,8 @@
     },
     {
       "code": "DESIG_93",
-      "name": "(Assistant Audit Officer) ",
-      "description": "(Assistant Audit Officer) ",
+      "name": "(Assistant Audit Officer) AAO ",
+      "description": "(Assistant Audit Officer) AAO",
       "active": true,
       "minamount": 1,
       "maxamount": 50000000
