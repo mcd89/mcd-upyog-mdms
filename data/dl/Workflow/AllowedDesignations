@@ -1,0 +1,22 @@
+{
+  "tenantId": "dl",
+  "moduleName": "Workflow",
+  "AllowedDesignations": [
+    {
+      "code": "JAO",
+      "name": "Junior Accounts Officer"
+    },
+    {
+      "code": "AAO",
+      "name": "Assistant Accounts Officer"
+    },
+    {
+      "code": "AO",
+      "name": "Accounts Officer"
+    },
+    {
+      "code": "EE",
+      "name": "Executive Engineer"
+    }
+  ]
+}
