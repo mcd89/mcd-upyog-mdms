@@ -19890,7 +19890,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "path": "Finance.Report Generation.Budget Reports.Zone Wise Budget",
-      "navigationURL": "services/EGF/budget/budgetReport-ZoneWiseReport.action",
+      "navigationURL": "services/EGF/budget/budgetReport-ZoneWiseReport",
       "leftIcon": "editor:insert-chart"
     }
   ]
