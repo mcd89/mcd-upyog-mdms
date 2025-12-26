@@ -19906,6 +19906,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Contractor.Contractor Inbox",
       "navigationURL": "services/EGF/contractor/inbox"
-    }
+    },
+	{
+      "id": 2943,
+      "name": "Create Employee",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Employee",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Employee. Create Employee",
+      "navigationURL": "services/EGF/employee/new"
+    }  
   ]
 }
