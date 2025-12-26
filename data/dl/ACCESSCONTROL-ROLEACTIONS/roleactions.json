@@ -31518,6 +31518,24 @@
     "actionid": 2942,
     "actioncode": "",
     "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2943,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+  {
+    "rolecode": "EGF_MASTER_ADMIN",
+    "actionid": 2943,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 2943,
+    "actioncode": "",
+    "tenantId": "dl"
   }
   ]
 }
