@@ -19934,6 +19934,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Supplier.Supplier Inbox",
       "navigationURL": "services/EGF/supplier/inbox"
-    }
+    },
+	{
+      "id": 2945,
+      "name": "View & Edit Employee",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Supplier Inbox",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Employee.View & Edit Employee",
+      "navigationURL": "services/EGF/employee/search/view"
+    }  
   ]
 }
