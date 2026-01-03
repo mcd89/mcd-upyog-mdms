@@ -19940,7 +19940,7 @@
       "name": "View & Edit Employee",
       "url": "url",
       "parentModule": "",
-      "displayName": "Supplier Inbox",
+      "displayName": "View & Edit Employee",
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "FinanceMaster",
