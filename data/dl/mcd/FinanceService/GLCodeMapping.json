@@ -400,6 +400,16 @@
       "serviceCode": "VTL",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
+      "componentName": "totalMiltchTax",
+      "componentCode": "VTLCC02",
+      "debitGL": "1100801",     
+      "creditGL": "1100801",
+      "active": true     
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "VTLCC03",
       "debitGL": "1401108",     
