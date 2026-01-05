@@ -19948,6 +19948,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Employee.View & Edit Employee",
       "navigationURL": "services/EGF/employee/search/view"
-    }  
+    },
+	{
+      "id": 2946,
+      "name": "utilizatioBudgetReports_master",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Budget Utilization Report",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Report Generation.Budget Reports.Budget Utilization Report",
+      "navigationURL": "services/EGF/budget/budgetutilizationreport",
+      "leftIcon": "editor:insert-chart"
+    }
   ]
 }
