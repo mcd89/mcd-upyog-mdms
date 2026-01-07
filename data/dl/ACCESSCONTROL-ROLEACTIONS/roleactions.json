@@ -31560,6 +31560,18 @@
     "actionid": 2945,
     "actioncode": "",
     "tenantId": "dl"
-  }	  
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2946,
+    "actioncode": "",
+    "tenantId": "dl"
+   },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 2946,
+    "actioncode": "",
+    "tenantId": "dl"
+    }
   ]
 }
