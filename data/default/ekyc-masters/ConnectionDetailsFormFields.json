@@ -1,0 +1,87 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ekyc-masters",
+  "ConnectionDetailsFormFields": [
+    {
+      "code": "KNO",
+      "label": "K.NO",
+      "uiType": "TEXT",
+      "dataType": "STRING",
+      "readOnly": true,
+      "required": true,
+      "source": "RMS",
+      "displayOrder": 1
+    },
+    {
+      "code": "CONSUMER_NAME",
+      "label": "Consumer Name",
+      "uiType": "TEXT",
+      "dataType": "STRING",
+      "readOnly": true,
+      "required": true,
+      "source": "RMS",
+      "displayOrder": 2
+    },
+    {
+      "code": "ADDRESS",
+      "label": "Address (RMS)",
+      "uiType": "TEXTAREA",
+      "dataType": "STRING",
+      "readOnly": true,
+      "required": true,
+      "source": "RMS",
+      "displayOrder": 3
+    },
+    {
+      "code": "CONNECTION_TYPE",
+      "label": "Connection Type",
+      "uiType": "TEXT",
+      "dataType": "STRING",
+      "readOnly": true,
+      "required": true,
+      "source": "RMS",
+      "displayOrder": 4
+    },
+    {
+      "code": "METER_NUMBER",
+      "label": "Meter Number",
+      "uiType": "TEXT",
+      "dataType": "STRING",
+      "readOnly": true,
+      "required": false,
+      "source": "RMS",
+      "displayOrder": 5
+    },
+    {
+      "code": "PHONE_NUMBER",
+      "label": "Phone Number",
+      "uiType": "TEXT",
+      "dataType": "MOBILE",
+      "readOnly": true,
+      "required": false,
+      "mask": "99XXXXXXXX",
+      "source": "RMS",
+      "displayOrder": 6
+    },
+    {
+      "code": "EMAIL",
+      "label": "Email",
+      "uiType": "TEXT",
+      "dataType": "EMAIL",
+      "readOnly": true,
+      "required": false,
+      "source": "RMS",
+      "displayOrder": 7
+    },
+    {
+      "code": "STATUS",
+      "label": "Status",
+      "uiType": "TEXT",
+      "dataType": "STRING",
+      "readOnly": true,
+      "required": true,
+      "source": "SYSTEM",
+      "displayOrder": 8
+    }
+  ]
+}
