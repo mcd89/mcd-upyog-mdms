@@ -401,8 +401,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "VTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -521,8 +521,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "PETCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -631,8 +631,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "GTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -741,8 +741,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "FTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
