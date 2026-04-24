@@ -392,8 +392,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "VTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -442,8 +442,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "VTLCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -492,8 +492,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "PETCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -502,8 +502,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "PETCC03",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -512,8 +512,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "convenienceFee",
       "componentCode": "PETCC04",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -522,8 +522,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "latePenality",
       "componentCode": "PETCC05",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -532,8 +532,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "PETCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -542,8 +542,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "licenseFee",
       "componentCode": "PETCC07",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -552,8 +552,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "convenienceFee",
       "componentCode": "PETCC08",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -582,8 +582,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "GTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -592,8 +592,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "GTLCC03",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -602,8 +602,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "convenienceFee",
       "componentCode": "GTLCC04",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -612,8 +612,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "latePenality",
       "componentCode": "GTLCC05",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -622,8 +622,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "GTLCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -642,8 +642,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "convenienceFee",
       "componentCode": "GTLCC08",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -652,8 +652,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "latePenality",
       "componentCode": "GTLCC09",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -672,8 +672,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "FTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -682,8 +682,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "FTLCC03",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -692,8 +692,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "convenienceFee",
       "componentCode": "FTLCC04",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -702,8 +702,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "latePenality",
       "componentCode": "FTLCC05",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -722,8 +722,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "transactionFee",
       "componentCode": "FTLCC07",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -732,8 +732,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "registrationFee",
       "componentCode": "FTLCC08",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -742,8 +742,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "interest",
       "componentCode": "FTLCC09",
-      "debitGL": "1100118",     
-      "creditGL": "1100118",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -752,8 +752,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "FTLCC10",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -762,8 +762,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "licenseFee",
       "componentCode": "FTLCC11",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -772,8 +772,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "convenienceFee",
       "componentCode": "FTLCC12",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -782,8 +782,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "latePenality",
       "componentCode": "FTLCC13",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -802,8 +802,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "transactionFee",
       "componentCode": "FTLCC15",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -812,8 +812,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "registrationFee",
       "componentCode": "FTLCC16",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -822,8 +822,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "interest",
       "componentCode": "FTLCC17",
-      "debitGL": "1100118",     
-      "creditGL": "1100118",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
