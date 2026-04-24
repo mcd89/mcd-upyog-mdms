@@ -482,8 +482,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "arrearFee",
       "componentCode": "VTLCC10",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
       "active": true  
     },
     {
