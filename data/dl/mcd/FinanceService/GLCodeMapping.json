@@ -377,7 +377,7 @@
       "active": true     
     },
     {
-      "serviceCode": "",
+      "serviceCode": "VTL",
       "propertyCategory": "*",
       "taxPeriod": "*",
       "componentName": "bank",
