@@ -377,7 +377,7 @@
       "active": true     
     },
     {
-      "serviceCode": "VTL",
+      "serviceCode": "",
       "propertyCategory": "*",
       "taxPeriod": "*",
       "componentName": "bank",
@@ -392,8 +392,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "VTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -442,8 +442,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "VTLCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
