@@ -322,8 +322,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -332,8 +332,48 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "HTLCC02",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "HTLCC03",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "HTL2CC01",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "applicationFee",
+      "componentCode": "HTL2CC02",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "HTL2CC03",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -342,8 +382,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "ETLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002"     
+      "debitGL": "45020081",     
+      "creditGL": "45020081"     
     },
     {
       "serviceCode": "HOS",
@@ -361,8 +401,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "AMTCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -371,8 +411,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "AMTCC02",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -381,8 +421,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "AMDCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -391,8 +431,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "AMDCC02",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
