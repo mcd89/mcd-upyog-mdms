@@ -265,8 +265,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "RBDCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002"     
+      "debitGL": "45020081",     
+      "creditGL": "45020081"     
     },
     {
       "serviceCode": "RBD",
@@ -274,8 +274,18 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "RBDCC02",
-      "debitGL": "1401013",     
-      "creditGL": "1401013",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
+      "active": true     
+    },
+    {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "RBDCC03",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
       "active": true     
     },
     {
@@ -284,8 +294,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HOSCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -294,8 +304,17 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "HOSCC02",
-      "debitGL": "1401007",     
-      "creditGL": "1401007"     
+      "debitGL": "1401013",     
+      "creditGL": "1401013"     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "HOSCC03",
+      "debitGL": "1401013",     
+      "creditGL": "1401013"     
     },
     {
       "serviceCode": "HTL",
