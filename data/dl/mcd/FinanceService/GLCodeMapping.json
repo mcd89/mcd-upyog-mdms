@@ -386,11 +386,21 @@
       "creditGL": "45020081"     
     },
     {
-      "serviceCode": "HOS",
+      "serviceCode": "ETL",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "ETLCC02",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "ETLCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -416,6 +426,16 @@
       "active": true     
     },
     {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "AMTCC03",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
       "serviceCode": "AMD",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -431,6 +451,16 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "AMDCC02",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "AMDCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
