@@ -3074,6 +3074,36 @@
     "debitGL": "3504101",
     "creditGL": "3504101",
     "active": true
+  },
+  {
+    "serviceCode": "MUT",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "bank",
+    "componentCode": "MUTCC01",
+    "debitGL": "45020086",
+    "creditGL": "45020086",
+    "active": true
+  },
+  {
+    "serviceCode": "MUT",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "applicationFee",
+    "componentCode": "MUTCC02",
+    "debitGL": "1404023",
+    "creditGL": "1404023",
+    "active": true
+  },
+  {
+    "serviceCode": "MUT",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "applicationFee",
+    "componentCode": "MUTCC03",
+    "debitGL": "1404023",
+    "creditGL": "1404023",
+    "active": true
   }
  ]
 }
