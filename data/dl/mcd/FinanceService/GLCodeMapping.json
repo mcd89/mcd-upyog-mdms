@@ -2114,6 +2114,156 @@
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
-    }
-  ]
+    },
+    {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "bank",
+    "componentCode": "PRMSCC01",
+    "debitGL": "45020226",
+    "creditGL": "45020226",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "latePenalty",
+    "componentCode": "PRMSCC02",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "latePenalty",
+    "componentCode": "PRMSCC03",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "convenienceFee",
+    "componentCode": "PRMSCC04",
+    "debitGL": "1407003",
+    "creditGL": "1407003",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "convenienceFee",
+    "componentCode": "PRMSCC05",
+    "debitGL": "1407003",
+    "creditGL": "1407003",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "transactionFee",
+    "componentCode": "PRMSCC06",
+    "debitGL": "1407003",
+    "creditGL": "1407003",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "transactionFee",
+    "componentCode": "PRMSCC07",
+    "debitGL": "1407003",
+    "creditGL": "1407003",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "arrearFee",
+    "componentCode": "PRMSCC08",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "arrearFee",
+    "componentCode": "PRMSCC09",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "advanceMlf",
+    "componentCode": "PRMSCC10",
+    "debitGL": "3504102",
+    "creditGL": "3504102",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "advanceMlf",
+    "componentCode": "PRMSCC11",
+    "debitGL": "3504102",
+    "creditGL": "3504102",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "monthlyFee",
+    "componentCode": "PRMSCC12",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "monthlyFee",
+    "componentCode": "PRMSCC13",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "securityDeposit",
+    "componentCode": "PRMSCC14",
+    "debitGL": "3503010",
+    "creditGL": "3503010",
+    "active": true
+  },
+  {
+    "serviceCode": "PRMS",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "securityDeposit",
+    "componentCode": "PRMSCC15",
+    "debitGL": "3503010",
+    "creditGL": "3503010",
+    "active": true
+  }
+ ]
 }
