@@ -2804,6 +2804,276 @@
     "debitGL": "3504101",
     "creditGL": "3504101",
     "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "bank",
+    "componentCode": "PTR_AMN_CCC01",
+    "debitGL": "45020086",
+    "creditGL": "45020086",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "currentDemand",
+    "componentCode": "PTR_AMN_CCC02",
+    "debitGL": "4311002",
+    "creditGL": "4311002",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "currentDemand",
+    "componentCode": "PTR_AMN_CCC03",
+    "debitGL": "4311002",
+    "creditGL": "4311002",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "educationCess",
+    "componentCode": "PTR_AMN_CCC04",
+    "debitGL": "1105201",
+    "creditGL": "1105201",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "educationCess",
+    "componentCode": "PTR_AMN_CCC05",
+    "debitGL": "1105201",
+    "creditGL": "1105201",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "exemption",
+    "componentCode": "PTR_AMN_CCC06",
+    "debitGL": "1407007",
+    "creditGL": "1407007",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "exemption",
+    "componentCode": "PTR_AMN_CCC07",
+    "debitGL": "1407007",
+    "creditGL": "1407007",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "finePenalty",
+    "componentCode": "PTR_AMN_CCC08",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "finePenalty",
+    "componentCode": "PTR_AMN_CCC09",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "latePenalty",
+    "componentCode": "PTR_AMN_CCC10",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "latePenalty",
+    "componentCode": "PTR_AMN_CCC11",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "rebate",
+    "componentCode": "PTR_AMN_CCC12",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "rebate",
+    "componentCode": "PTR_AMN_CCC13",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "onlineRebate",
+    "componentCode": "PTR_AMN_CCC14",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "onlineRebate",
+    "componentCode": "PTR_AMN_CCC15",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "interest",
+    "componentCode": "PTR_AMN_CCC16",
+    "debitGL": "1100118",
+    "creditGL": "1100118",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "interest",
+    "componentCode": "PTR_AMN_CCC17",
+    "debitGL": "1100118",
+    "creditGL": "1100118",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "rebateDescription",
+    "componentCode": "PTR_AMN_CCC18",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "rebateDescription",
+    "componentCode": "PTR_AMN_CCC19",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "tradeFee",
+    "componentCode": "PTR_AMN_CCC20",
+    "debitGL": "1401103",
+    "creditGL": "1401103",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "tradeFee",
+    "componentCode": "PTR_AMN_CCC21",
+    "debitGL": "1401103",
+    "creditGL": "1401103",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "userCharge",
+    "componentCode": "PTR_AMN_CCC22",
+    "debitGL": "1405017",
+    "creditGL": "1405017",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "userCharge",
+    "componentCode": "PTR_AMN_CCC23",
+    "debitGL": "1405017",
+    "creditGL": "1405017",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "adjustmentAmount",
+    "componentCode": "PTR_AMN_CCC24",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "adjustmentAmount",
+    "componentCode": "PTR_AMN_CCC25",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "CURRENT",
+    "componentName": "alreadyPaid",
+    "componentCode": "PTR_AMN_CCC26",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_AMN_C",
+    "propertyCategory": "*",
+    "taxPeriod": "ARREARS",
+    "componentName": "alreadyPaid",
+    "componentCode": "PTR_AMN_CCC27",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
+    "active": true
   }
  ]
 }
