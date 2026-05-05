@@ -810,7 +810,7 @@
       "propertyCategory": "*",
       "taxPeriod": "ARREARS",
       "componentName": "bank",
-      "componentCode": "GTLCC01",
+      "componentCode": "GTLCC12",
       "debitGL": "45020081",     
       "creditGL": "45020081",
       "active": true     
