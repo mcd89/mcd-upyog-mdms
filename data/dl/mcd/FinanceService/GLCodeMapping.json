@@ -515,7 +515,7 @@
     {
       "serviceCode": "HTL",
       "propertyCategory": "*",
-      "taxPeriod": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "HTLCC01",
       "debitGL": "45020081",     
@@ -931,7 +931,7 @@
       "active": true     
     },
     {
-      "serviceCode": "",
+      "serviceCode": "GTL",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "bank",
