@@ -439,7 +439,7 @@
     {
       "serviceCode": "RBD",
       "propertyCategory": "*",
-      "taxPeriod": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "RBDCC01",
       "debitGL": "45020081",     
@@ -466,9 +466,18 @@
       "active": true     
     },
     {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bank",
+      "componentCode": "RBDCC04",
+      "debitGL": "45020081",     
+      "creditGL": "45020081"     
+    },
+    {
       "serviceCode": "HOS",
       "propertyCategory": "*",
-      "taxPeriod": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "HOSCC01",
       "debitGL": "45020081",     
@@ -492,6 +501,16 @@
       "componentCode": "HOSCC03",
       "debitGL": "1401013",     
       "creditGL": "1401013"     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bank",
+      "componentCode": "HOSCC04",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
     },
     {
       "serviceCode": "HTL",
@@ -524,9 +543,19 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bank",
+      "componentCode": "HTLCC04",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
+    },
+    {
       "serviceCode": "HTL2",
       "propertyCategory": "*",
-      "taxPeriod": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "HTL2CC01",
       "debitGL": "45020081",     
@@ -554,9 +583,19 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bank",
+      "componentCode": "HTL2CC04",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
+    },
+    {
       "serviceCode": "ETL",
       "propertyCategory": "*",
-      "taxPeriod": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "ETLCC01",
       "debitGL": "45020081",     
@@ -582,10 +621,19 @@
       "creditGL": "1401107",
       "active": true     
     },
+      {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bank",
+      "componentCode": "ETLCC04",
+      "debitGL": "45020081",     
+      "creditGL": "45020081"     
+    },
     {
       "serviceCode": "AMT",
       "propertyCategory": "*",
-      "taxPeriod": "*",
+      "taxPeriod": "CURRENT",
       "componentName": "bank",
       "componentCode": "AMTCC01",
       "debitGL": "45020081",     
@@ -610,6 +658,16 @@
       "componentCode": "AMTCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bank",
+      "componentCode": "AMTCC04",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -873,7 +931,7 @@
       "active": true     
     },
     {
-      "serviceCode": "GTL",
+      "serviceCode": "",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "bank",
