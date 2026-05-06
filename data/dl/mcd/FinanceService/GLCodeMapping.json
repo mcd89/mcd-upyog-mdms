@@ -875,7 +875,7 @@
     {
       "serviceCode": "GTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "GTLCC01",
       "debitGL": "45020081",     
@@ -980,16 +980,6 @@
       "componentCode": "GTLCC11",
       "debitGL": "1401103",     
       "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "GTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "bank",
-      "componentCode": "GTLCC12",
-      "debitGL": "45020081",     
-      "creditGL": "45020081",
       "active": true     
     },
     {
