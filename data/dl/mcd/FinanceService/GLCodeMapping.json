@@ -96,7 +96,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "COMMERCIAL",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "PTRCC10",
       "debitGL": "4311004",
       "creditGL": "4311004",
@@ -106,7 +106,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "STATE_GOVT",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "PTRCC11",
       "debitGL": "4311006",
       "creditGL": "4311006",
@@ -116,7 +116,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "CENTRAL_GOVT",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "PTRCC12",
       "debitGL": "4311008",
       "creditGL": "4311008",
@@ -126,7 +126,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "SICK_CLOSED",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "PTRCC13",
       "debitGL": "4311010",
       "creditGL": "4311010",
@@ -136,7 +136,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "LITIGATION",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "PTRCC14",
       "debitGL": "4311012",
       "creditGL": "4311012",
@@ -146,7 +146,7 @@
       "serviceCode": "PTR",
       "propertyCategory": "MIXED_USE",
       "taxPeriod": "ARREARS",
-      "componentName": "propertyTax",
+      "componentName": "currentDemand",
       "componentCode": "PTRCC15",
       "debitGL": "4311016",
       "creditGL": "4311016",
@@ -155,273 +155,136 @@
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "educationCess",
       "componentCode": "PTRCC16",
       "debitGL": "1105201",
       "creditGL": "1105201",
       "active": true
     },
-    {
+     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "educationCess",
+      "taxPeriod": "*",
+      "componentName": "exemption",
       "componentCode": "PTRCC17",
-      "debitGL": "1105201",
-      "creditGL": "1105201",
-      "active": true
+      "debitGL": "1407007",
+      "creditGL": "1407007"
     },
-     {
+    {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "exemption",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
       "componentCode": "PTRCC18",
-      "debitGL": "1407007",
-      "creditGL": "1407007"
+      "debitGL": "1100108",
+      "creditGL": "1100108",
+      "active": true
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "exemption",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
       "componentCode": "PTRCC19",
-      "debitGL": "1407007",
-      "creditGL": "1407007"
+      "debitGL": "1100108",
+      "creditGL": "1100108"
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "latePenality",
+      "taxPeriod": "*",
+      "componentName": "rebate",
       "componentCode": "PTRCC20",
-      "debitGL": "1100108",
-      "creditGL": "1100108",
+      "debitGL": "2408001",
+      "creditGL": "2408001",
       "active": true
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
+      "taxPeriod": "*",
+      "componentName": "onlineRebate",
       "componentCode": "PTRCC21",
-      "debitGL": "1100108",
-      "creditGL": "1100108",
+      "debitGL": "2408001",
+      "creditGL": "2408001",
       "active": true
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "finePenality",
+      "taxPeriod": "*",
+      "componentName": "interest",
       "componentCode": "PTRCC22",
-      "debitGL": "1100108",
-      "creditGL": "1100108"
+      "debitGL": "1100118",
+      "creditGL": "1100118",
+      "active": true
     },
-     {
+    {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "finePenality",
+      "taxPeriod": "*",
+      "componentName": "rebateDescription",
       "componentCode": "PTRCC23",
-      "debitGL": "1100108",
-      "creditGL": "1100108"
+      "debitGL": "2408001",
+      "creditGL": "2408001",
+      "active": true
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "rebate",
+      "taxPeriod": "*",
+      "componentName": "tradeFee",
       "componentCode": "PTRCC24",
-      "debitGL": "2408001",
-      "creditGL": "2408001",
-      "active": true
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "rebate",
+      "taxPeriod": "*",
+      "componentName": "userCharge",
       "componentCode": "PTRCC25",
-      "debitGL": "2408001",
-      "creditGL": "2408001",
-      "active": true
+      "debitGL": "1404032",     
+      "creditGL": "1404032"     
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "onlineRebate",
+      "taxPeriod": "*",
+      "componentName": "adjustmentAmount",
       "componentCode": "PTRCC26",
-      "debitGL": "2408001",
-      "creditGL": "2408001",
-      "active": true
+      "debitGL": "1402006",     
+      "creditGL": "1402006",
+      "active": true     
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "onlineRebate",
+      "taxPeriod": "*",
+      "componentName": "alreadyPaid",
       "componentCode": "PTRCC27",
-      "debitGL": "2408001",
-      "creditGL": "2408001",
-      "active": true
+      "debitGL": "3504101",     
+      "creditGL": "3504101",
+      "active": true     
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "interest",
+      "taxPeriod": "*",
+      "componentName": "Surcharge",
       "componentCode": "PTRCC28",
-      "debitGL": "1100118",
-      "creditGL": "1100118",
-      "active": true
+      "debitGL": "1100107",     
+      "creditGL": "1100107",
+      "active": true     
     },
     {
       "serviceCode": "PTR",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "interest",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
       "componentCode": "PTRCC29",
-      "debitGL": "1100118",
-      "creditGL": "1100118",
-      "active": true
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "rebateDescription",
-      "componentCode": "PTRCC30",
-      "debitGL": "2408001",
-      "creditGL": "2408001",
-      "active": true
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "rebateDescription",
-      "componentCode": "PTRCC31",
-      "debitGL": "2408001",
-      "creditGL": "2408001",
-      "active": true
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "tradeFee",
-      "componentCode": "PTRCC32",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "tradeFee",
-      "componentCode": "PTRCC33",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "userCharge",
-      "componentCode": "PTRCC34",
-      "debitGL": "1404032",     
-      "creditGL": "1404032"     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "userCharge",
-      "componentCode": "PTRCC35",
-      "debitGL": "1404032",     
-      "creditGL": "1404032"     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "adjustmentAmount",
-      "componentCode": "PTRCC36",
-      "debitGL": "1402006",     
-      "creditGL": "1402006",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "adjustmentAmount",
-      "componentCode": "PTRCC37",
-      "debitGL": "1402006",     
-      "creditGL": "1402006",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "alreadyPaid",
-      "componentCode": "PTRCC38",
-      "debitGL": "3504101",     
-      "creditGL": "3504101",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "alreadyPaid",
-      "componentCode": "PTRCC39",
-      "debitGL": "3504101",     
-      "creditGL": "3504101",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "Surcharge",
-      "componentCode": "PTRCC40",
-      "debitGL": "1100107",     
-      "creditGL": "1100107",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "Surcharge",
-      "componentCode": "PTRCC41",
-      "debitGL": "1100107",     
-      "creditGL": "1100107",
-      "active": true     
-    },
-     {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "roundoff",
-      "componentCode": "PTRCC42",
-      "debitGL": "1808011",     
-      "creditGL": "1808011",
-      "active": true     
-    },
-    {
-      "serviceCode": "PTR",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "roundoff",
-      "componentCode": "PTRCC43",
       "debitGL": "1808011",     
       "creditGL": "1808011",
       "active": true     
@@ -438,19 +301,9 @@
     {
       "serviceCode": "RBD",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "RBDCC02",
-      "debitGL": "1401302",     
-      "creditGL": "1401302",
-      "active": true     
-    },
-    {
-      "serviceCode": "RBD",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "RBDCC03",
       "debitGL": "1401302",     
       "creditGL": "1401302",
       "active": true     
@@ -468,18 +321,9 @@
     {
       "serviceCode": "HOS",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "HOSCC02",
-      "debitGL": "1401013",     
-      "creditGL": "1401013"     
-    },
-    {
-      "serviceCode": "HOS",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "HOSCC03",
       "debitGL": "1401013",     
       "creditGL": "1401013"     
     },
@@ -496,19 +340,9 @@
     {
       "serviceCode": "HTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "HTLCC02",
-      "debitGL": "1401107",     
-      "creditGL": "1401107",
-      "active": true     
-    },
-    {
-      "serviceCode": "HTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "HTLCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -526,19 +360,9 @@
     {
       "serviceCode": "HTL2",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "HTL2CC02",
-      "debitGL": "1401107",     
-      "creditGL": "1401107",
-      "active": true     
-    },
-    {
-      "serviceCode": "HTL2",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "HTL2CC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -555,19 +379,9 @@
     {
       "serviceCode": "ETL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "ETLCC02",
-      "debitGL": "1401107",     
-      "creditGL": "1401107",
-      "active": true     
-    },
-    {
-      "serviceCode": "ETL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "ETLCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -585,19 +399,9 @@
     {
       "serviceCode": "AMT",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "AMTCC02",
-      "debitGL": "1401107",     
-      "creditGL": "1401107",
-      "active": true     
-    },
-    {
-      "serviceCode": "AMT",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "AMTCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -615,19 +419,9 @@
     {
       "serviceCode": "AMD",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "applicationFee",
       "componentCode": "AMDCC02",
-      "debitGL": "1401107",     
-      "creditGL": "1401107",
-      "active": true     
-    },
-    {
-      "serviceCode": "AMD",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "applicationFee",
-      "componentCode": "AMDCC03",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -645,7 +439,7 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "processingFee",
       "componentCode": "VTLCC02",
       "debitGL": "1407003",     
@@ -655,7 +449,7 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "totalMiltchTax",
       "componentCode": "VTLCC03",
       "debitGL": "1100801",     
@@ -665,7 +459,7 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "VTLCC04",
       "debitGL": "1401108",     
@@ -675,7 +469,7 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "VTLCC05",
       "debitGL": "1401108",     
@@ -685,7 +479,7 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "VTLCC06",
       "debitGL": "1100108",     
@@ -695,71 +489,11 @@
     {
       "serviceCode": "VTL",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "processingFee",
+      "taxPeriod": "*",
+      "componentName": "arrearFee",
       "componentCode": "VTLCC07",
-      "debitGL": "1407003",     
-      "creditGL": "1407003",
-      "active": true     
-    },
-    {
-      "serviceCode": "VTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "VTLCC08",
       "debitGL": "1401108",     
       "creditGL": "1401108",
-      "active": true     
-    },
-    {
-      "serviceCode": "VTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "convenienceFee",
-      "componentCode": "VTLCC09",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
-      "active": true     
-    },
-    {
-      "serviceCode": "VTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "VTLCC10",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
-      "active": true     
-    },
-    {
-      "serviceCode": "VTL",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "arrearFee",
-      "componentCode": "VTLCC11",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
-      "active": true  
-    },
-    {
-      "serviceCode": "VTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "VTLCC12",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
-      "active": true  
-    }, 
-    {
-      "serviceCode": "VTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "totalMiltchTax",
-      "componentCode": "VTLCC13",
-      "debitGL": "1100801",     
-      "creditGL": "1100801",
       "active": true     
     },
     {
@@ -775,7 +509,7 @@
     {
       "serviceCode": "PET",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "processingFee",
       "componentCode": "PETCC02",
       "debitGL": "1407003",     
@@ -785,7 +519,7 @@
     {
       "serviceCode": "PET",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "PETCC03",
       "debitGL": "1100802",     
@@ -795,7 +529,7 @@
     {
       "serviceCode": "PET",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "PETCC04",
       "debitGL": "1100802",     
@@ -805,7 +539,7 @@
     {
       "serviceCode": "PET",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "PETCC05",
       "debitGL": "1100802",     
@@ -815,59 +549,9 @@
     {
       "serviceCode": "PET",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "processingFee",
+      "taxPeriod": "*",
+      "componentName": "arrearFee",
       "componentCode": "PETCC06",
-      "debitGL": "1407003",     
-      "creditGL": "1407003",
-      "active": true     
-    },
-    {
-      "serviceCode": "PET",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "PETCC07",
-      "debitGL": "1100802",     
-      "creditGL": "1100802",
-      "active": true     
-    },
-    {
-      "serviceCode": "PET",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "convenienceFee",
-      "componentCode": "PETCC08",
-      "debitGL": "1100802",     
-      "creditGL": "1100802",
-      "active": true     
-    },
-    {
-      "serviceCode": "PET",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "PETCC09",
-      "debitGL": "1100802",     
-      "creditGL": "1100802",
-      "active": true     
-    },
-    {
-      "serviceCode": "PET",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "arrearFee",
-      "componentCode": "PETCC10",
-      "debitGL": "1100802",     
-      "creditGL": "1100802",
-      "active": true     
-    },
-    {
-      "serviceCode": "PET",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "PETCC11",
       "debitGL": "1100802",     
       "creditGL": "1100802",
       "active": true     
@@ -885,7 +569,7 @@
     {
       "serviceCode": "GTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "processingFee",
       "componentCode": "GTLCC02",
       "debitGL": "1407003",     
@@ -895,7 +579,7 @@
     {
       "serviceCode": "GTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "GTLCC03",
       "debitGL": "1401103",     
@@ -905,7 +589,7 @@
     {
       "serviceCode": "GTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "GTLCC04",
       "debitGL": "1401103",     
@@ -915,7 +599,7 @@
     {
       "serviceCode": "GTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "GTLCC05",
       "debitGL": "1401103",     
@@ -925,59 +609,9 @@
     {
       "serviceCode": "GTL",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "processingFee",
+      "taxPeriod": "*",
+      "componentName": "arrearFee",
       "componentCode": "GTLCC06",
-      "debitGL": "1407003",     
-      "creditGL": "1407003",
-      "active": true     
-    },
-    {
-      "serviceCode": "GTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "GTLCC07",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "GTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "convenienceFee",
-      "componentCode": "GTLCC08",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "GTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "GTLCC09",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "GTL",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "arrearFee",
-      "componentCode": "GTLCC10",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
-      "active": true     
-    },
-    {
-      "serviceCode": "GTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "GTLCC11",
       "debitGL": "1401103",     
       "creditGL": "1401103",
       "active": true     
@@ -995,7 +629,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "processingFee",
       "componentCode": "FTLCC02",
       "debitGL": "1407003",     
@@ -1005,7 +639,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "FTLCC03",
       "debitGL": "1401105",     
@@ -1015,7 +649,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "FTLCC04",
       "debitGL": "1401105",     
@@ -1025,7 +659,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "FTLCC05",
       "debitGL": "1401105",     
@@ -1035,7 +669,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "permissionFee",
       "componentCode": "FTLCC06",
       "debitGL": "1401105",     
@@ -1045,7 +679,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "transactionFee",
       "componentCode": "FTLCC07",
       "debitGL": "1401105",     
@@ -1055,7 +689,7 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "registrationFee",
       "componentCode": "FTLCC08",
       "debitGL": "1401105",     
@@ -1065,113 +699,23 @@
     {
       "serviceCode": "FTL",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "interest",
       "componentCode": "FTLCC09",
       "debitGL": "1401105",     
       "creditGL": "1401105",
       "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "processingFee",
-      "componentCode": "FTLCC10",
-      "debitGL": "1407003",     
-      "creditGL": "1407003",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "FTLCC11",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "convenienceFee",
-      "componentCode": "FTLCC12",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "FTLCC13",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "permissionFee",
-      "componentCode": "FTLCC14",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "transactionFee",
-      "componentCode": "FTLCC15",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "registrationFee",
-      "componentCode": "FTLCC16",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "interest",
-      "componentCode": "FTLCC17",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "arrearFee",
-      "componentCode": "FTLCC18",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
-    },
-    {
-      "serviceCode": "FTL",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "FTLCC19",
-      "debitGL": "1401105",     
-      "creditGL": "1401105",
-      "active": true     
     }, 
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "arrearFee",
+      "componentCode": "FTLCC10",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
@@ -1185,7 +729,7 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "finePenality",
       "componentCode": "THBCC02",
       "debitGL": "1401102",     
@@ -1195,7 +739,7 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "THBCC03",
       "debitGL": "1401102",     
@@ -1205,7 +749,7 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "transactionFee",
       "componentCode": "THBCC04",
       "debitGL": "1401102",     
@@ -1215,7 +759,7 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "THBCC05",
       "debitGL": "1401102",     
@@ -1225,7 +769,7 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "THBCC06",
       "debitGL": "1401108",     
@@ -1235,7 +779,7 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "arrearFee",
       "componentCode": "THBCC07",
       "debitGL": "1401102",     
@@ -1245,69 +789,9 @@
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "renewalFee",
       "componentCode": "THBCC08",
-      "debitGL": "1401102",     
-      "creditGL": "1401102",
-      "active": true     
-    },
-    {
-      "serviceCode": "THB",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "finePenality",
-      "componentCode": "THBCC09",
-      "debitGL": "1401102",     
-      "creditGL": "1401102",
-      "active": true     
-    },
-    {
-      "serviceCode": "THB",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "THBCC10",
-      "debitGL": "1401102",     
-      "creditGL": "1401102",
-      "active": true     
-    },
-    {
-      "serviceCode": "THB",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "transactionFee",
-      "componentCode": "THBCC11",
-      "debitGL": "1401102",     
-      "creditGL": "1401102",
-      "active": true     
-    },
-    {
-      "serviceCode": "THB",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "THBCC12",
-      "debitGL": "1401102",     
-      "creditGL": "1401102",
-      "active": true     
-    },
-    {
-      "serviceCode": "THB",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "THBCC13",
-      "debitGL": "1401102",     
-      "creditGL": "1401102",
-      "active": true     
-    },
-    {
-      "serviceCode": "THB",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "renewalFee",
-      "componentCode": "THBCC14",
       "debitGL": "1401102",     
       "creditGL": "1401102",
       "active": true     
@@ -1325,7 +809,7 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "finePenality",
       "componentCode": "HAWCC02",
       "debitGL": "1401106",     
@@ -1335,7 +819,7 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "HAWCC03",
       "debitGL": "1401106",     
@@ -1345,7 +829,7 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "transactionFee",
       "componentCode": "HAWCC04",
       "debitGL": "1401106",     
@@ -1355,7 +839,7 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "HAWCC05",
       "debitGL": "1401106",     
@@ -1365,7 +849,7 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "HAWCC06",
       "debitGL": "1401108",     
@@ -1375,7 +859,7 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "arrearFee",
       "componentCode": "HAWCC07",
       "debitGL": "1401106",     
@@ -1385,69 +869,9 @@
     {
       "serviceCode": "HAW",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "renewalFee",
       "componentCode": "HAWCC08",
-      "debitGL": "1401106",     
-      "creditGL": "1401106",
-      "active": true
-    },
-    {
-      "serviceCode": "HAW",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "finePenality",
-      "componentCode": "HAWCC09",
-      "debitGL": "1401106",     
-      "creditGL": "1401106",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAW",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "HAWCC10",
-      "debitGL": "1401106",     
-      "creditGL": "1401106",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAW",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "transactionFee",
-      "componentCode": "HAWCC11",
-      "debitGL": "1401106",     
-      "creditGL": "1401106",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAW",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "HAWCC12",
-      "debitGL": "1401106",     
-      "creditGL": "1401106",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAW",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "HAWCC13",
-      "debitGL": "1401106",     
-      "creditGL": "1401106",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAW",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "renewalFee",
-      "componentCode": "HAWCC14",
       "debitGL": "1401106",     
       "creditGL": "1401106",
       "active": true
@@ -1465,7 +889,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "finePenality",
       "componentCode": "HACCC02",
       "debitGL": "1401101",     
@@ -1475,7 +899,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "HACCC03",
       "debitGL": "1401101",     
@@ -1485,7 +909,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "transactionFee",
       "componentCode": "HACCC04",
       "debitGL": "1401101",     
@@ -1495,7 +919,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "HACCC05",
       "debitGL": "1401101",     
@@ -1505,7 +929,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "HACCC06",
       "debitGL": "1401108",     
@@ -1515,7 +939,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "arrearFee",
       "componentCode": "HACCC07",
       "debitGL": "1401101",     
@@ -1525,7 +949,7 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "renewalFee",
       "componentCode": "HACCC08",
       "debitGL": "1401101",     
@@ -1535,79 +959,9 @@
     {
       "serviceCode": "HAC",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "hackneyParkingFee",
       "componentCode": "HACCC09",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "finePenality",
-      "componentCode": "HACCC10",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "HACCC11",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "transactionFee",
-      "componentCode": "HACCC12",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "HACCC13",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "HACCC14",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true     
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "renewalFee",
-      "componentCode": "HACCC15",
-      "debitGL": "1401101",     
-      "creditGL": "1401101",
-      "active": true
-    },
-    {
-      "serviceCode": "HAC",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "hackneyParkingFee",
-      "componentCode": "HACCC16",
       "debitGL": "1401101",     
       "creditGL": "1401101",
       "active": true
@@ -1625,7 +979,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "finePenality",
       "componentCode": "HMFCC02",
       "debitGL": "1404014",     
@@ -1635,7 +989,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "latePenality",
       "componentCode": "HMFCC03",
       "debitGL": "1404014",     
@@ -1645,7 +999,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "transactionFee",
       "componentCode": "HMFCC04",
       "debitGL": "1405018",     
@@ -1655,7 +1009,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "licenseFee",
       "componentCode": "HMFCC05",
       "debitGL": "1404014",     
@@ -1665,7 +1019,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "convenienceFee",
       "componentCode": "HMFCC06",
       "debitGL": "1401108",     
@@ -1675,7 +1029,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "arrearFee",
       "componentCode": "HMFCC07",
       "debitGL": "1404014",     
@@ -1685,7 +1039,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "renewalFee",
       "componentCode": "HMFCC08",
       "debitGL": "1401108",     
@@ -1695,7 +1049,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "permissionFee",
       "componentCode": "HMFCC09",
       "debitGL": "1404014",     
@@ -1705,7 +1059,7 @@
     {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "securityCharges",
       "componentCode": "HMFCC10",
       "debitGL": "3503010",     
@@ -1715,79 +1069,9 @@
      {
       "serviceCode": "HMF",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "hmfApplicableGst",
       "componentCode": "HMFCC10",
-      "debitGL": "3503002",     
-      "creditGL": "3503002",
-      "active": true     
-    },
-    {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "finePenality",
-      "componentCode": "HMFCC11",
-      "debitGL": "1404014",     
-      "creditGL": "1404014",
-      "active": true     
-    },
-     {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "latePenality",
-      "componentCode": "HMFCC12",
-      "debitGL": "1404014",     
-      "creditGL": "1404014",
-      "active": true     
-    },
-    {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "permissionFee",
-      "componentCode": "HMFCC13",
-      "debitGL": "1404014",     
-      "creditGL": "1404014",
-      "active": true     
-    },
-    {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "licenseFee",
-      "componentCode": "HMFCC14",
-      "debitGL": "1404014",     
-      "creditGL": "1404014",
-      "active": true     
-    },
-    {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "arrearFee",
-      "componentCode": "HMFCC15",
-      "debitGL": "1404014",     
-      "creditGL": "1404014",
-      "active": true     
-    },
-    {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "securityCharges",
-      "componentCode": "HMFCC16",
-      "debitGL": "3503010",     
-      "creditGL": "3503010",
-      "active": true     
-    },
-     {
-      "serviceCode": "HMF",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "hmfApplicableGst",
-      "componentCode": "HMFCC17",
       "debitGL": "3503002",     
       "creditGL": "3503002",
       "active": true     
@@ -1797,7 +1081,7 @@
       "propertyCategory": "*",
       "taxPeriod": "*",
       "componentName": "bank",
-      "componentCode": "HMFCC01",
+      "componentCode": "CSDCC01",
       "debitGL": "45020081",     
       "creditGL": "45020081",
       "active": true     
@@ -1805,49 +1089,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bookingCharges",
-      "componentCode": "CSDCC01",
-      "debitGL": "1301005",
-      "creditGL": "1301005",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "bookingChargesGst",
       "componentCode": "CSDCC02",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "securityCharges",
-      "componentCode": "CSDCC03",
-      "debitGL": "3402003",
-      "creditGL": "3402003",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "securityChargesGst",
-      "componentCode": "CSDCC04",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "tentCharge",
-      "componentCode": "CSDCC05",
       "debitGL": "1301005",
       "creditGL": "1301005",
       "active": true
@@ -1855,89 +1099,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "tentChargeGst",
-      "componentCode": "CSDCC06",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "serviceCharge",
-      "componentCode": "CSDCC07",
-      "debitGL": "1401105",
-      "creditGL": "1401105",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "serviceChargeGst",
-      "componentCode": "CSDCC08",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "acCharge",
-      "componentCode": "CSDCC09",
-      "debitGL": "1301005",
-      "creditGL": "1301005",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "acChargeGst",
-      "componentCode": "CSDCC10",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "sanitationCharge",
-      "componentCode": "CSDCC11",
-      "debitGL": "3402003",
-      "creditGL": "3402003",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "sanitationChargeGst",
-      "componentCode": "CSDCC12",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "bookingCharges",
-      "componentCode": "CSDCC13",
-      "debitGL": "1301005",
-      "creditGL": "1301005",
-      "active": true
-    },
-    {
-      "serviceCode": "CSD",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "bookingChargesGst",
-      "componentCode": "CSDCC14",
+      "componentCode": "CSDCC03",
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
@@ -1945,9 +1109,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "securityCharges",
-      "componentCode": "CSDCC15",
+      "componentCode": "CSDCC04",
       "debitGL": "3402003",
       "creditGL": "3402003",
       "active": true
@@ -1955,9 +1119,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "securityChargesGst",
-      "componentCode": "CSDCC16",
+      "componentCode": "CSDCC05",
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
@@ -1965,9 +1129,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "tentCharge",
-      "componentCode": "CSDCC17",
+      "componentCode": "CSDCC06",
       "debitGL": "1301005",
       "creditGL": "1301005",
       "active": true
@@ -1975,9 +1139,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "tentChargeGst",
-      "componentCode": "CSDCC18",
+      "componentCode": "CSDCC07",
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
@@ -1985,9 +1149,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "serviceCharge",
-      "componentCode": "CSDCC19",
+      "componentCode": "CSDCC08",
       "debitGL": "1401105",
       "creditGL": "1401105",
       "active": true
@@ -1995,9 +1159,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "serviceChargeGst",
-      "componentCode": "CSDCC20",
+      "componentCode": "CSDCC09",
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
@@ -2005,9 +1169,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "acCharge",
-      "componentCode": "CSDCC21",
+      "componentCode": "CSDCC10",
       "debitGL": "1301005",
       "creditGL": "1301005",
       "active": true
@@ -2015,9 +1179,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "acChargeGst",
-      "componentCode": "CSDCC22",
+      "componentCode": "CSDCC11",
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
@@ -2025,9 +1189,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "sanitationCharge",
-      "componentCode": "CSDCC23",
+      "componentCode": "CSDCC12",
       "debitGL": "3402003",
       "creditGL": "3402003",
       "active": true
@@ -2035,9 +1199,9 @@
     {
       "serviceCode": "CSD",
       "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
+      "taxPeriod": "*",
       "componentName": "sanitationChargeGst",
-      "componentCode": "CSDCC24",
+      "componentCode": "CSDCC13",
       "debitGL": "3503002",
       "creditGL": "3503002",
       "active": true
@@ -2055,7 +1219,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bookingCharges",
       "componentCode": "PRKCC02",
       "debitGL": "1301006",
@@ -2065,7 +1229,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "bookingChargesGst",
       "componentCode": "PRKCC03",
       "debitGL": "3503002",
@@ -2075,7 +1239,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "securityCharges",
       "componentCode": "PRKCC04",
       "debitGL": "3402003",
@@ -2085,7 +1249,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "securityChargesGst",
       "componentCode": "PRKCC05",
       "debitGL": "3503002",
@@ -2095,7 +1259,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "tentCharge",
       "componentCode": "PRKCC06",
       "debitGL": "1301006",
@@ -2105,7 +1269,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "tentChargeGst",
       "componentCode": "PRKCC07",
       "debitGL": "3503002",
@@ -2115,7 +1279,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "serviceCharge",
       "componentCode": "PRKCC08",
       "debitGL": "1401105",
@@ -2125,7 +1289,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "serviceChargeGst",
       "componentCode": "PRKCC09",
       "debitGL": "3503002",
@@ -2135,7 +1299,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "acCharge",
       "componentCode": "PRKCC10",
       "debitGL": "1301005",
@@ -2145,7 +1309,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "acChargeGst",
       "componentCode": "PRKCC11",
       "debitGL": "3503002",
@@ -2155,7 +1319,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "sanitationCharge",
       "componentCode": "PRKCC12",
       "debitGL": "3402003",
@@ -2165,7 +1329,7 @@
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
+      "taxPeriod": "*",
       "componentName": "sanitationChargeGst",
       "componentCode": "PRKCC13",
       "debitGL": "3503002",
@@ -2173,129 +1337,9 @@
       "active": true
     },
     {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "bookingCharges",
-      "componentCode": "PRKCC14",
-      "debitGL": "1301006",
-      "creditGL": "1301006",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "bookingChargesGst",
-      "componentCode": "PRKCC15",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "securityCharges",
-      "componentCode": "PRKCC16",
-      "debitGL": "3402003",
-      "creditGL": "3402003",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "securityChargesGst",
-      "componentCode": "PRKCC17",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "tentCharge",
-      "componentCode": "PRKCC18",
-      "debitGL": "1301006",
-      "creditGL": "1301006",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "tentChargeGst",
-      "componentCode": "PRKCC19",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "serviceCharge",
-      "componentCode": "PRKCC20",
-      "debitGL": "1401105",
-      "creditGL": "1401105",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "serviceChargeGst",
-      "componentCode": "PRKCC21",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "acCharge",
-      "componentCode": "PRKCC22",
-      "debitGL": "1301005",
-      "creditGL": "1301005",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "acChargeGst",
-      "componentCode": "PRKCC23",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "ARREARS",
-      "componentName": "sanitationCharge",
-      "componentCode": "PRKCC24",
-      "debitGL": "3402003",
-      "creditGL": "3402003",
-      "active": true
-    },
-    {
-      "serviceCode": "PRK",
-      "propertyCategory": "*",
-      "taxPeriod": "CURRENT",
-      "componentName": "sanitationChargeGst",
-      "componentCode": "PRKCC25",
-      "debitGL": "3503002",
-      "creditGL": "3503002",
-      "active": true
-    },
-    {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "bank",
     "componentCode": "PRMSCC01",
     "debitGL": "45020226",
@@ -2305,7 +1349,7 @@
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "latePenalty",
     "componentCode": "PRMSCC02",
     "debitGL": "1405006",
@@ -2315,18 +1359,18 @@
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "convenienceFee",
     "componentCode": "PRMSCC03",
-    "debitGL": "1405006",
-    "creditGL": "1405006",
+    "debitGL": "1407003",
+    "creditGL": "1407003",
     "active": true
   },
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "convenienceFee",
+    "taxPeriod": "*",
+    "componentName": "transactionFee",
     "componentCode": "PRMSCC04",
     "debitGL": "1407003",
     "creditGL": "1407003",
@@ -2335,109 +1379,39 @@
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "convenienceFee",
+    "taxPeriod": "*",
+    "componentName": "arrearFee",
     "componentCode": "PRMSCC05",
-    "debitGL": "1407003",
-    "creditGL": "1407003",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
     "active": true
   },
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "transactionFee",
+    "taxPeriod": "*",
+    "componentName": "advanceMlf",
     "componentCode": "PRMSCC06",
-    "debitGL": "1407003",
-    "creditGL": "1407003",
+    "debitGL": "3504102",
+    "creditGL": "3504102",
     "active": true
-  },
+  }
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "transactionFee",
+    "taxPeriod": "*",
+    "componentName": "monthlyFee",
     "componentCode": "PRMSCC07",
-    "debitGL": "1407003",
-    "creditGL": "1407003",
+    "debitGL": "1405006",
+    "creditGL": "1405006",
     "active": true
   },
   {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "arrearFee",
+    "taxPeriod": "*",
+    "componentName": "securityDeposit",
     "componentCode": "PRMSCC08",
-    "debitGL": "1405006",
-    "creditGL": "1405006",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "arrearFee",
-    "componentCode": "PRMSCC09",
-    "debitGL": "1405006",
-    "creditGL": "1405006",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "advanceMlf",
-    "componentCode": "PRMSCC10",
-    "debitGL": "3504102",
-    "creditGL": "3504102",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "advanceMlf",
-    "componentCode": "PRMSCC11",
-    "debitGL": "3504102",
-    "creditGL": "3504102",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "monthlyFee",
-    "componentCode": "PRMSCC12",
-    "debitGL": "1405006",
-    "creditGL": "1405006",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "monthlyFee",
-    "componentCode": "PRMSCC13",
-    "debitGL": "1405006",
-    "creditGL": "1405006",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "securityDeposit",
-    "componentCode": "PRMSCC14",
-    "debitGL": "3503010",
-    "creditGL": "3503010",
-    "active": true
-  },
-  {
-    "serviceCode": "PRMS",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "securityDeposit",
-    "componentCode": "PRMSCC15",
     "debitGL": "3503010",
     "creditGL": "3503010",
     "active": true
@@ -2445,7 +1419,7 @@
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "bank",
     "componentCode": "PTR_CAMPCC01",
     "debitGL": "45020086",
@@ -2455,7 +1429,7 @@
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "currentDemand",
     "componentCode": "PTR_CAMPCC02",
     "debitGL": "4311002",
@@ -2465,249 +1439,119 @@
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "currentDemand",
+    "taxPeriod": "*",
+    "componentName": "educationCess",
     "componentCode": "PTR_CAMPCC03",
-    "debitGL": "4311002",
-    "creditGL": "4311002",
+    "debitGL": "1105201",
+    "creditGL": "1105201",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "educationCess",
+    "taxPeriod": "*",
+    "componentName": "exemption",
     "componentCode": "PTR_CAMPCC04",
-    "debitGL": "1105201",
-    "creditGL": "1105201",
+    "debitGL": "1407007",
+    "creditGL": "1407007",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "educationCess",
+    "taxPeriod": "*",
+    "componentName": "finePenalty",
     "componentCode": "PTR_CAMPCC05",
-    "debitGL": "1105201",
-    "creditGL": "1105201",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "exemption",
+    "taxPeriod": "*",
+    "componentName": "latePenalty",
     "componentCode": "PTR_CAMPCC06",
-    "debitGL": "1407007",
-    "creditGL": "1407007",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "exemption",
+    "taxPeriod": "*",
+    "componentName": "rebate",
     "componentCode": "PTR_CAMPCC07",
-    "debitGL": "1407007",
-    "creditGL": "1407007",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "finePenalty",
+    "taxPeriod": "*",
+    "componentName": "onlineRebate",
     "componentCode": "PTR_CAMPCC08",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "finePenalty",
+    "taxPeriod": "*",
+    "componentName": "interest",
     "componentCode": "PTR_CAMPCC09",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "1100118",
+    "creditGL": "1100118",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "rebateDescription",
     "componentCode": "PTR_CAMPCC10",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "tradeFee",
     "componentCode": "PTR_CAMPCC11",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "1401103",
+    "creditGL": "1401103",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "rebate",
+    "taxPeriod": "*",
+    "componentName": "userCharge",
     "componentCode": "PTR_CAMPCC12",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
+    "debitGL": "1405017",
+    "creditGL": "1405017",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "rebate",
+    "taxPeriod": "*",
+    "componentName": "adjustmentAmount",
     "componentCode": "PTR_CAMPCC13",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
     "active": true
   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "onlineRebate",
+    "taxPeriod": "*",
+    "componentName": "alreadyPaid",
     "componentCode": "PTR_CAMPCC14",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "onlineRebate",
-    "componentCode": "PTR_CAMPCC15",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "interest",
-    "componentCode": "PTR_CAMPCC16",
-    "debitGL": "1100118",
-    "creditGL": "1100118",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "interest",
-    "componentCode": "PTR_CAMPCC17",
-    "debitGL": "1100118",
-    "creditGL": "1100118",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "rebateDescription",
-    "componentCode": "PTR_CAMPCC18",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "rebateDescription",
-    "componentCode": "PTR_CAMPCC19",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "tradeFee",
-    "componentCode": "PTR_CAMPCC20",
-    "debitGL": "1401103",
-    "creditGL": "1401103",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "tradeFee",
-    "componentCode": "PTR_CAMPCC21",
-    "debitGL": "1401103",
-    "creditGL": "1401103",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "userCharge",
-    "componentCode": "PTR_CAMPCC22",
-    "debitGL": "1405017",
-    "creditGL": "1405017",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "userCharge",
-    "componentCode": "PTR_CAMPCC23",
-    "debitGL": "1405017",
-    "creditGL": "1405017",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "adjustmentAmount",
-    "componentCode": "PTR_CAMPCC24",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "adjustmentAmount",
-    "componentCode": "PTR_CAMPCC25",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "alreadyPaid",
-    "componentCode": "PTR_CAMPCC26",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_CAMP",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "alreadyPaid",
-    "componentCode": "PTR_CAMPCC27",
     "debitGL": "3504101",
     "creditGL": "3504101",
     "active": true
@@ -2715,7 +1559,7 @@
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "bank",
     "componentCode": "PTR_AMNCC01",
     "debitGL": "45020086",
@@ -2725,7 +1569,7 @@
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "currentDemand",
     "componentCode": "PTR_AMNCC02",
     "debitGL": "4311002",
@@ -2735,249 +1579,119 @@
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "currentDemand",
+    "taxPeriod": "*",
+    "componentName": "educationCess",
     "componentCode": "PTR_AMNCC03",
-    "debitGL": "4311002",
-    "creditGL": "4311002",
+    "debitGL": "1105201",
+    "creditGL": "1105201",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "educationCess",
+    "taxPeriod": "*",
+    "componentName": "exemption",
     "componentCode": "PTR_AMNCC04",
-    "debitGL": "1105201",
-    "creditGL": "1105201",
+    "debitGL": "1407007",
+    "creditGL": "1407007",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "educationCess",
+    "taxPeriod": "*",
+    "componentName": "finePenalty",
     "componentCode": "PTR_AMNCC05",
-    "debitGL": "1105201",
-    "creditGL": "1105201",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "exemption",
+    "taxPeriod": "*",
+    "componentName": "latePenalty",
     "componentCode": "PTR_AMNCC06",
-    "debitGL": "1407007",
-    "creditGL": "1407007",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "exemption",
+    "taxPeriod": "*",
+    "componentName": "rebate",
     "componentCode": "PTR_AMNCC07",
-    "debitGL": "1407007",
-    "creditGL": "1407007",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "finePenalty",
+    "taxPeriod": "*",
+    "componentName": "onlineRebate",
     "componentCode": "PTR_AMNCC08",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "finePenalty",
+    "taxPeriod": "*",
+    "componentName": "interest",
     "componentCode": "PTR_AMNCC09",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "1100118",
+    "creditGL": "1100118",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "rebateDescription",
     "componentCode": "PTR_AMNCC10",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "tradeFee",
     "componentCode": "PTR_AMNCC11",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "1401103",
+    "creditGL": "1401103",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "rebate",
+    "taxPeriod": "*",
+    "componentName": "userCharge",
     "componentCode": "PTR_AMNCC12",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
+    "debitGL": "1405017",
+    "creditGL": "1405017",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "rebate",
+    "taxPeriod": "*",
+    "componentName": "adjustmentAmount",
     "componentCode": "PTR_AMNCC13",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "onlineRebate",
+    "taxPeriod": "*",
+    "componentName": "alreadyPaid",
     "componentCode": "PTR_AMNCC14",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "onlineRebate",
-    "componentCode": "PTR_AMNCC15",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "interest",
-    "componentCode": "PTR_AMNCC16",
-    "debitGL": "1100118",
-    "creditGL": "1100118",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "interest",
-    "componentCode": "PTR_AMNCC17",
-    "debitGL": "1100118",
-    "creditGL": "1100118",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "rebateDescription",
-    "componentCode": "PTR_AMNCC18",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "rebateDescription",
-    "componentCode": "PTR_AMNCC19",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "tradeFee",
-    "componentCode": "PTR_AMNCC20",
-    "debitGL": "1401103",
-    "creditGL": "1401103",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "tradeFee",
-    "componentCode": "PTR_AMNCC21",
-    "debitGL": "1401103",
-    "creditGL": "1401103",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "userCharge",
-    "componentCode": "PTR_AMNCC22",
-    "debitGL": "1405017",
-    "creditGL": "1405017",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "userCharge",
-    "componentCode": "PTR_AMNCC23",
-    "debitGL": "1405017",
-    "creditGL": "1405017",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "adjustmentAmount",
-    "componentCode": "PTR_AMNCC24",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "adjustmentAmount",
-    "componentCode": "PTR_AMNCC25",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "alreadyPaid",
-    "componentCode": "PTR_AMNCC26",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "alreadyPaid",
-    "componentCode": "PTR_AMNCC27",
     "debitGL": "3504101",
     "creditGL": "3504101",
     "active": true
@@ -2985,7 +1699,7 @@
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "bank",
     "componentCode": "PTR_AMN_CCC01",
     "debitGL": "45020086",
@@ -2995,7 +1709,7 @@
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "currentDemand",
     "componentCode": "PTR_AMN_CCC02",
     "debitGL": "4311002",
@@ -3005,249 +1719,119 @@
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "currentDemand",
+    "taxPeriod": "*",
+    "componentName": "educationCess",
     "componentCode": "PTR_AMN_CCC03",
-    "debitGL": "4311002",
-    "creditGL": "4311002",
+    "debitGL": "1105201",
+    "creditGL": "1105201",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "educationCess",
+    "taxPeriod": "*",
+    "componentName": "exemption",
     "componentCode": "PTR_AMN_CCC04",
-    "debitGL": "1105201",
-    "creditGL": "1105201",
+    "debitGL": "1407007",
+    "creditGL": "1407007",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "educationCess",
+    "taxPeriod": "*",
+    "componentName": "finePenalty",
     "componentCode": "PTR_AMN_CCC05",
-    "debitGL": "1105201",
-    "creditGL": "1105201",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "exemption",
+    "taxPeriod": "*",
+    "componentName": "latePenalty",
     "componentCode": "PTR_AMN_CCC06",
-    "debitGL": "1407007",
-    "creditGL": "1407007",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "exemption",
+    "taxPeriod": "*",
+    "componentName": "rebate",
     "componentCode": "PTR_AMN_CCC07",
-    "debitGL": "1407007",
-    "creditGL": "1407007",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "finePenalty",
+    "taxPeriod": "*",
+    "componentName": "onlineRebate",
     "componentCode": "PTR_AMN_CCC08",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "finePenalty",
+    "taxPeriod": "*",
+    "componentName": "interest",
     "componentCode": "PTR_AMN_CCC09",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "1100118",
+    "creditGL": "1100118",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "rebateDescription",
     "componentCode": "PTR_AMN_CCC10",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "latePenalty",
+    "taxPeriod": "*",
+    "componentName": "tradeFee",
     "componentCode": "PTR_AMN_CCC11",
-    "debitGL": "1100108",
-    "creditGL": "1100108",
+    "debitGL": "1401103",
+    "creditGL": "1401103",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "rebate",
+    "taxPeriod": "*",
+    "componentName": "userCharge",
     "componentCode": "PTR_AMN_CCC12",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
+    "debitGL": "1405017",
+    "creditGL": "1405017",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "rebate",
+    "taxPeriod": "*",
+    "componentName": "adjustmentAmount",
     "componentCode": "PTR_AMN_CCC13",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
+    "debitGL": "3504101",
+    "creditGL": "3504101",
     "active": true
   },
   {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "onlineRebate",
+    "taxPeriod": "*",
+    "componentName": "alreadyPaid",
     "componentCode": "PTR_AMN_CCC14",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "onlineRebate",
-    "componentCode": "PTR_AMN_CCC15",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "interest",
-    "componentCode": "PTR_AMN_CCC16",
-    "debitGL": "1100118",
-    "creditGL": "1100118",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "interest",
-    "componentCode": "PTR_AMN_CCC17",
-    "debitGL": "1100118",
-    "creditGL": "1100118",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "rebateDescription",
-    "componentCode": "PTR_AMN_CCC18",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "rebateDescription",
-    "componentCode": "PTR_AMN_CCC19",
-    "debitGL": "2408001",
-    "creditGL": "2408001",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "tradeFee",
-    "componentCode": "PTR_AMN_CCC20",
-    "debitGL": "1401103",
-    "creditGL": "1401103",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "tradeFee",
-    "componentCode": "PTR_AMN_CCC21",
-    "debitGL": "1401103",
-    "creditGL": "1401103",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "userCharge",
-    "componentCode": "PTR_AMN_CCC22",
-    "debitGL": "1405017",
-    "creditGL": "1405017",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "userCharge",
-    "componentCode": "PTR_AMN_CCC23",
-    "debitGL": "1405017",
-    "creditGL": "1405017",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "adjustmentAmount",
-    "componentCode": "PTR_AMN_CCC24",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "adjustmentAmount",
-    "componentCode": "PTR_AMN_CCC25",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
-    "componentName": "alreadyPaid",
-    "componentCode": "PTR_AMN_CCC26",
-    "debitGL": "3504101",
-    "creditGL": "3504101",
-    "active": true
-  },
-  {
-    "serviceCode": "PTR_AMN_C",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "alreadyPaid",
-    "componentCode": "PTR_AMN_CCC27",
     "debitGL": "3504101",
     "creditGL": "3504101",
     "active": true
@@ -3255,7 +1839,7 @@
   {
     "serviceCode": "MUT",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "bank",
     "componentCode": "MUTCC01",
     "debitGL": "45020086",
@@ -3265,19 +1849,9 @@
   {
     "serviceCode": "MUT",
     "propertyCategory": "*",
-    "taxPeriod": "CURRENT",
+    "taxPeriod": "*",
     "componentName": "applicationFee",
     "componentCode": "MUTCC02",
-    "debitGL": "1404023",
-    "creditGL": "1404023",
-    "active": true
-  },
-  {
-    "serviceCode": "MUT",
-    "propertyCategory": "*",
-    "taxPeriod": "ARREARS",
-    "componentName": "applicationFee",
-    "componentCode": "MUTCC03",
     "debitGL": "1404023",
     "creditGL": "1404023",
     "active": true
