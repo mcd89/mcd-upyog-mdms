@@ -5457,7 +5457,7 @@
       "parentModule": "EGF",
       "displayName": "Budget Variance Report",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceReport",
       "code": "null",
       "path": "Finance.Report Generation.Budget Reports.Budget Variance Report",
@@ -19987,20 +19987,6 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Report Generation.MIS Reports.Liability Report",
       "navigationURL": "services/EGF/liabilityReports/liability"
-    },
-	{
-      "id": 2949,
-      "name": "Raise Demand to HQ",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Raise Demand to HQ",
-      "orderNumber": 6,
-      "enabled": true,
-      "serviceCode": "FinanceReport",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Contra.Raise Demand to HQ",
-      "navigationURL": "services/EGF/demandraise/view"
     },
 	{
       "id": 2950,
