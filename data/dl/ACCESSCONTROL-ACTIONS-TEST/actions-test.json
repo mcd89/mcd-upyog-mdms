@@ -5457,7 +5457,7 @@
       "parentModule": "EGF",
       "displayName": "Budget Variance Report",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceReport",
       "code": "null",
       "path": "Finance.Report Generation.Budget Reports.Budget Variance Report",
