@@ -31648,6 +31648,42 @@
       "actionid": 2951,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	 {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	 {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2954,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	 {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 2954,
+      "actioncode": "",
+      "tenantId": "dl"
+    }  
   ]
 }
