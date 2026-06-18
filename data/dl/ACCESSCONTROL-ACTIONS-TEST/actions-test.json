@@ -20056,7 +20056,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Journal Voucher.Advance Journal Voucher",
-      "navigationURL": "services/EGF/voucher/journalVoucher-newFormincomeadvance.action"
+      "navigationURL": "services/EGF/voucher/journalVoucher-newFormadvance.action"
     }  
   ]
 }
