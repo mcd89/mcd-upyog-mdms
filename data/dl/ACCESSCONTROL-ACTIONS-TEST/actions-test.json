@@ -20041,7 +20041,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Journal Voucher.Receivable Journal Voucher",
+      "path": "Finance.Journal Voucher.Income Journal Voucher",
       "navigationURL": "services/EGF/voucher/journalVoucher-newFormincome.action"
     },
 	{
