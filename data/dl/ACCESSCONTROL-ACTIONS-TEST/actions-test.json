@@ -20085,6 +20085,6 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Report Generation.MIS Reports.Expenditure Report",
       "navigationURL": "services/EGF/report/expenditureReport/view"
-    },
+    }
   ]
 }
