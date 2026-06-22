@@ -20057,6 +20057,34 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Journal Voucher.Advance Journal Voucher",
       "navigationURL": "services/EGF/voucher/journalVoucher-newFormadvance.action"
-    }  
+    },
+	{
+      "id": 2955,
+      "name": "Income Report",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Income Report",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Report Generation.MIS Reports.Income Report",
+      "navigationURL": "services/EGF/report/incomeReport/view"
+    },
+	{
+      "id": 2956,
+      "name": "Expenditure Report",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Expenditure Report",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Report Generation.MIS Reports.Expenditure Report",
+      "navigationURL": "services/EGF/report/expenditureReport/view"
+    }
   ]
 }

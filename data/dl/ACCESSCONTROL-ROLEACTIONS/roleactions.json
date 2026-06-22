@@ -31684,6 +31684,30 @@
       "actionid": 2954,
       "actioncode": "",
       "tenantId": "dl"
-    }  
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2955,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2955,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2956,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2956,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
   ]
 }
