@@ -501,11 +501,6 @@
       "name": "Hospital Administration",
       "code": "161",
       "active": true
-    },
-    {
-      "name": "Remunerative Project Cell",
-      "code": "154",
-      "active": true
     }
   ]
 }
