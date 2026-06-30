@@ -20035,7 +20035,7 @@
       "name": "Income Journal Voucher-Create",
       "url": "/services/EGF/voucher/journalVoucher-newFormincome.action",
       "parentModule": "",
-      "displayName": "Receivable Journal Voucher",
+      "displayName": "Income Journal Voucher",
       "orderNumber": 3,
       "enabled": true,
       "serviceCode": "FinanceBill",
