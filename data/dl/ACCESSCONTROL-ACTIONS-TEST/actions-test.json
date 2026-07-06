@@ -3390,7 +3390,7 @@
       "parentModule": "",
       "displayName": "Direct Bank Payments",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
