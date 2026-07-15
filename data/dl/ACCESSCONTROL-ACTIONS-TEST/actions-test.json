@@ -4548,7 +4548,7 @@
     },
     {
       "id": 1698,
-      "name": "Cash Remittance",
+      "name": " Remittance",
       "url": "url",
       "displayName": "Cash Remittance",
       "orderNumber": 3,
@@ -19479,16 +19479,16 @@
       "path": ""
     },{
       "id": 2912,
-      "name": "Cash Flow",
+      "name": "Cash Flow Statement",
       "url": "url",
       "parentModule": "",
-      "displayName": "Cash Flow",
+      "displayName": "Cash Flow Statement",
       "orderNumber": 16,
-      "enabled": false,
-      "serviceCode": "FinanceMaster",
+      "enabled": true,
+      "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Expenditure Accounting.Cash Flow",
+      "path": "Finance.Report Generation.Financial Statements.Cash Flow Statement",
       "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action"
     },
 	  {
