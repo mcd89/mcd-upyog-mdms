@@ -30799,7 +30799,13 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-	    {
+	{
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2912,
+      "actioncode": "",
+      "tenantId": "dl"
+    },  
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2913,
       "actioncode": "",
