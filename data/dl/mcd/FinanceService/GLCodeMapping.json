@@ -388,6 +388,26 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "licenseFee",
+      "componentCode": "HTLCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "registrationFee",
+      "componentCode": "HTLCC06",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
       "serviceCode": "HTL2",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -425,6 +445,26 @@
       "componentCode": "HTL2CC04",
       "debitGL": "1407016",     
       "creditGL": "1407016",
+      "active": true     
+    },
+     {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "licenseFee",
+      "componentCode": "HTL2CC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "registrationFee",
+      "componentCode": "HTL2CC06",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
