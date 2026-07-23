@@ -319,6 +319,26 @@
       "active": true     
     },
     {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "RBDCC04",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
+      "active": true     
+    },
+    {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "RBDCC05",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
+      "active": true     
+    },
+    {
       "serviceCode": "HOS",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -345,6 +365,26 @@
       "componentCode": "HOSCC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "HOSCC04",
+      "debitGL": "1401013",     
+      "creditGL": "1401013",
+      "active": true     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "HOSCC05",
+      "debitGL": "1401013",     
+      "creditGL": "1401013",
       "active": true     
     },
     {
@@ -403,6 +443,26 @@
       "taxPeriod": "*",
       "componentName": "registrationFee",
       "componentCode": "HTLCC06",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "HTLCC07",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "HTLCC08",
       "debitGL": "1401107",     
       "creditGL": "1401107",
       "active": true     
@@ -468,6 +528,26 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "HTL2CC07",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "HTL2CC08",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
       "serviceCode": "ETL",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -494,6 +574,26 @@
       "componentCode": "ETLCC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "ETLCC04",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "ETLCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -527,6 +627,26 @@
       "active": true     
     },
     {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "AMTCC04",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "AMTCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
       "serviceCode": "AMD",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -554,6 +674,26 @@
       "componentCode": "AMDCC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "AMDCC04",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "AMDCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -637,6 +777,16 @@
       "active": true     
     },
     {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "VTLCC09",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
       "serviceCode": "PET",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -707,6 +857,16 @@
       "active": true     
     },
     {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PETCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
       "serviceCode": "GTL",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -774,6 +934,16 @@
       "componentCode": "GTLCC07",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "GTLCC08",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -884,6 +1054,16 @@
       "componentCode": "FTLCC11",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "FTLCC12",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -1427,6 +1607,26 @@
       "active": true     
     },
     {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "CSDCC15",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "CSDCC16",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
       "serviceCode": "PRK",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -1567,6 +1767,26 @@
       "active": true     
     },
     {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PRKCC15",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "PRKCC16",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1656,6 +1876,16 @@
       "creditGL": "1808011",
       "active": true     
   },
+  {
+      "serviceCode": "PRMS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PRMSCC10",
+      "debitGL": "1405006",     
+      "creditGL": "1405006",
+      "active": true     
+   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
