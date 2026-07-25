@@ -2365,6 +2365,136 @@
       "debitGL": "1808011",     
       "creditGL": "1808011",
       "active": true     
-  }
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "SALARYCC01",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "BasicPay",
+      "componentCode": "SALARYCC02",
+      "debitGL": "2101007",     
+      "creditGL": "2101007",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "DA",
+      "componentCode": "SALARYCC03",
+      "debitGL": "2101008",     
+      "creditGL": "2101008",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "HRAX",
+      "componentCode": "SALARYCC04",
+      "debitGL": "2101010",     
+      "creditGL": "2101010",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "TAL3toL8SpCity",
+      "componentCode": "SALARYCC05",
+      "debitGL": "2101010",     
+      "creditGL": "2101010",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "DATAL3toL8SpCity",
+      "componentCode": "SALARYCC06",
+      "debitGL": "2101010",     
+      "creditGL": "2101010",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "GIS",
+      "componentCode": "SALARYCC07",
+      "debitGL": "3501128",     
+      "creditGL": "3501128",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "NPS",
+      "componentCode": "SALARYCC08",
+      "debitGL": "3501113",     
+      "creditGL": "3501113",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "IncomeTax",
+      "componentCode": "SALARYCC09",
+      "debitGL": "3501117",     
+      "creditGL": "3501117",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "MCDEHS",
+      "componentCode": "SALARYCC10",
+      "debitGL": "3501117",     
+      "creditGL": "3501117",
+      "active": true     
+  },
+   {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "MCDEHSDEC2025",
+      "componentCode": "SALARYCC11",
+      "debitGL": "3501117",     
+      "creditGL": "3501117",
+      "active": true     
+  },
+   {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "SLF",
+      "componentCode": "SALARYCC12",
+      "debitGL": "3501117",     
+      "creditGL": "3501117",
+      "active": true     
+  },
+   {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "SALARYCC13",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+   }
  ]
 }
