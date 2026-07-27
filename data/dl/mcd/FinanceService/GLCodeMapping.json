@@ -2412,8 +2412,8 @@
       "taxPeriod": "*",
       "componentName": "TAL3toL8SpCity",
       "componentCode": "SALARYCC05",
-      "debitGL": "2101010",     
-      "creditGL": "2101010",
+      "debitGL": "2101023",     
+      "creditGL": "2101023",
       "active": true     
   },
   {
@@ -2422,8 +2422,8 @@
       "taxPeriod": "*",
       "componentName": "DATAL3toL8SpCity",
       "componentCode": "SALARYCC06",
-      "debitGL": "2101010",     
-      "creditGL": "2101010",
+      "debitGL": "2101023",     
+      "creditGL": "2101023",
       "active": true     
   },
   {
@@ -2432,8 +2432,8 @@
       "taxPeriod": "*",
       "componentName": "GIS",
       "componentCode": "SALARYCC07",
-      "debitGL": "3501128",     
-      "creditGL": "3501128",
+      "debitGL": "3502009",     
+      "creditGL": "3502009",
       "active": true     
   },
   {
@@ -2452,8 +2452,8 @@
       "taxPeriod": "*",
       "componentName": "IncomeTax",
       "componentCode": "SALARYCC09",
-      "debitGL": "3501117",     
-      "creditGL": "3501117",
+      "debitGL": "3502005",     
+      "creditGL": "3502005",
       "active": true     
   },
   {
@@ -2462,8 +2462,8 @@
       "taxPeriod": "*",
       "componentName": "MCDEHS",
       "componentCode": "SALARYCC10",
-      "debitGL": "3501117",     
-      "creditGL": "3501117",
+      "debitGL": "3403002",     
+      "creditGL": "3403002",
       "active": true     
   },
    {
@@ -2472,8 +2472,8 @@
       "taxPeriod": "*",
       "componentName": "MCDEHSDEC2025",
       "componentCode": "SALARYCC11",
-      "debitGL": "3501117",     
-      "creditGL": "3501117",
+      "debitGL": "3403002",     
+      "creditGL": "3403002",
       "active": true     
   },
    {
@@ -2482,8 +2482,8 @@
       "taxPeriod": "*",
       "componentName": "SLF",
       "componentCode": "SALARYCC12",
-      "debitGL": "3501117",     
-      "creditGL": "3501117",
+      "debitGL": "1301015",     
+      "creditGL": "1301015",
       "active": true     
   },
    {
@@ -2495,6 +2495,16 @@
       "debitGL": "1808011",     
       "creditGL": "1808011",
       "active": true     
-   }
+   },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "GPF",
+      "componentCode": "SALARYCC14",
+      "debitGL": "3501115",     
+      "creditGL": "3501115",
+      "active": true     
+  }
  ]
 }
