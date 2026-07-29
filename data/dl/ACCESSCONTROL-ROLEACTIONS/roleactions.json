@@ -31798,6 +31798,12 @@
     "actionid": 1763,
     "actioncode": "approve uploaded budget",
     "tenantId": "dl"
+   },
+   {
+    "rolecode": "BUDGET_VIEWER",
+    "actionid": 1764,
+    "actioncode": "approve uploaded budget",
+    "tenantId": "dl"
    }
-  ]
+ ]
 }
