@@ -31852,6 +31852,30 @@
     "actionid": 2946,
     "actioncode": "",
     "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2957,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "BUDGET_VIEWER",
+    "actionid": 2957,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2958,
+    "actioncode": "",
+    "tenantId": "dl"
+  }
+  {
+    "rolecode": "BUDGET_VIEWER",
+    "actionid": 2958,
+    "actioncode": "",
+    "tenantId": "dl"
   }
  ]
 }
