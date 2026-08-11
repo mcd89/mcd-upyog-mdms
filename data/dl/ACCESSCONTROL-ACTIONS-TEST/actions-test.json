@@ -20117,7 +20117,7 @@
 	{
       "id": 2959,
       "name": "Add Consolidated Budget",
-      "navigationURL": "services/EGF/addBudget/addNew",
+      "navigationURL": "services/EGF/addBudget/addNewConsolidatedBudget",
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Add Consolidated Budget",
