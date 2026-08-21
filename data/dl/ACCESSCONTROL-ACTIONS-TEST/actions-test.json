@@ -20127,6 +20127,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Budget and Controls.Add Consolidated Budget"
+    },
+    {
+      "id": 2960,
+      "name": "Monthlybudget_master",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "monthly Budget",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Report Generation.Budget Reports.monthly Budget",
+      "navigationURL": "services/EGF/budget/budgetReport-monthlyBudget.action",
+      "leftIcon": "editor:insert-chart"
     }
   ]
 }
