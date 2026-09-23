@@ -31918,6 +31918,42 @@
       "actionid": 2961,
       "actioncode": "",
       "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2962,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 2962,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2963,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 2963,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2964,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 2964,
+    "actioncode": "",
+    "tenantId": "dl"
   }
  ]
 }
