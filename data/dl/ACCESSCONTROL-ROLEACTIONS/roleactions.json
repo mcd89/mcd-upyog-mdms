@@ -31926,7 +31926,7 @@
     "tenantId": "dl"
   },
   {
-    "rolecode": "BUDGET_VIEWER",
+    "rolecode": "EMPLOYEE",
     "actionid": 2962,
     "actioncode": "",
     "tenantId": "dl"
@@ -31938,7 +31938,7 @@
     "tenantId": "dl"
   },
   {
-    "rolecode": "BUDGET_VIEWER",
+    "rolecode": "EMPLOYEE",
     "actionid": 2963,
     "actioncode": "",
     "tenantId": "dl"
@@ -31950,7 +31950,7 @@
     "tenantId": "dl"
   },
   {
-    "rolecode": "BUDGET_VIEWER",
+    "rolecode": "EMPLOYEE",
     "actionid": 2964,
     "actioncode": "",
     "tenantId": "dl"
