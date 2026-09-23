@@ -2935,6 +2935,66 @@
     "debitGL": "45020081",
     "creditGL": "45020081",
     "active": true
+  },
+  {
+    "serviceCode": "PTR_M",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "bank",
+    "componentCode": "PTRMCC01",
+    "debitGL": "45020086",
+    "creditGL": "45020086",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_M",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "currentDemand",
+    "componentCode": "PTRMCC02",
+    "debitGL": "4311002",
+    "creditGL": "4311002",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_M",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "latePenality",
+    "componentCode": "PTRMCC03",
+    "debitGL": "1100108",
+    "creditGL": "1100108",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_M",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "educationCess",
+    "componentCode": "PTRMCC04",
+    "debitGL": "1105201",
+    "creditGL": "1105201",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_M",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "userCharge",
+    "componentCode": "PTRMCC05",
+    "debitGL": "1405024",
+    "creditGL": "1405024",
+    "active": true
+  },
+  {
+    "serviceCode": "PTR_M",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "onlineRebate",
+    "componentCode": "PTRMCC06",
+    "debitGL": "2408001",
+    "creditGL": "2408001",
+    "active": true
   }
  ]
 }
