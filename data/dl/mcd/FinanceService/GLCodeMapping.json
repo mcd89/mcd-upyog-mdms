@@ -2937,6 +2937,16 @@
     "active": true
   },
   {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "amount",
+    "componentCode": "OBPASCC44",
+    "debitGL": "1401205",
+    "creditGL": "1401205",
+    "active": true
+  },
+  {
       "serviceCode": "PTR_M",
       "propertyCategory": "*",
       "taxPeriod": "*",
