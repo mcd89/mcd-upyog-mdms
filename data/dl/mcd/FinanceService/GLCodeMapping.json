@@ -2947,6 +2947,16 @@
     "active": true
   },
   {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "sanctionWithinPermissibleLimit",
+    "componentCode": "OBPASCC45",
+    "debitGL": "1401205",
+    "creditGL": "1401205",
+    "active": true
+  },
+  {
       "serviceCode": "PTR_M",
       "propertyCategory": "*",
       "taxPeriod": "*",
