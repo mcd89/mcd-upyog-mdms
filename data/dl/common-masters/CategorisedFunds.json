@@ -1,5 +1,8 @@
-{
-    "Non-plan": [
+{   
+    "tenantId": "dl",
+    "moduleName": "common-masters",
+    "CategorisedFunds":{
+          "Non-plan": [
         {
             "Name": "General Fund",
             "Code": 5001,
@@ -696,4 +699,5 @@
             "Active": null
         }
     ]
+  }
 }
