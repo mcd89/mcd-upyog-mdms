@@ -77,7 +77,7 @@
         {
             "Name": "Spl Grant for Pollution Control XL-V-B",
             "Code": 6104,
-            "Identifier": NaN,
+            "Identifier": null,
             "Level": 1,
             "Parent Fund": "DFC Devolution UD Sector",
             "Isnotleaf": null,
