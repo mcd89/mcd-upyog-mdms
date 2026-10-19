@@ -20191,6 +20191,20 @@
       "serviceCode": "revenue-ingestion",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2965,
+      "name": "ECBC/DDO Dashboard",
+      "navigationURL": "services/EGF/ecbc-dashboard",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "ECBC/DDO Dashboard",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.ECBC/DDO Dashboard"
     }
   ]
 }
