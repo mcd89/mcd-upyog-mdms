@@ -19747,7 +19747,7 @@
       "parentModule": "EGF",
       "displayName": "Pending for Voucher Creation",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Finance",
       "code": "null",
       "leftIcon": "editor:insert-chart",
