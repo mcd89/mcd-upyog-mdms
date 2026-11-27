@@ -1,0 +1,71 @@
+{
+  "tenantId": "dl.mcd",
+  "moduleName": "FinanceModule",
+  "ZoneCodeMapping": [
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "HQ",
+      "serviceZoneCode": "MCD HQ"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "SNZ",
+      "serviceZoneCode": "SHAHDARA NORTH"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "SSZ",
+      "serviceZoneCode": "SHAHDARA SOUTH"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "CSP",
+      "serviceZoneCode": "CITY SP"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "CLZ",
+      "serviceZoneCode": "CIVILLINE"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "KBZ",
+      "serviceZoneCode": "KAROLBAGH"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "KPZ",
+      "serviceZoneCode": "KESHAV PURAM"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "NZ",
+      "serviceZoneCode": "NARELA"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "RZ",
+      "serviceZoneCode": "ROHINI"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "NFZ",
+      "serviceZoneCode": "NAJAFGARH"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "CNZ",
+      "serviceZoneCode": "CENTRAL"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "WZ",
+      "serviceZoneCode": "WEST"
+    },
+    {
+      "serviceCode": "G8",
+      "financeZoneCode": "SZ",
+      "serviceZoneCode": "SOUTH"
+    }
+  ]
+}
